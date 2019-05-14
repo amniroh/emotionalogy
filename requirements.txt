@@ -1,1 +1,8 @@
 hazm
+GoogleFreeTrans
+translation
+py-translate
+google-cloud-translate
+oauth2
+pycurl
+twython

@@ -1,0 +1,4438 @@
+همسر: {'positive', 'joy', 'trust'}
+رها کردن: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+رها شده: {'sadness', 'anger', 'negative', 'fear'}
+به آن: {'positive'}
+عبادت: {'fear', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+آدم ربایی: {'sadness', 'surprise', 'negative', 'fear'}
+بی عیب و نقص: {'anger', 'positive', 'negative', 'sadness', 'trust'}
+انحراف: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'disgust', 'negative', 'sadness'}
+خجالت بکش: {'disgust', 'anger', 'negative', 'fear'}
+غم انگیز: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+توانایی: {'positive'}
+شگفت انگیز: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+غیر طبیعی: {'disgust', 'surprise', 'negative', 'fear'}
+لغو: {'sadness', 'anger', 'negative'}
+خجالت آور: {'disgust', 'negative', 'sadness', 'fear'}
+بی حوصلگی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سقط جنین: {'disgust', 'negative', 'sadness', 'fear'}
+ذکر شده در بالا: {'positive'}
+سایش: {'negative'}
+لغو کردن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ناگهان: {'surprise'}
+آبسه: {'sadness', 'negative'}
+غیبت: {'sadness', 'negative', 'fear'}
+غایب: {'sadness', 'negative'}
+مطلق: {'positive'}
+عزت نفس: {'anger', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+جذب شده: {'positive'}
+چرند: {'negative'}
+پوچ بودن: {'negative'}
+فراوانی: {'anticipation', 'positive', 'joy', 'disgust', 'negative', 'trust'}
+فراوان: {'positive', 'joy'}
+سو استفاده کردن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ترسناک: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness'}
+پرتگاه: {'sadness', 'negative', 'fear'}
+علمی: {'positive', 'trust'}
+آکادمی: {'positive'}
+سرعت بخشیدن: {'anticipation'}
+قابل قبول است: {'positive'}
+پذیرش: {'positive'}
+در دسترس: {'positive'}
+تصادف: {'sadness', 'surprise', 'negative', 'fear'}
+تصادفی: {'surprise', 'negative', 'fear'}
+به طور تصادفی: {'surprise'}
+تقدیر می کنم: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+محل اقامت: {'positive'}
+همراهی: {'positive', 'joy', 'trust', 'anticipation'}
+انجام دادن: {'positive', 'joy'}
+انجام شده است: {'positive', 'joy'}
+دستاورد: {'positive', 'joy', 'trust', 'anticipation'}
+توافق: {'positive', 'trust'}
+حساب: {'trust'}
+مسئوليت: {'positive', 'trust'}
+پاسخگو: {'positive', 'trust', 'anticipation'}
+حسابدار: {'trust'}
+حساب ها: {'trust'}
+معتبر: {'positive', 'joy', 'trust'}
+خوش آمد: {'positive'}
+دقیق: {'positive', 'trust', 'negative'}
+نفرین شده: {'sadness', 'anger', 'negative', 'fear'}
+اتهام: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متهم: {'anger', 'negative', 'fear'}
+آقا: {'positive', 'trust'}
+درد: {'sadness', 'disgust', 'negative', 'fear'}
+رسیدن: {'positive', 'joy', 'trust', 'anticipation'}
+اسید: {'negative'}
+تصدیق: {'positive'}
+به دست آوردن: {'positive'}
+دستیابی به: {'positive', 'anticipation'}
+آکروبات: {'positive', 'joy', 'trust', 'fear'}
+عمل: {'positive', 'trust', 'fear'}
+عملی است: {'disgust', 'anger', 'negative'}
+واقعی: {'positive', 'trust'}
+شدت: {'positive'}
+تیزفهمی: {'positive'}
+انطباق: {'positive', 'trust'}
+سازگار: {'positive'}
+کامیون: {'anger', 'fear', 'disgust', 'negative', 'sadness', 'trust'}
+اعتیاد: {'negative'}
+آدرس: {'positive', 'anticipation'}
+متخصص: {'positive', 'trust'}
+کفایت: {'positive'}
+پیوستن: {'positive', 'trust'}
+چربی: {'disgust', 'negative', 'sadness'}
+محاکمه: {'negative', 'fear'}
+adjunct: {'positive'}
+اداری: {'trust'}
+قابل تحسین: {'positive', 'joy', 'trust'}
+دریاسالار: {'positive', 'trust'}
+تحسین: {'positive', 'joy', 'trust'}
+حظ کردن: {'positive'}
+قابل قبول: {'positive', 'trust'}
+احتیاط: {'anger', 'fear', 'anticipation', 'positive', 'negative'}
+شایان ستایش: {'positive', 'joy'}
+آداب معاشرت: {'positive', 'joy', 'trust'}
+عشق: {'anticipation', 'positive', 'joy', 'negative', 'trust'}
+مرده: {'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+تقلبی: {'negative'}
+زنائی: {'disgust', 'negative', 'sadness'}
+پیشرفت: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+پیشرفته: {'positive'}
+مزیت: {'positive'}
+با صرفه: {'positive'}
+ظهور: {'positive', 'joy', 'trust', 'anticipation'}
+ماجرا: {'positive', 'anticipation'}
+پرماجرا: {'positive'}
+دشمن: {'disgust', 'anger', 'negative', 'fear'}
+منفی است: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بدبختی: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'disgust', 'negative', 'sadness'}
+مشاوره: {'positive', 'trust'}
+قابل توصیه: {'positive', 'trust'}
+توصیه: {'positive', 'trust'}
+توصیه می شود: {'trust'}
+مشاور: {'anger', 'fear', 'positive', 'negative', 'trust'}
+دفاع، طرفداری: {'anger', 'anticipation', 'positive', 'joy', 'trust'}
+مدافع: {'anger', 'fear', 'positive', 'sadness', 'trust'}
+زیبایی شناسی: {'positive', 'joy'}
+قابل اعتماد: {'positive', 'trust'}
+محبت: {'anger', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+وابسته: {'positive', 'trust'}
+تأیید کنید: {'positive', 'trust'}
+تأیید: {'positive', 'trust'}
+مثبت: {'positive'}
+مثبت است: {'positive', 'trust'}
+مصیبت: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+آسیب دیده: {'sadness', 'negative'}
+ثروت: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+استطاعت داشتن: {'positive'}
+اعتراض: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ترسیدن: {'sadness', 'surprise', 'negative', 'fear'}
+پس از آن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بعد از غذا: {'negative'}
+اما: {'positive', 'trust', 'fear'}
+تشدید می شود: {'anger', 'negative'}
+تشدید: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تجاوز: {'anger', 'fear', 'anticipation', 'positive', 'joy', 'negative'}
+خشونت آمیز: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متجاوز: {'anger', 'negative', 'fear'}
+عصبانی: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'disgust', 'joy', 'negative'}
+چابک: {'positive'}
+چابکی: {'positive'}
+آشفته: {'sadness', 'anger', 'negative', 'fear'}
+تحریک: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness'}
+آکنه: {'sadness', 'anger', 'negative', 'fear'}
+موافق: {'positive', 'trust'}
+دوست داشتنی: {'positive', 'joy', 'trust', 'anticipation'}
+توافق کردند: {'positive', 'trust'}
+موافقم: {'positive', 'trust'}
+کشاورزی: {'positive'}
+در اطراف: {'negative'}
+در پیش: {'positive'}
+کمک: {'positive'}
+کمک کردن: {'positive'}
+دوم: {'sadness', 'negative'}
+بیمار: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی هدف: {'negative'}
+فرودگاه: {'anticipation'}
+هوا: {'disgust', 'negative'}
+من: {'trust'}
+آلاباستر: {'positive'}
+زنگ خطر: {'surprise', 'negative', 'fear'}
+هشدار دهنده: {'surprise', 'negative', 'fear'}
+سفید: {'positive', 'joy', 'trust', 'anticipation'}
+مشروبات الکلی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+هوشیاری: {'surprise', 'fear', 'anticipation', 'positive', 'trust'}
+هشدار: {'surprise', 'fear', 'anticipation'}
+بیگانه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بیگانگی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ذخیره: {'positive'}
+نفقه: {'negative'}
+زنده است: {'positive', 'joy', 'trust', 'anticipation'}
+کم کردن: {'positive'}
+ادعا: {'anger', 'negative'}
+مدعی: {'negative'}
+وفاداری: {'positive', 'joy', 'trust'}
+تند و باروح: {'positive'}
+تسکین: {'positive'}
+اتحاد: {'trust'}
+متفقین: {'positive', 'trust'}
+مجاز است: {'positive', 'negative'}
+جذابیت: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'negative'}
+جذاب: {'positive', 'joy', 'trust', 'negative'}
+متحد: {'positive', 'trust'}
+خداوند متعال: {'positive'}
+aloha: {'positive', 'joy', 'anticipation'}
+دور: {'negative'}
+جهش: {'sadness', 'anger', 'negative', 'fear'}
+تعجب: {'surprise', 'anger', 'fear', 'positive', 'joy', 'negative'}
+شگفت آور: {'surprise', 'anticipation', 'positive', 'joy', 'negative'}
+سفیر: {'positive', 'trust'}
+مبهم: {'negative'}
+هدف - آرزو: {'positive', 'joy', 'trust', 'anticipation'}
+آمبولانس: {'trust', 'fear'}
+کمین: {'surprise', 'anger', 'negative', 'fear'}
+بهبود یافتن: {'positive'}
+آمین: {'positive', 'joy', 'trust'}
+قابلیت: {'positive'}
+اصلاح: {'positive', 'joy', 'trust', 'anticipation'}
+اصلاح می کند: {'positive'}
+لذت: {'positive', 'joy', 'anticipation'}
+دوستانه: {'positive', 'joy', 'trust'}
+آمونیاک: {'disgust'}
+فراموشی: {'anger', 'negative', 'fear'}
+عفو: {'positive', 'joy'}
+استهلاک: {'trust', 'negative', 'fear'}
+آمفتامین: {'disgust', 'negative'}
+سرگرمی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+سرگرم کننده: {'positive', 'joy', 'anticipation'}
+تفریحی: {'positive', 'joy', 'anticipation'}
+anaconda: {'disgust', 'negative', 'fear'}
+مقعد: {'negative'}
+تحلیلگر: {'positive', 'trust', 'anticipation'}
+آنارشیسم: {'anger', 'negative', 'fear'}
+هرج و مرج طلب: {'anger', 'negative', 'fear'}
+هرج و مرج: {'anger', 'negative', 'fear'}
+anathema: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+اجداد: {'trust'}
+لنگر: {'positive'}
+لنگرگاه: {'positive', 'sadness'}
+باستانی: {'negative'}
+فرشته: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+فرشته ای: {'positive', 'joy', 'trust'}
+خشم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+آنژین: {'negative', 'fear'}
+ماهیگیری: {'negative', 'anticipation'}
+خشمگین: {'disgust', 'anger', 'negative'}
+غم و اندوه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متحرک: {'positive', 'joy'}
+خصومت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+قلب: {'anger', 'negative'}
+نابود کردن: {'sadness', 'anger', 'negative', 'fear'}
+نابود شد: {'sadness', 'anger', 'negative', 'fear'}
+نابودی: {'sadness', 'anger', 'negative', 'fear'}
+اطلاعیه: {'anticipation'}
+آزار دهنده: {'anger', 'anticipation', 'positive', 'joy', 'disgust', 'negative'}
+ناراحتی: {'disgust', 'anger', 'negative', 'sadness'}
+مزاحم: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+حل کن: {'negative'}
+ناهنجاری: {'surprise', 'negative', 'fear'}
+ناشناس: {'fear', 'negative', 'anticipation'}
+مسئولیت پذیر است: {'trust'}
+آنتاگونیسم: {'anger', 'negative'}
+آنتاگونیست: {'disgust', 'anger', 'negative'}
+سم زدایی: {'disgust', 'negative', 'sadness', 'fear'}
+آنتی بیوتیک ها: {'positive'}
+ضد مسیح: {'disgust', 'anger', 'negative', 'fear'}
+پیش بینی: {'surprise', 'fear', 'anticipation', 'positive', 'trust'}
+پیش بینی شده: {'positive', 'fear', 'negative', 'anticipation'}
+پادزهر: {'positive', 'trust', 'anticipation'}
+ضد قارچ: {'positive', 'trust'}
+انزجار: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+قدیم: {'negative'}
+عتیقه: {'positive'}
+ضد عفونی کننده: {'positive', 'trust'}
+ضد اجتماعی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ضد آن: {'anger', 'negative'}
+اضطراب: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+مشتاق: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+آپاچی: {'negative', 'fear'}
+بی تفاوت: {'sadness', 'negative'}
+بی تفاوتی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+شسته شدن: {'disgust', 'negative'}
+تعادل: {'positive'}
+عذر خواهی: {'positive', 'trust'}
+عذر خواهی کردن: {'positive', 'sadness', 'trust'}
+معذرت خواهی: {'positive'}
+رسول: {'positive', 'trust'}
+رسول خدا: {'trust'}
+مخوف: {'disgust', 'negative', 'sadness', 'fear'}
+ظاهر: {'surprise', 'fear'}
+درخواست: {'fear', 'anticipation', 'negative', 'sadness', 'trust'}
+آپاندیس: {'sadness', 'negative', 'fear'}
+تشویق و تمجید: {'positive', 'joy', 'surprise', 'trust'}
+درخواست کننده: {'anticipation'}
+قدردانی: {'positive', 'joy', 'trust'}
+دستگیره: {'fear'}
+نگران کننده است: {'fear', 'negative', 'anticipation'}
+شاگرد: {'trust'}
+نزدیک شدن: {'anticipation'}
+تصویب: {'positive', 'trust'}
+تخصیص: {'negative'}
+تایید: {'positive', 'joy', 'trust'}
+مناسب: {'positive', 'joy', 'trust', 'anticipation'}
+صلاحیت: {'positive', 'trust'}
+داور: {'positive', 'trust'}
+داوری: {'surprise', 'anticipation'}
+باستان شناسی: {'positive', 'anticipation'}
+بایگانی: {'negative'}
+معماری: {'trust'}
+اشتیاق: {'surprise', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+دشوار: {'negative', 'fear'}
+جر و بحث: {'anger', 'negative'}
+بحث و جدل: {'anger', 'negative'}
+استدلال: {'positive', 'anger', 'negative'}
+خشک شده: {'sadness', 'disgust', 'negative'}
+اشراف: {'positive', 'trust', 'anticipation'}
+اشرافی: {'positive'}
+تسلیحات: {'anger', 'fear'}
+اسلحه: {'anger', 'trust', 'negative', 'fear'}
+مسلح: {'positive', 'anger', 'negative', 'fear'}
+زره پوش: {'positive', 'trust', 'fear'}
+عطر: {'positive'}
+موجب می شود: {'positive', 'anticipation'}
+اظهارنظر: {'anger', 'fear', 'positive', 'negative', 'sadness'}
+آرایه: {'positive'}
+عقب افتادگی: {'sadness', 'negative'}
+دستگیری: {'negative'}
+ورود: {'anticipation'}
+غرور: {'positive', 'joy', 'negative'}
+متکبر: {'disgust', 'anger', 'negative'}
+آرسنیک: {'disgust', 'negative', 'sadness', 'fear'}
+آتش سوزی: {'surprise', 'anger', 'fear', 'positive', 'negative', 'sadness'}
+هنر: {'surprise', 'anticipation', 'positive', 'joy', 'sadness'}
+بیان: {'positive'}
+تفسیر: {'positive', 'negative'}
+توپخانه: {'negative', 'fear'}
+صنعتگر: {'positive'}
+هنرمند: {'positive'}
+هنری: {'positive'}
+بالاخره: {'positive'}
+صعود: {'positive'}
+خاکستر: {'sadness', 'negative'}
+شرمنده: {'positive', 'disgust', 'negative', 'sadness'}
+آسپ: {'fear'}
+تنفس: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+آرزو می کنم: {'positive', 'joy', 'anticipation'}
+الاغ: {'negative'}
+تکان دادن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مهاجم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+قاتل: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ترور: {'sadness', 'anger', 'negative', 'fear'}
+حمله: {'surprise', 'anger', 'negative', 'fear'}
+مونتاژ: {'positive', 'trust'}
+موافقت: {'positive'}
+ادعا می کند: {'positive', 'trust'}
+ارزیابی: {'surprise', 'trust'}
+ارزیابی کننده: {'trust'}
+دارایی های: {'positive'}
+احمق: {'disgust', 'anger', 'negative'}
+وفادار: {'surprise', 'fear', 'positive', 'joy', 'trust'}
+کمک کن: {'positive', 'trust'}
+معاونت: {'positive'}
+اتحادیه: {'trust'}
+تساوی: {'positive'}
+بیمه: {'positive', 'trust'}
+اطمینان دادن: {'trust'}
+خاطر جمع: {'positive', 'trust'}
+مطمئنا: {'trust'}
+حیرت انگیز: {'positive', 'joy', 'surprise'}
+گمراه: {'negative', 'fear'}
+رطوبت: {'positive', 'negative'}
+طالع بینی: {'positive', 'anticipation'}
+فضانورد: {'positive'}
+ستاره شناس: {'positive', 'anticipation'}
+پناهندگی: {'negative', 'fear'}
+عدم تقارن: {'disgust'}
+آترواسکلروز: {'sadness', 'negative', 'fear'}
+ورزشکار: {'positive'}
+ورزشی: {'positive'}
+اتم: {'positive'}
+اتمام: {'positive', 'joy', 'trust', 'anticipation'}
+تمجید: {'positive'}
+وحشیانه: {'disgust', 'anger', 'negative', 'fear'}
+جنایت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+آتروفی: {'disgust', 'negative', 'sadness', 'fear'}
+ضمیمه: {'positive'}
+هجوم بردن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+قابل دستیابی است: {'positive', 'joy', 'anticipation'}
+حصول: {'positive'}
+تلاش کنید: {'anticipation'}
+حضور: {'positive', 'anticipation'}
+در ضمن: {'positive', 'trust'}
+توجه: {'positive', 'joy', 'trust', 'anticipation'}
+توجه کن: {'positive', 'trust'}
+تضعیف شده: {'negative'}
+تضعیفی: {'sadness', 'negative'}
+شهادت: {'fear', 'positive', 'negative', 'sadness', 'trust'}
+گواهی: {'trust'}
+وکیل: {'anger', 'fear', 'positive', 'disgust', 'negative', 'trust'}
+جاذبه: {'positive', 'negative'}
+حراج: {'positive', 'trust', 'anticipation'}
+حضار: {'anticipation'}
+ممیز، مامور رسیدگی: {'trust', 'fear'}
+تقویت کردن: {'positive'}
+ماه اوت: {'positive'}
+عمه: {'positive', 'trust'}
+رایحه: {'positive'}
+خوشحالی: {'positive', 'joy', 'anticipation'}
+طوفان: {'surprise', 'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+ریاضت: {'negative'}
+تصدیق کردن: {'trust'}
+احراز هویت: {'trust'}
+اعتبار: {'positive', 'joy', 'trust', 'fear'}
+نویسنده: {'positive', 'trust'}
+قدرت: {'positive', 'trust'}
+مجوز: {'positive', 'trust'}
+مجاز بودن: {'trust'}
+خودکامه: {'negative'}
+اتوماتیک: {'trust'}
+کالبد شکافی: {'disgust', 'negative', 'sadness', 'fear'}
+بهمن: {'sadness', 'surprise', 'negative', 'fear'}
+جسارت: {'anger', 'positive', 'disgust', 'negative', 'sadness'}
+آواتار: {'positive'}
+انتقام گیر: {'anger', 'negative'}
+مخالف: {'disgust', 'anger', 'negative', 'fear'}
+ناامیدی: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+اجتناب کردن: {'negative', 'fear'}
+اجتناب: {'negative', 'fear'}
+پرهیز کردن: {'fear'}
+در انتظار: {'anticipation'}
+جایزه: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+خیلی بد و ناخوشایند: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+اشتباه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+چطوری: {'negative'}
+axiom: {'trust'}
+معنی دار: {'trust'}
+است: {'positive', 'disgust'}
+آه: {'positive'}
+لگد زدن: {'anger', 'negative'}
+لعنتی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بابون: {'disgust', 'negative'}
+عزیزم: {'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+پرستار بچه: {'trust'}
+مدرک لیسانس: {'positive'}
+ستون فقرات: {'positive', 'anger', 'negative', 'trust'}
+پشتیبان: {'trust'}
+رو به عقب: {'negative'}
+عقب: {'disgust', 'negative'}
+پشت بام: {'sadness', 'negative'}
+باکتری ها: {'disgust', 'negative', 'sadness', 'fear'}
+باکتری: {'disgust', 'negative', 'fear'}
+بد: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+نشان: {'trust'}
+گرگ: {'anger', 'negative'}
+بدی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ناظران: {'trust', 'negative', 'fear'}
+طعمه: {'trust', 'negative', 'fear'}
+متعادل کننده: {'positive'}
+بیل: {'negative', 'fear'}
+پرتو: {'positive', 'joy', 'negative'}
+شعار: {'positive'}
+باله: {'positive'}
+رای گیری: {'positive', 'trust', 'anticipation'}
+مومیایی کردن: {'positive', 'joy', 'negative', 'anticipation'}
+ممنوعیت: {'negative'}
+راهزن: {'negative'}
+بانی: {'disgust', 'anger', 'negative', 'fear'}
+انفجار: {'surprise', 'anger', 'fear', 'positive', 'disgust', 'joy', 'negative', 'sadness'}
+بادی: {'surprise', 'anger', 'fear', 'anticipation', 'negative'}
+تبعید کردن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تبعید شد: {'sadness', 'anger', 'negative', 'fear'}
+تبعید: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بانک: {'trust'}
+بانکدار: {'trust'}
+ورشکسته: {'sadness', 'trust', 'negative', 'fear'}
+ورشکستگی: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ضیافت: {'positive', 'joy', 'anticipation'}
+banshee: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+غسل تعمید: {'positive', 'joy'}
+خرچنگ: {'sadness', 'anger', 'negative', 'fear'}
+وحشی: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بربریت: {'negative'}
+باردار: {'positive'}
+برف: {'disgust'}
+چانه زدن: {'positive', 'trust'}
+پارس سگ: {'anger', 'negative'}
+ممنوع: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی حوصله: {'fear', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+باربری: {'negative', 'fear'}
+مانع: {'sadness', 'anger', 'negative', 'fear'}
+بارو: {'disgust'}
+متصدی بار: {'trust'}
+تبعیض: {'anger', 'fear', 'disgust', 'negative', 'sadness', 'trust'}
+پایه: {'positive', 'trust'}
+بی اساس است: {'negative'}
+بسکتبال: {'positive', 'joy', 'anger', 'anticipation'}
+حرامزاده: {'disgust', 'negative', 'sadness'}
+حمام: {'positive'}
+گردان: {'anger'}
+خمیر: {'anger', 'negative', 'fear'}
+ضرب و شتم: {'positive', 'sadness', 'negative', 'fear'}
+باتری: {'anger', 'negative'}
+نبرد: {'anger', 'negative'}
+جنگید: {'sadness', 'anger', 'negative', 'fear'}
+میدان جنگ: {'negative', 'fear'}
+بی رحم: {'anger', 'fear', 'disgust', 'negative', 'trust'}
+سرنیزه: {'anger', 'negative', 'fear'}
+ساحل دریا: {'joy'}
+درخشش: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'negative'}
+خرس: {'anger', 'fear'}
+حامل: {'negative'}
+نزولی: {'anger', 'fear'}
+حیوانات: {'anger', 'negative', 'fear'}
+خنده دار: {'surprise', 'anger', 'fear', 'positive', 'joy', 'disgust', 'negative', 'sadness'}
+كتك زدن: {'sadness', 'anger', 'negative', 'fear'}
+زیبایی: {'positive', 'joy', 'trust'}
+خوشگل: {'positive', 'joy'}
+بستر: {'positive', 'trust', 'negative'}
+زنبور عسل: {'anger', 'fear'}
+آبجو: {'surprise', 'fear', 'positive', 'joy', 'negative', 'sadness'}
+برخورد: {'anger', 'negative'}
+دوست شدن: {'positive', 'joy', 'trust'}
+ببخشید: {'anger', 'positive', 'joy', 'negative', 'sadness'}
+گول زدن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+التماس کردن: {'negative'}
+شروع شد: {'anticipation'}
+بی پروا: {'anger', 'fear', 'positive', 'negative', 'sadness', 'trust'}
+حتما: {'negative'}
+عقب افتاده: {'negative'}
+معتقد: {'trust'}
+مؤمن: {'trust'}
+باور کردن: {'positive', 'trust'}
+محکوم کردن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خصمانه: {'anger', 'negative', 'fear'}
+سیلندر: {'anger'}
+کمربند: {'anger', 'negative', 'fear'}
+خم شدن: {'surprise', 'anger', 'fear', 'positive', 'negative', 'sadness'}
+خیرخواه: {'positive', 'trust'}
+مفید: {'positive'}
+سود: {'positive', 'disgust', 'negative', 'fear'}
+خیرخواهی: {'positive', 'joy', 'trust'}
+خوش خیم: {'positive', 'joy'}
+از دست رفته: {'sadness', 'negative'}
+برسکر: {'anger', 'negative'}
+اسکله: {'positive'}
+جانوری: {'disgust', 'negative', 'fear'}
+خیانت: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متعهد: {'fear', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+بهبود: {'positive', 'joy', 'trust'}
+نوشیدنی: {'positive', 'negative'}
+برحذر بودن: {'fear', 'negative', 'anticipation'}
+سردرگم: {'surprise', 'negative', 'fear'}
+سردرگمی: {'surprise', 'negative', 'fear'}
+تعصب: {'anger', 'negative', 'fear'}
+جانبدارانه: {'negative'}
+کتاب مقدس: {'positive', 'trust'}
+دوسالانه: {'anticipation'}
+متعصب: {'disgust', 'anger', 'negative', 'fear'}
+فانتزی: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'disgust', 'joy', 'negative', 'sadness'}
+حتی: {'disgust', 'anger', 'negative'}
+دو زبانه: {'positive'}
+بیوپسی: {'negative', 'fear'}
+توس: {'disgust', 'anger', 'negative', 'fear'}
+تولد: {'fear', 'anticipation', 'positive', 'joy', 'trust'}
+روز تولد: {'positive', 'joy', 'surprise', 'anticipation'}
+زادگاه: {'anger', 'negative'}
+عوضی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+گاز گرفتن: {'negative', 'fear'}
+تلخ: {'disgust', 'anger', 'negative', 'sadness'}
+تلخی: {'disgust', 'anger', 'negative', 'sadness'}
+عجیب و غریب: {'surprise', 'fear', 'positive', 'disgust', 'joy', 'negative', 'sadness', 'trust'}
+سیاه و سفید: {'sadness', 'negative'}
+حیاط خلوت: {'negative'}
+تهمت زدن: {'anger', 'negative', 'fear'}
+سیاه بودن: {'sadness', 'negative', 'fear'}
+سرزنش: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی قید و شرط: {'positive'}
+در میان: {'negative'}
+پتو: {'trust'}
+کفرآمیز: {'disgust', 'anger', 'negative'}
+خشونت: {'sadness', 'anger', 'negative', 'fear'}
+آزاردهنده: {'disgust', 'anger', 'negative'}
+پودر: {'negative'}
+سوزش: {'surprise', 'anger', 'fear', 'disgust', 'negative'}
+دلتنگ: {'sadness', 'negative'}
+خون ریزی: {'disgust', 'negative', 'sadness', 'fear'}
+پستاندار: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+برکت دهد: {'positive', 'joy', 'trust', 'anticipation'}
+مبارک: {'positive', 'joy'}
+برکت: {'positive', 'joy', 'trust', 'anticipation'}
+نعمت ها: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+ضعف: {'disgust', 'negative', 'sadness', 'fear'}
+مرطوب: {'positive', 'disgust', 'negative', 'sadness'}
+کور: {'negative'}
+چشم بسته: {'surprise', 'fear', 'anticipation'}
+کورکورانه: {'sadness', 'negative'}
+کوری: {'sadness', 'negative'}
+سعادت: {'positive', 'joy'}
+سعادتمند: {'positive', 'joy'}
+تاول: {'disgust', 'negative'}
+رعد و برق: {'surprise', 'anger', 'negative', 'fear'}
+پف کرده: {'disgust', 'negative'}
+لکه: {'disgust', 'negative', 'fear'}
+محاصره: {'sadness', 'anger', 'negative', 'fear'}
+خونسردی: {'positive'}
+خونریزی: {'surprise', 'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+خون آشام: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+شکوفه: {'positive', 'joy', 'trust', 'anticipation'}
+فقط: {'negative'}
+دمنده: {'negative'}
+آبی: {'sadness'}
+بلوز: {'sadness', 'negative', 'fear'}
+بلافاصله: {'positive', 'surprise', 'negative', 'anticipation'}
+اشتباه بزرگ: {'disgust', 'negative', 'sadness'}
+تاریک: {'sadness', 'negative', 'fear'}
+تار شده: {'negative'}
+سرخ شدن: {'anger', 'negative', 'fear'}
+هیئت مدیره: {'negative', 'anticipation'}
+به رخ کشیدن: {'positive', 'negative'}
+فخر فروشی: {'negative'}
+محافظ شخصی: {'positive', 'trust'}
+کتاب: {'negative'}
+جعلی: {'disgust', 'anger', 'negative'}
+جوشیدن: {'disgust', 'negative'}
+boilerplate: {'negative'}
+شجاعانه: {'anger', 'anticipation', 'positive', 'joy', 'negative'}
+جسورانه: {'positive'}
+بمب: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+بمبارد: {'anger', 'negative', 'fear'}
+بمباران: {'anger', 'negative', 'fear'}
+بمب گذاری شده: {'disgust', 'negative'}
+بمب افکن: {'sadness', 'fear'}
+خنثی کردن: {'positive', 'joy'}
+اسارت: {'sadness', 'negative', 'fear'}
+اوراق قرضه: {'negative'}
+خوب: {'surprise', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+بگو: {'negative'}
+جادوگر: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'disgust', 'negative', 'sadness'}
+bookish: {'positive'}
+کتابفروشی: {'positive', 'negative'}
+بومرنگ: {'trust', 'anticipation'}
+مشروب الکلی: {'negative'}
+خب: {'negative'}
+خستگی: {'anger', 'fear', 'anticipation', 'positive', 'disgust', 'joy', 'negative', 'sadness', 'trust'}
+حوصله سر بر: {'negative'}
+وام گیرنده: {'negative'}
+زحمت: {'negative'}
+پایین: {'sadness', 'negative'}
+بدون در نظر گرفتن: {'fear'}
+محدود است: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+باشکوه: {'surprise', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+فضل: {'positive', 'joy', 'trust', 'anticipation'}
+دسته گل: {'positive', 'joy', 'trust'}
+پایان: {'anger', 'negative'}
+گاو: {'disgust', 'negative'}
+روده ها: {'disgust'}
+مشت زنی: {'anger'}
+پسر: {'disgust', 'negative'}
+تحریم کردن: {'negative'}
+تسلیم شدن: {'sadness', 'negative', 'fear'}
+مغز: {'positive', 'joy', 'trust'}
+سبوس: {'disgust'}
+براندی: {'negative'}
+bravado: {'negative'}
+شجاعت: {'positive'}
+نزاع: {'disgust', 'anger', 'negative', 'fear'}
+شلخته: {'anger', 'negative'}
+رخنه: {'negative'}
+زنگ تفريح: {'surprise'}
+درهم شکستن: {'negative'}
+صبحانه: {'positive'}
+شکست خورده: {'surprise', 'anticipation', 'positive', 'joy', 'negative', 'sadness'}
+شکسته شدن: {'sadness', 'negative'}
+رشوه: {'negative'}
+رشوه دادن: {'disgust', 'negative'}
+عروسی: {'positive', 'joy', 'trust', 'anticipation'}
+عروس: {'positive', 'joy', 'trust', 'anticipation'}
+عروسک: {'positive', 'joy', 'trust', 'anticipation'}
+ساقدوش عروس: {'positive', 'joy', 'trust'}
+تیپ: {'negative', 'fear'}
+روشن شدن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+روشنایی: {'positive', 'joy', 'surprise', 'trust'}
+درخشان: {'positive', 'joy', 'trust', 'anticipation'}
+سنگ قبر: {'positive', 'anger', 'negative', 'fear'}
+موی سر: {'negative'}
+فضای باز: {'negative', 'anticipation'}
+براش: {'positive'}
+مرغ: {'disgust', 'anger', 'negative', 'fear'}
+شکست: {'sadness', 'disgust', 'negative', 'fear'}
+شکسته شده: {'sadness', 'anger', 'negative', 'fear'}
+روسپی خانه: {'disgust', 'negative'}
+برادر: {'positive', 'trust'}
+برادری: {'positive', 'trust'}
+برادرانه: {'positive', 'joy', 'trust', 'anticipation'}
+کبودی: {'negative', 'anticipation'}
+بزرگی: {'anger', 'negative'}
+وحشیگری: {'anger', 'negative', 'fear'}
+خشن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بک: {'positive', 'surprise', 'negative', 'fear'}
+دوستان: {'positive', 'joy', 'trust', 'anticipation'}
+بودجه: {'trust'}
+بوفه: {'anger', 'negative'}
+حشره: {'disgust', 'negative', 'fear'}
+بوگابو: {'sadness', 'anger', 'negative', 'fear'}
+خرگوش: {'anger', 'fear', 'anticipation', 'positive', 'disgust', 'negative', 'sadness'}
+ساختن: {'positive'}
+ساختمان: {'positive'}
+bulbous: {'negative'}
+بولداگ: {'positive'}
+ضد گلوله: {'positive'}
+گردن کلفت: {'anger', 'negative', 'fear'}
+بدم: {'disgust', 'negative', 'sadness'}
+پناهگاه: {'positive', 'trust', 'fear'}
+بوی: {'positive', 'negative'}
+سنگین: {'sadness', 'negative', 'fear'}
+بوروکراسی: {'trust', 'negative'}
+بوروکرات: {'disgust', 'negative'}
+سرقت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خاکسپاری: {'sadness', 'anger', 'negative', 'fear'}
+دفن شده: {'sadness', 'negative', 'fear'}
+برک: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بورلز: {'surprise'}
+سوختن: {'disgust', 'negative'}
+دوره کارشناسی: {'trust'}
+دفن کردن: {'sadness'}
+اتوبوس: {'positive', 'joy'}
+بطری: {'anger', 'negative', 'fear'}
+قصاب: {'disgust', 'anger', 'negative', 'fear'}
+خدمتکار: {'positive', 'trust'}
+لب به لب: {'negative'}
+کره ای: {'positive'}
+وزوز: {'positive', 'fear', 'negative', 'anticipation'}
+خدا حافظ: {'anticipation'}
+مجازات: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness', 'trust'}
+تاکسی: {'positive'}
+کابال: {'negative', 'fear'}
+کابینه: {'positive', 'trust'}
+کابل: {'surprise'}
+جادوگری: {'surprise', 'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+چی: {'disgust', 'anger', 'negative'}
+جسد: {'surprise', 'fear', 'disgust', 'negative', 'sadness'}
+کافه: {'positive'}
+قفس: {'sadness', 'negative'}
+فاجعه: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+محاسبه: {'disgust', 'negative', 'anticipation'}
+ماشین حساب: {'positive', 'trust'}
+گوساله: {'positive', 'joy', 'trust'}
+خجالتی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تماس ها: {'trust', 'negative', 'anticipation'}
+آرام: {'positive', 'joy'}
+استتار: {'surprise'}
+مخملی: {'positive', 'surprise'}
+مبارزات انتخاباتی: {'anger', 'negative', 'fear'}
+قناری: {'positive'}
+سرطان: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+پرده: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+نامزد: {'positive'}
+آب نبات: {'positive'}
+سگ: {'anger', 'fear'}
+شکنجه: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+قارچ خوراکی: {'disgust', 'negative', 'fear'}
+ادم خواری: {'disgust', 'negative'}
+توپ: {'anger', 'negative', 'fear'}
+کانن ها: {'trust'}
+کلاه: {'anticipation', 'disgust', 'negative', 'sadness', 'trust'}
+سرمایه داری: {'positive'}
+کاپیتان: {'positive'}
+فریب دادن: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+فریبنده: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative'}
+اسیر: {'sadness', 'negative', 'fear'}
+گرفتن: {'surprise', 'anger', 'negative'}
+لاشه: {'disgust', 'negative', 'sadness', 'fear'}
+کارسینوما: {'sadness', 'negative', 'fear'}
+كارديوميوپاتي: {'sadness', 'negative', 'fear'}
+حرفه: {'positive', 'anticipation'}
+مراقب باشید: {'anticipation', 'positive', 'joy', 'negative', 'trust'}
+با دقت: {'positive'}
+سهل انگاری: {'disgust', 'anger', 'negative'}
+نوازش: {'positive'}
+سرپرست: {'anger', 'fear', 'positive', 'negative', 'trust'}
+کاریکاتور: {'negative'}
+پوسیدگی: {'disgust', 'negative'}
+قتل عام: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بدنی: {'negative'}
+گوشتخوار: {'negative', 'fear'}
+کارول: {'positive', 'joy', 'trust'}
+پوستر: {'negative'}
+کارتریج: {'fear'}
+آبشار: {'positive'}
+مورد: {'sadness', 'negative', 'fear'}
+پول نقد: {'anger', 'fear', 'anticipation', 'positive', 'joy', 'trust'}
+صندوقدار: {'trust'}
+گهواره: {'fear', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+کست: {'negative'}
+سانحه، کشته: {'sadness', 'anger', 'negative', 'fear'}
+آب مروارید: {'sadness', 'fear', 'negative', 'anticipation'}
+قطعی: {'positive', 'trust'}
+تهیه کنید: {'positive'}
+کتارتیک: {'positive'}
+کلیسای جامع: {'positive', 'joy', 'trust'}
+کاتتر: {'negative'}
+محتاط: {'positive', 'fear', 'trust', 'anticipation'}
+بااحتیاط، محتاطانه: {'positive', 'fear'}
+بازده: {'negative'}
+جشن گرفت: {'positive', 'joy', 'anticipation'}
+جشن گرفتن: {'positive', 'joy', 'surprise', 'anticipation'}
+جشن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+فرد مشهور: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'trust'}
+آسمانی: {'positive', 'joy', 'trust', 'anticipation'}
+سیمان: {'trust', 'anticipation'}
+قبرستان: {'sadness', 'negative', 'fear'}
+سانسور: {'anger', 'fear', 'disgust', 'negative', 'trust'}
+مرکز: {'positive', 'trust'}
+سنتور: {'positive'}
+مغزی: {'positive'}
+مراسم: {'positive', 'joy', 'surprise'}
+یقین: {'positive'}
+گواهینامه: {'trust'}
+پایان دادن: {'disgust', 'negative'}
+چف: {'anger', 'negative', 'fear'}
+چاق شدن: {'negative'}
+رئيس: {'positive', 'trust'}
+رئیس: {'positive', 'trust'}
+چالش: {'positive', 'anger', 'negative', 'fear'}
+قهرمان: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+شانس: {'positive', 'joy', 'surprise', 'anticipation'}
+صدراعظم: {'trust'}
+تغییر دادن: {'fear'}
+تغییر پذیر: {'positive', 'surprise', 'anticipation'}
+خوانندگی: {'surprise', 'anger', 'anticipation', 'positive', 'joy'}
+آشوب: {'sadness', 'anger', 'negative', 'fear'}
+بی نظم: {'disgust', 'anger', 'negative'}
+چیدمان: {'negative'}
+قابل پرداخت است: {'sadness', 'negative', 'fear'}
+شارژر: {'positive'}
+خیریه: {'positive', 'joy', 'trust', 'anticipation'}
+افسون: {'positive'}
+چارت سازمانی: {'trust'}
+تعقیب: {'negative'}
+شکاف عظیم: {'fear'}
+عفت: {'positive', 'trust', 'anticipation'}
+چرت زدن: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+چت روم: {'negative'}
+ارزان: {'positive', 'negative'}
+تقلب کنید: {'disgust', 'anger', 'negative'}
+چک لیست: {'positive', 'trust'}
+تشویق کردن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+بشاش: {'positive', 'joy', 'surprise'}
+شادابی: {'positive', 'joy', 'trust', 'anticipation'}
+تشویق: {'positive', 'joy'}
+شاد: {'positive', 'joy', 'trust', 'anticipation'}
+پنیر کیک: {'negative'}
+شیمیدان: {'positive', 'trust'}
+گرامی داشتن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+گیلاس: {'positive'}
+کنایه: {'surprise', 'trust', 'negative', 'anticipation'}
+رهبر: {'positive', 'trust'}
+کودک: {'anger', 'anticipation', 'positive', 'joy', 'disgust', 'negative'}
+دوران کودکی: {'positive', 'joy'}
+کودکانه: {'negative'}
+خنک: {'sadness', 'negative'}
+کیمر: {'surprise', 'fear'}
+صدای جیر جیر: {'surprise', 'anger', 'fear', 'positive', 'joy', 'disgust', 'negative', 'sadness'}
+اسکناس: {'positive'}
+دوستی: {'positive', 'joy', 'trust'}
+کلروفرم: {'negative'}
+شکلات: {'positive', 'joy', 'trust', 'anticipation'}
+انتخاب: {'positive'}
+گروه کر: {'positive', 'joy', 'trust'}
+خفه کردن: {'sadness', 'anger', 'negative'}
+وبا: {'disgust', 'negative', 'sadness', 'fear'}
+تکه کردن: {'negative'}
+کورال: {'positive', 'joy'}
+کارهای عادی و روزمره: {'negative'}
+انتخاب شده: {'positive'}
+کلوچه: {'positive', 'disgust', 'negative'}
+مزمن: {'sadness', 'negative'}
+ضبط: {'positive', 'trust'}
+خندیدن: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+کلیسا: {'positive', 'joy', 'trust', 'anticipation'}
+شراب سیب: {'positive'}
+سیگار: {'negative'}
+ختنه: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+دور زدن: {'positive', 'negative'}
+شهروند: {'positive'}
+مدنی: {'positive'}
+شهامت: {'positive'}
+تمدن: {'positive', 'trust'}
+متمدن: {'positive', 'joy', 'trust'}
+ادعا کننده: {'disgust', 'anger'}
+منقار: {'positive'}
+سر و صدا: {'surprise', 'anger', 'anticipation', 'disgust', 'negative', 'sadness'}
+قبیله: {'trust'}
+کف زدن: {'positive', 'joy', 'trust', 'anticipation'}
+روشن کردن: {'positive', 'trust'}
+درگیر شدن: {'anger', 'negative', 'fear'}
+کلاسیک: {'positive', 'joy'}
+طبقه بندی کردن: {'positive'}
+پنجه: {'anger', 'negative', 'fear'}
+تمیز: {'positive', 'joy', 'trust'}
+تمیز کردن: {'positive', 'negative', 'fear'}
+پاکیزگی: {'positive'}
+پاک کن: {'positive', 'joy', 'trust'}
+پاکسازی: {'positive'}
+ترخیص کالا از گمرک: {'positive', 'trust'}
+جدا شدن: {'sadness', 'fear'}
+روحانی: {'positive', 'trust'}
+باهوش: {'anger', 'fear', 'positive', 'disgust', 'negative'}
+هوشمندانه: {'positive'}
+صخره: {'fear'}
+اوج: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+ساعت: {'positive', 'anticipation'}
+پرستشگاه: {'negative'}
+نزدیکی: {'positive', 'joy', 'trust'}
+بسته: {'positive', 'joy', 'sadness', 'anticipation'}
+لباس: {'positive'}
+کثیف: {'fear', 'positive', 'disgust', 'negative', 'sadness'}
+ابری: {'sadness', 'negative', 'fear'}
+دلقک: {'positive', 'joy', 'surprise', 'anticipation'}
+سرنخ: {'anticipation'}
+توده: {'negative'}
+دست و پا چلفتی: {'disgust', 'negative'}
+مربی ورزشی: {'trust'}
+تلفیق: {'trust'}
+ائتلاف: {'positive'}
+ساحل: {'positive'}
+زنگ زدن: {'trust'}
+کبرا: {'fear'}
+کوکائین: {'sadness', 'negative'}
+زور زدن: {'disgust', 'anger', 'negative', 'fear'}
+اجبار: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+همزیستی: {'positive', 'trust'}
+تابوت: {'sadness', 'negative', 'fear'}
+محتاطانه: {'positive', 'trust'}
+شناختی: {'positive'}
+انسجام: {'fear', 'positive', 'disgust', 'negative', 'sadness', 'trust'}
+منسجم: {'positive'}
+اتفاقی: {'surprise'}
+سرد: {'positive', 'negative'}
+سردم: {'negative'}
+سرماخوردگی: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+کولیک: {'negative'}
+مشارکت کننده: {'positive', 'trust'}
+سقوط - فروپاشی: {'disgust', 'negative', 'sadness', 'fear'}
+وثیقه: {'trust'}
+مجموعا: {'positive', 'trust'}
+تبانی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سرهنگ: {'positive', 'trust'}
+عظیم: {'positive'}
+کاما: {'sadness', 'negative', 'fear'}
+comatose: {'sadness', 'negative', 'fear'}
+مبارزه کن: {'anger', 'negative', 'fear'}
+رزمندگان: {'anger', 'negative', 'fear'}
+مبارز: {'anger', 'negative', 'fear'}
+راحتی: {'positive', 'joy', 'trust', 'anticipation'}
+آینده: {'positive', 'anticipation'}
+فرمانده: {'positive', 'trust'}
+به یاد بیاورید: {'positive', 'joy', 'sadness', 'anticipation'}
+یادبود: {'positive', 'joy', 'sadness', 'anticipation'}
+افتخار میکنم: {'positive'}
+قابل ستایش: {'positive', 'joy', 'trust'}
+مفسر: {'positive'}
+تجارت: {'trust'}
+کمیسیون: {'trust'}
+تحقیر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مرتکب شده: {'positive', 'trust'}
+کمیته: {'trust'}
+کومورور: {'positive', 'trust'}
+عادی: {'positive', 'trust', 'anticipation'}
+کشور مشترک: {'positive', 'trust'}
+برقراری ارتباط: {'positive', 'trust'}
+ارتباطات: {'trust'}
+ارتباطی: {'positive', 'trust'}
+همبستگی: {'positive', 'joy', 'trust'}
+کمونیسم: {'sadness', 'anger', 'negative', 'fear'}
+کمونیست: {'negative'}
+جامعه: {'positive'}
+تخفیف جرم: {'positive'}
+رفت و آمد: {'positive'}
+فشرده: {'trust'}
+همراه و همدم: {'positive', 'joy', 'trust'}
+قطب نما: {'trust', 'negative'}
+رحم و شفقت - دلسوزی: {'positive', 'fear'}
+دلسوز: {'fear', 'positive', 'joy', 'sadness', 'trust'}
+سازگاری: {'positive'}
+متقاعد کننده: {'positive', 'trust'}
+جبران کردن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+جبران کننده: {'positive'}
+شایستگی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+صالح: {'positive', 'trust'}
+رقابت: {'anger', 'negative', 'anticipation'}
+خوشبختی: {'positive', 'joy', 'anticipation'}
+شكايت كردن: {'sadness', 'anger', 'negative'}
+شکایت: {'disgust', 'anger', 'negative', 'sadness'}
+متمم: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+مکمل: {'positive'}
+به طور کامل: {'positive', 'trust'}
+تکمیل: {'positive', 'joy', 'anticipation'}
+پیچیده: {'negative'}
+پیچیدگی: {'positive', 'negative'}
+پیچیده می شود: {'anger', 'negative'}
+بغرنج: {'negative'}
+عوارض: {'negative'}
+همکاری: {'positive', 'trust', 'negative'}
+تعریف و تمجید: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+تشکیل شده: {'positive'}
+آهنگساز: {'positive'}
+کمپوست: {'disgust', 'negative'}
+آرامش: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+درک: {'positive', 'trust'}
+همه جانبه: {'positive'}
+فشرده کردن: {'anger'}
+comptroller: {'trust'}
+اجباری: {'anger', 'negative', 'fear'}
+رفیق: {'positive', 'trust'}
+پنهان کردن: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+پنهان: {'surprise', 'anger', 'fear', 'anticipation', 'disgust', 'negative'}
+تسلیم: {'negative'}
+فریب خورده: {'anger', 'fear', 'anticipation', 'positive', 'disgust', 'negative', 'sadness'}
+کانکتور: {'positive'}
+نگران: {'sadness', 'fear'}
+مصالحه: {'positive', 'joy', 'trust'}
+نتیجه گیری: {'positive', 'anticipation'}
+هماهنگی: {'positive', 'joy', 'trust', 'anticipation'}
+ضربه محکم و ناگهانی: {'sadness', 'anger', 'negative'}
+محکومیت: {'anger', 'fear', 'anticipation', 'positive', 'disgust', 'joy', 'negative', 'sadness', 'trust'}
+متاسفانه: {'negative'}
+تسلیت: {'positive', 'sadness'}
+متعهد هستم: {'positive'}
+مفید است: {'positive', 'joy', 'trust'}
+هدایت: {'positive'}
+کنفدراسیون: {'positive', 'trust'}
+اعتراف کنید: {'positive', 'trust', 'negative'}
+اعتراف: {'surprise', 'fear', 'anticipation', 'negative', 'sadness'}
+فساد: {'anger', 'fear', 'disgust', 'negative', 'sadness', 'trust'}
+اعتماد به نفس: {'anger', 'fear', 'positive', 'joy', 'negative', 'trust'}
+مطمئن: {'positive', 'joy', 'trust'}
+محرمانه است: {'trust'}
+محرمانه: {'surprise', 'trust'}
+مرز: {'sadness', 'anger', 'negative', 'fear'}
+تائیدیه: {'trust'}
+تایید شده: {'positive', 'trust'}
+مصادره: {'sadness', 'anger', 'negative'}
+درگیری: {'sadness', 'anger', 'negative', 'fear'}
+متناقض: {'negative'}
+دلم برات تنگ شده: {'positive', 'negative'}
+مخفی شده: {'negative'}
+مواجه شدن: {'anger'}
+گیجی: {'anger', 'negative', 'fear'}
+احتقان: {'negative'}
+کنگلومرا: {'trust'}
+تبریک میگم: {'positive', 'joy'}
+جماعت: {'positive', 'trust'}
+کنگره: {'disgust', 'trust'}
+حدس: {'anticipation'}
+عجله کن: {'disgust', 'surprise', 'negative', 'anticipation'}
+التماس دعا: {'negative'}
+خبره: {'positive', 'joy', 'trust'}
+فتح: {'anger', 'negative', 'fear'}
+هشیاری: {'positive', 'trust'}
+با وجدان: {'positive', 'trust'}
+آگاهی: {'positive'}
+در نتیجه: {'anticipation'}
+حفاظت: {'positive', 'trust', 'anticipation'}
+کنسرو: {'positive'}
+قابل توجه: {'positive', 'joy', 'surprise', 'trust'}
+در نظر گرفته: {'positive', 'trust'}
+ثبات: {'positive', 'trust'}
+کنسول: {'positive', 'sadness', 'trust'}
+همخوان: {'positive'}
+توطئه: {'negative', 'fear'}
+توطئه گر: {'anger', 'fear', 'anticipation', 'disgust', 'negative'}
+مشروطه: {'positive', 'trust'}
+پایداری: {'positive', 'trust'}
+ثابت: {'positive', 'surprise', 'trust', 'negative'}
+دائما: {'trust'}
+تهدید: {'anger', 'negative', 'fear'}
+یبوست: {'disgust', 'negative'}
+تشکیل می دهند: {'trust'}
+محدود کردن: {'sadness', 'negative', 'fear'}
+محدودیت: {'sadness', 'anger', 'negative', 'fear'}
+مشورت کردن: {'trust'}
+کامال: {'positive'}
+تماس: {'positive'}
+پرخاشگری: {'disgust', 'fear', 'negative', 'anticipation'}
+مسری: {'disgust', 'negative', 'fear'}
+آلودگی: {'disgust', 'negative', 'fear'}
+آلوده: {'disgust', 'negative', 'sadness', 'fear'}
+تفکر: {'positive'}
+تحقیرآمیز: {'disgust', 'anger', 'negative'}
+تحقیر آمیز است: {'anger', 'negative'}
+محتوا: {'positive', 'joy', 'disgust', 'trust'}
+متضاد: {'disgust', 'anger', 'negative', 'fear'}
+مشروط: {'disgust', 'anger', 'negative', 'anticipation'}
+ادامه دادن: {'negative', 'anticipation'}
+ادامه هید: {'positive', 'trust', 'anticipation'}
+کانتور: {'positive'}
+قاچاق: {'disgust', 'anger', 'negative', 'fear'}
+قرارداد: {'positive', 'negative'}
+متناقض است: {'anger', 'negative'}
+تناقض: {'disgust', 'anger', 'negative', 'sadness'}
+متناسب است: {'anger', 'negative'}
+مغایرت دارد: {'negative'}
+نقض: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+مشارکت: {'positive'}
+بحث برانگیز: {'anger', 'negative'}
+جنجال: {'negative'}
+راحت: {'positive'}
+همگرائی: {'anticipation'}
+گفتگو: {'positive'}
+مکالمه: {'positive'}
+تبدیل: {'positive'}
+انتقال: {'trust'}
+مجرم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متقاعد کردن: {'positive', 'trust', 'anticipation'}
+متقاعد: {'trust'}
+خنک بودن: {'positive'}
+کوک: {'disgust', 'anger', 'negative'}
+همکاری کردن: {'positive'}
+تعاونی: {'positive', 'trust'}
+پلیس: {'positive', 'trust', 'fear'}
+کپی کنید: {'negative'}
+کپی کردن: {'disgust', 'anger', 'negative'}
+هسته: {'positive', 'negative'}
+تاج گذاری: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+coroner: {'negative'}
+بدن: {'negative'}
+شرکت: {'positive', 'trust'}
+ذاتی: {'positive'}
+جنازه: {'disgust', 'negative', 'sadness'}
+تصحیح: {'negative'}
+اصلاح کننده: {'positive'}
+صحت: {'trust'}
+مکاتبات: {'positive', 'anticipation'}
+خوردگی: {'negative', 'fear'}
+فاسد: {'negative'}
+کورسی: {'sadness'}
+شهری: {'positive', 'trust'}
+دنج: {'positive'}
+نیمکت: {'sadness'}
+سرفه کردن: {'disgust', 'negative'}
+شورا: {'positive', 'trust', 'anticipation'}
+شمردن: {'positive', 'trust'}
+شمارش معکوس: {'anticipation'}
+حسابداری: {'positive'}
+همدستان: {'trust'}
+شهرستان: {'trust'}
+ضربه: {'surprise', 'anger', 'negative'}
+شجاع: {'positive', 'fear'}
+پیک: {'trust'}
+فرماندهی: {'negative'}
+دادگاه: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'trust'}
+مفتخر: {'positive'}
+حسن نیت ارائه میدهد: {'positive'}
+نگاه کردن: {'positive', 'joy', 'trust', 'anticipation'}
+کوه: {'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness'}
+پیمان: {'positive', 'trust'}
+پوشش دادن: {'trust'}
+خوشمزه: {'positive', 'negative'}
+ترسو: {'disgust', 'negative', 'sadness', 'fear'}
+کویوت: {'fear'}
+ترک: {'sadness', 'negative', 'anticipation'}
+ترک خورده: {'anger', 'negative', 'fear'}
+ترک خوردن: {'negative'}
+مهارت: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+کارگر: {'positive', 'negative'}
+گرفتگی: {'negative', 'anticipation'}
+تنگ: {'disgust', 'negative'}
+میل لنگ: {'negative'}
+چرندیات: {'disgust', 'negative'}
+کرم ها: {'anticipation'}
+تصادف در: {'sadness', 'surprise', 'negative', 'fear'}
+میل شدید به: {'anticipation'}
+خزیدن: {'disgust', 'negative'}
+دیوانه شده: {'anger', 'negative', 'fear'}
+دیوانه: {'surprise', 'anger', 'fear', 'positive', 'disgust', 'joy', 'negative', 'sadness', 'trust'}
+کرم رنگ: {'positive', 'joy', 'surprise', 'anticipation'}
+ايجاد كردن: {'positive', 'joy'}
+خلاق یا مبتکر: {'positive'}
+موجود: {'disgust', 'negative', 'fear'}
+اعتبارنامه: {'positive', 'trust'}
+اعتبار داده شده: {'positive'}
+خزش: {'negative'}
+خزنده: {'anticipation'}
+کرم: {'sadness', 'surprise', 'negative', 'anticipation'}
+رو به رشد است: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+خدمه: {'trust'}
+جرم: {'disgust', 'anger', 'negative', 'sadness'}
+جنایی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+جرم و جنایت: {'disgust', 'anger', 'negative', 'fear'}
+سقوط: {'disgust', 'negative', 'sadness', 'fear'}
+فلج کردن: {'sadness', 'negative', 'fear'}
+فلج شده: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+بحران: {'negative'}
+ترد: {'trust', 'negative'}
+منتقد: {'negative'}
+انتقاد: {'sadness', 'anger', 'negative'}
+انتقاد کنید: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بحرانی: {'positive'}
+مخلوق: {'disgust'}
+تمساح: {'fear'}
+کلاه بردار: {'negative'}
+صلیب: {'sadness', 'anger', 'negative', 'fear'}
+کج: {'fear'}
+کوهنوردی: {'negative', 'fear'}
+حیاتی: {'positive', 'trust'}
+مصلوب شدن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خام: {'disgust', 'negative'}
+ظالمانه: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی رحمانه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ظلم و ستم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خراب شدن: {'sadness', 'negative'}
+خراب کردن: {'surprise', 'anger', 'fear', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+جنگ صلیبی: {'anger', 'negative', 'fear'}
+خرد شده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خرد کردن: {'disgust', 'anger', 'negative', 'fear'}
+پوسته پوسته شدن: {'disgust', 'negative'}
+گریه کردن: {'sadness', 'negative'}
+گریان: {'sadness', 'negative'}
+کریپت: {'sadness', 'negative', 'fear'}
+کریستال: {'positive'}
+مکعب: {'trust'}
+شوهر زننده: {'disgust', 'negative'}
+کوسه: {'negative'}
+در اغوش گرفتن: {'positive', 'joy', 'trust'}
+نشانه: {'anticipation'}
+آشپزی: {'positive', 'trust'}
+خفه شو: {'surprise', 'anger', 'negative'}
+نقطه اوج: {'positive'}
+گناهکار: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مقصر: {'negative'}
+فرقه: {'trust', 'negative', 'fear'}
+کشت کن: {'positive', 'trust', 'anticipation'}
+کشت شده: {'positive'}
+کشت: {'positive'}
+فرهنگ: {'positive'}
+حیله گر: {'positive', 'negative'}
+کوک کردن: {'disgust', 'negative', 'sadness', 'fear'}
+کنجکاو: {'disgust', 'anger', 'negative', 'fear'}
+قابل درمان است: {'positive', 'trust'}
+کنجکاوی: {'positive', 'surprise', 'anticipation'}
+حلقه: {'positive', 'joy'}
+لعنت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+لعنت کردن: {'disgust', 'anger', 'negative'}
+سریع: {'positive', 'surprise', 'negative'}
+کوسن: {'positive'}
+cussed: {'anger'}
+نگهبان: {'positive', 'trust', 'fear'}
+بازداشت: {'sadness', 'anger', 'trust', 'negative'}
+مشتری: {'positive'}
+برش: {'negative', 'fear'}
+برش ها: {'positive'}
+برش دادن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سیانید: {'negative', 'fear'}
+سیکلون: {'surprise', 'negative', 'fear'}
+کیست: {'sadness', 'negative', 'fear'}
+کیستیک: {'disgust'}
+سیتومگالوویروس: {'sadness', 'negative'}
+dabbling: {'disgust', 'anger', 'negative'}
+دلم: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خنجر: {'negative', 'fear'}
+روزانه: {'anticipation'}
+خسارت: {'disgust', 'anger', 'negative', 'sadness'}
+خدانگهدار: {'anger', 'positive', 'disgust', 'negative', 'sadness', 'trust'}
+دمپر: {'negative'}
+رقص: {'positive', 'joy', 'trust'}
+شوره سر: {'negative'}
+دندانه دار: {'disgust', 'negative'}
+خطر: {'sadness', 'anticipation', 'negative', 'fear'}
+خطرناک: {'sadness', 'anticipation', 'negative', 'fear'}
+به لطف: {'disgust'}
+دادن: {'positive', 'trust', 'anticipation'}
+تاریک است: {'sadness'}
+تیره شدن: {'sadness', 'negative', 'fear'}
+تاریکی: {'sadness', 'anger', 'negative', 'fear'}
+عزیز: {'positive', 'joy', 'trust'}
+دارت: {'fear'}
+قطعه قطعه: {'sadness', 'anger', 'negative', 'fear'}
+خرابکاری: {'surprise', 'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+دزدی: {'disgust', 'anger', 'negative', 'fear'}
+فرزند دختر: {'positive', 'joy'}
+سپیده دم: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+متزلزل: {'anger', 'negative'}
+دیانکون: {'trust'}
+از کار انداختن: {'negative'}
+بن بست: {'negative'}
+مرگبار: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کر: {'negative'}
+معامله: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+معاملات: {'trust'}
+مرگ: {'surprise', 'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+مناظره: {'positive'}
+گمراهی: {'disgust', 'negative', 'fear'}
+بدهی: {'sadness', 'negative', 'anticipation'}
+باقیمانده: {'disgust', 'negative'}
+بدهکار: {'negative'}
+فرو ریختن: {'sadness', 'anticipation', 'negative', 'fear'}
+فاسد شده: {'disgust', 'negative', 'sadness'}
+فوت شده: {'sadness', 'negative'}
+فریب: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+منصفانه: {'positive', 'trust'}
+نجیب: {'positive'}
+اعلامیه: {'positive'}
+لغزش: {'negative'}
+کاهش می یابد: {'negative'}
+تجزیه کنید: {'disgust'}
+تجزیه شد: {'sadness'}
+تجزیه: {'disgust', 'negative', 'sadness', 'fear'}
+سرخورده: {'surprise'}
+نزول کردن: {'negative'}
+کاهش: {'sadness', 'negative'}
+فریاد زدن: {'surprise', 'anger', 'fear', 'positive', 'joy', 'disgust', 'negative'}
+تعهد: {'positive', 'anticipation'}
+کسر کردن: {'negative'}
+سند - سند قانونی: {'trust'}
+تقصیر: {'anger', 'fear', 'disgust', 'negative', 'trust'}
+توهین آمیز: {'disgust', 'anger', 'negative'}
+به طور پیش فرض: {'disgust', 'negative', 'sadness', 'fear'}
+شکست داد: {'sadness', 'negative'}
+کاستی: {'anger', 'negative'}
+تخریب: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+معیوب: {'disgust', 'negative'}
+دفاع: {'positive', 'anticipation', 'anger', 'fear'}
+دفاع کرد: {'positive', 'trust'}
+دفاع کردن: {'positive'}
+بی دفاع: {'sadness', 'negative', 'fear'}
+احترام: {'positive', 'joy', 'trust', 'anticipation'}
+بازپرداخت: {'anger', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+بی احترامی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کمبود: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+دفع کردن: {'sadness', 'disgust', 'anger', 'negative'}
+تغییر شکل: {'disgust', 'negative', 'sadness', 'fear'}
+ناقص شده: {'disgust', 'negative', 'sadness'}
+فريب دادن: {'disgust', 'anger', 'negative'}
+فراموش كردن: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+انحطاط: {'disgust', 'anger', 'negative', 'sadness'}
+دژنراسیون: {'negative'}
+تنزل: {'negative'}
+درجه: {'positive'}
+تاخیر انداختن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تاخیر: {'disgust', 'negative', 'sadness', 'fear'}
+لذت بخش: {'positive', 'joy', 'trust', 'anticipation'}
+نمایندگی: {'positive', 'trust', 'anticipation'}
+زیان آور: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+حذف: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+حساب شده: {'positive'}
+خوشمزه - لذیذ: {'positive', 'joy'}
+خوشحال: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+بزهکاری: {'negative'}
+بزهکار: {'disgust', 'anger', 'negative'}
+دلیری: {'disgust', 'negative', 'sadness'}
+رستگاری: {'positive', 'joy', 'trust', 'anticipation'}
+تحویل: {'positive', 'negative', 'anticipation'}
+تخلیه: {'sadness', 'surprise', 'negative', 'fear'}
+توهم: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+فریبکارانه: {'disgust', 'anger', 'negative', 'fear'}
+تقاضا: {'positive', 'anger', 'negative', 'trust'}
+خواستار: {'negative'}
+دمدمی: {'negative', 'fear'}
+زوال عقل: {'sadness', 'negative', 'fear'}
+دموکراسی: {'positive'}
+شیطان: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+شیطانی: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+قابل اثبات است: {'positive'}
+تظاهرات: {'positive', 'joy', 'sadness'}
+demoralized: {'sadness', 'negative', 'fear'}
+انکار: {'anger', 'negative'}
+تکذیب کرد: {'sadness', 'negative'}
+دندانپزشکی: {'fear'}
+انکار کردن: {'negative', 'anticipation'}
+ترک کرد: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+عزیمت، خروج: {'sadness', 'negative'}
+بستگی دارد: {'trust', 'anticipation'}
+وابستگی: {'fear', 'positive', 'negative', 'sadness', 'trust'}
+وابسته است: {'positive', 'trust', 'negative'}
+ناامید کننده: {'surprise', 'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+عذرخواهی کن: {'disgust', 'anger', 'negative', 'sadness'}
+اخراج کردن: {'sadness', 'negative', 'fear'}
+سپرده گذاری: {'trust'}
+از بین بردن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کاهش یافته است: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+افسردگی: {'sadness', 'negative', 'fear'}
+افسرده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+محرومیت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+عمق: {'positive', 'trust'}
+قائم مقام: {'trust'}
+خراب شده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تعطیلات: {'anticipation', 'positive', 'joy', 'negative', 'sadness'}
+عصبانیت: {'disgust', 'anger', 'negative'}
+متخصص پوست: {'trust'}
+معافیت: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+تخریب کننده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تبار: {'sadness', 'fear'}
+توصیفی: {'positive'}
+بی رحمی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کویر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+از بین رفتن: {'negative'}
+سزاوار: {'positive', 'anger', 'trust', 'anticipation'}
+تعیین: {'trust'}
+طراح: {'positive'}
+مطلوب: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+خواسته: {'positive'}
+دل خوشی: {'positive'}
+دست کشیدن: {'disgust', 'surprise', 'anger', 'negative'}
+مستاصل: {'negative'}
+نفرت انگیز: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خوار شمردن: {'disgust', 'anger', 'negative'}
+مستبد: {'negative', 'fear'}
+استبداد: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مقصد: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'sadness'}
+فقیر: {'sadness', 'negative', 'fear'}
+نابود: {'sadness', 'anger', 'negative', 'fear'}
+نابودگر: {'anger', 'negative', 'fear'}
+مخرب: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کناره گیری: {'negative'}
+بازداشت شدگان: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+تشخیص: {'fear', 'anticipation', 'positive', 'negative', 'trust'}
+بدتر می شود: {'sadness', 'negative', 'fear'}
+خراب شد: {'disgust', 'negative', 'sadness'}
+زوال: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بعضی: {'trust', 'anticipation'}
+تصمیم گیری: {'positive', 'trust'}
+مشخص: {'positive'}
+نفرین: {'disgust', 'anger', 'negative'}
+منفجر شدن: {'surprise', 'negative', 'fear'}
+زیان: {'negative'}
+مضر: {'sadness', 'disgust', 'negative', 'fear'}
+دندانی: {'negative'}
+ویرانگر: {'anger', 'fear', 'disgust', 'negative', 'sadness', 'trust'}
+توسعه: {'positive', 'anticipation'}
+اهریمنی: {'disgust', 'negative', 'fear'}
+غافلگیر کننده: {'positive', 'negative'}
+مذهبی: {'positive', 'trust'}
+خوردن: {'positive', 'negative'}
+مقدس: {'positive', 'joy', 'trust', 'anticipation'}
+الماس: {'positive', 'joy'}
+پوشک: {'disgust', 'negative'}
+اسهال: {'disgust'}
+دفتر خاطرات: {'positive', 'joy', 'trust'}
+اذیت کردن: {'anger', 'fear', 'positive', 'disgust', 'negative'}
+دیکتاتور: {'negative', 'fear'}
+دیکتاتوری: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+فرهنگ لغت: {'positive', 'trust'}
+آن: {'anger', 'trust', 'negative', 'sadness'}
+تعلیمی: {'positive'}
+غذایی: {'positive', 'anticipation'}
+دیفرانسیل: {'trust'}
+متفاوت است: {'surprise'}
+مشکلات: {'sadness', 'negative'}
+مشکل: {'sadness', 'anger', 'negative', 'fear'}
+رقمی: {'trust'}
+بلند مرتبه: {'positive'}
+کرامت: {'positive', 'trust'}
+هدر دادن: {'negative', 'anticipation'}
+آن را: {'fear'}
+ویران شده: {'disgust', 'negative', 'sadness'}
+سخت کوشی: {'positive', 'trust'}
+رقیق کردن: {'negative'}
+کاسته: {'negative'}
+از: {'negative', 'anticipation'}
+شام: {'positive', 'disgust', 'anger', 'negative'}
+دایناسور: {'fear'}
+دیپلماسی: {'positive', 'trust', 'anticipation'}
+دیپلماتیک: {'positive', 'trust'}
+گفتن: {'surprise', 'fear', 'disgust', 'negative', 'sadness'}
+کارگردان: {'positive', 'trust'}
+خاک: {'disgust', 'negative'}
+معلولیت: {'sadness', 'negative'}
+غیر فعال کردن: {'sadness', 'negative', 'fear'}
+معلول: {'sadness', 'negative', 'fear'}
+ناراضی: {'disgust', 'anger', 'negative', 'sadness'}
+مخالف بودن: {'anger', 'negative'}
+مخالفت کردن: {'sadness', 'anger', 'negative'}
+اختلاف نظر: {'sadness', 'disgust', 'anger', 'negative'}
+ناپدید می شوند: {'fear'}
+ناامید: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+رد: {'sadness', 'negative'}
+تایید نشد: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متوقف شد: {'sadness', 'anger', 'negative'}
+فاجعه بار: {'sadness', 'anger', 'negative', 'fear'}
+کافر باش: {'negative'}
+دور انداختن: {'negative'}
+انضباط: {'negative', 'fear'}
+سلب مسئولیت: {'disgust', 'anger', 'negative', 'trust'}
+افشا شده: {'trust'}
+تغییر رنگ: {'disgust', 'negative'}
+تغییر رنگ داده شده: {'disgust', 'negative', 'sadness'}
+قطع شدن: {'sadness', 'negative'}
+قطع شده: {'positive', 'sadness', 'negative'}
+قطع ارتباط: {'negative'}
+نارضایتی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متوقف کردن: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+دلسرد کردن: {'sadness', 'negative', 'fear'}
+دلسردی: {'negative'}
+کشف: {'positive'}
+بی اعتبار کردن: {'negative'}
+با احتیاط: {'positive', 'anticipation'}
+اختیار: {'positive', 'trust', 'anticipation'}
+اختیاری: {'positive'}
+تبعیض قائل شدن: {'sadness', 'anger', 'negative'}
+تبعیض آمیز: {'disgust', 'negative'}
+بحث: {'positive'}
+مرض: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+استقرار: {'negative'}
+رسوایی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ناراحت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+شرم آور: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+چندش آور: {'disgust', 'anger', 'negative', 'fear'}
+دلهره آور: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متقلب: {'disgust', 'anger', 'negative', 'sadness'}
+ناسنجنی: {'disgust', 'negative'}
+سرخوردگی: {'disgust', 'anger', 'negative', 'sadness'}
+ضد عفونی: {'positive'}
+اطلاعات غلط: {'anger', 'negative', 'fear'}
+بی شرمانه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی نظیر: {'anger', 'fear', 'anticipation', 'positive', 'disgust', 'joy', 'negative', 'sadness', 'trust'}
+دوست نداشتن: {'disgust', 'anger', 'negative', 'sadness'}
+جابجایی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ناراحت کننده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+انشعاب: {'disgust', 'negative', 'sadness', 'fear'}
+اخراج: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+نافرمانی: {'disgust', 'anger', 'negative'}
+نافرمان: {'anger', 'negative'}
+نادیده گرفتن: {'disgust', 'anger', 'negative'}
+اختلال: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+بی اختیاری: {'surprise', 'negative'}
+ناسزا: {'disgust', 'anger', 'negative', 'sadness'}
+پراکندگی: {'negative'}
+جایگزین کردن: {'negative'}
+آواره: {'sadness', 'anger', 'fear'}
+دسترس: {'negative'}
+دفع شده: {'anger', 'fear', 'anticipation', 'positive', 'negative', 'sadness', 'trust'}
+رد صلاحیت: {'sadness', 'negative'}
+رد صلاحیت شد: {'disgust', 'anger', 'negative', 'sadness'}
+نادیده گرفته شده: {'disgust', 'negative'}
+قطع: {'surprise', 'anger', 'negative', 'fear'}
+انتشار: {'positive'}
+انحلال: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+ناسازگاری: {'anger', 'negative'}
+تقطیر: {'positive'}
+فرق - تمیز - تشخیص: {'positive'}
+تحریف شده: {'disgust', 'negative'}
+اعوجاج: {'negative'}
+منحرف کردن: {'anger', 'negative', 'anticipation'}
+پریشان: {'anger', 'negative', 'fear'}
+حواس پرتی: {'negative'}
+پریشانی: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی اعتمادی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مختل: {'sadness', 'anger', 'negative'}
+استفاده نکردن: {'anger', 'negative'}
+واگرا: {'surprise', 'negative'}
+گوناگون، متنوع: {'positive', 'negative'}
+متنوع: {'positive'}
+واگذاری: {'negative'}
+الهام بخشیدن: {'positive', 'joy', 'trust', 'anticipation'}
+الوهیت: {'positive'}
+طلاق: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness', 'trust'}
+سرگیجه: {'anger', 'negative', 'fear'}
+سوار شده: {'negative'}
+دکتر: {'positive', 'trust'}
+دکترین: {'trust'}
+صدمه زدن: {'anger', 'fear', 'positive', 'negative', 'sadness'}
+سرسخت: {'positive', 'negative', 'fear'}
+دگمه: {'trust'}
+باید: {'negative'}
+دلتنگی: {'sadness', 'negative'}
+مصرف کننده: {'sadness', 'negative'}
+دلفین: {'positive', 'joy', 'surprise', 'trust'}
+غالب: {'positive', 'trust', 'negative', 'fear'}
+تسلط داشتن: {'positive', 'anger', 'negative', 'fear'}
+سلطه: {'anger', 'fear', 'negative', 'sadness', 'trust'}
+دون: {'positive', 'trust'}
+کمک مالی: {'positive'}
+خر: {'disgust', 'negative'}
+ابله: {'negative'}
+عذاب: {'sadness', 'anger', 'negative', 'fear'}
+محکوم به: {'sadness', 'negative', 'fear'}
+روز قیامت: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+شک: {'sadness', 'trust', 'negative', 'fear'}
+مشکوک: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness', 'trust'}
+شک دارم: {'negative'}
+بدون شک: {'anticipation', 'positive', 'disgust', 'negative', 'trust'}
+دوش: {'negative'}
+جایی که: {'positive', 'joy', 'trust', 'anticipation'}
+راستش: {'positive', 'trust'}
+کشتن: {'sadness', 'anger', 'negative', 'fear'}
+پیش نویس: {'anticipation'}
+اژدها: {'fear'}
+زه کشی: {'negative'}
+اشکال: {'negative'}
+وحشت: {'surprise', 'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+وحشتناک: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+خسته کننده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+نوشیدن: {'positive', 'negative'}
+رانندگی: {'disgust', 'negative'}
+هواپیمای بدون سرنشین: {'negative'}
+خالی کردن: {'disgust'}
+غرق شدن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خشکی: {'negative'}
+خواب آلودگی: {'negative'}
+مواد مخدر: {'sadness', 'negative'}
+مستی: {'disgust', 'negative'}
+دوئل: {'fear', 'anger', 'anticipation'}
+دوئت: {'positive'}
+توسط: {'positive'}
+کسل کننده است: {'sadness', 'negative'}
+بی عقل: {'negative'}
+ساختگی: {'negative'}
+از یک: {'negative'}
+سیاه چال: {'negative', 'fear'}
+ساده دل: {'anger', 'negative'}
+دوگانگی: {'anger', 'negative'}
+دوام: {'positive', 'trust'}
+با دوام: {'positive', 'trust'}
+فشار دادن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+گرد و خاک: {'negative'}
+شایسته: {'positive', 'joy', 'trust', 'anticipation'}
+کوتوله: {'sadness', 'negative', 'fear'}
+در حال مرگ: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+پویا: {'surprise'}
+دیسنتری: {'disgust', 'negative', 'sadness'}
+عقاب: {'trust'}
+ارشد: {'positive', 'trust'}
+بدست آوردن: {'positive'}
+جدی: {'positive', 'sadness', 'fear'}
+صادقانه: {'anger', 'fear', 'positive', 'disgust', 'joy', 'sadness', 'trust'}
+صداقت: {'positive', 'joy', 'trust', 'anticipation'}
+زمین لرزه: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+سهولت: {'positive'}
+خدمات: {'positive'}
+اسان گیر: {'positive'}
+استراق سمع: {'negative'}
+اقتصاد: {'trust'}
+اکستازی: {'positive', 'joy', 'anticipation'}
+حکم: {'negative', 'fear'}
+تدریس: {'positive', 'joy', 'trust', 'anticipation'}
+نسخه: {'anticipation'}
+آموزش: {'positive'}
+تحصیل کرده: {'positive'}
+آموزشی: {'positive', 'trust'}
+قورباغه: {'disgust', 'negative', 'fear'}
+تاثیر گذار: {'positive', 'trust'}
+زننده: {'negative'}
+اثر: {'positive'}
+بهره وری: {'positive'}
+کارآمد: {'positive', 'trust', 'anticipation'}
+عکاسی: {'anger'}
+تلاش: {'positive'}
+خود پسندی: {'disgust', 'negative'}
+فجیع: {'disgust', 'anger', 'negative'}
+انزال: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+بیرون انداختن: {'negative'}
+خروج: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سربلند: {'positive', 'joy'}
+آرنج: {'anger'}
+بزرگتر: {'positive', 'disgust', 'surprise', 'trust'}
+بزرگان: {'positive', 'trust'}
+برگزیدن: {'positive', 'trust'}
+رای دهندگان: {'trust'}
+الکتریکی: {'positive', 'joy', 'surprise'}
+الکتریسیته: {'positive'}
+ظرافت: {'positive', 'joy', 'trust', 'anticipation'}
+ظریف: {'positive', 'joy'}
+ارتفاع: {'fear', 'anticipation', 'positive', 'joy', 'trust'}
+الف: {'disgust', 'anger', 'fear'}
+واجد شرایط بودن: {'positive'}
+نخبه: {'positive', 'joy', 'trust', 'anticipation'}
+فصاحت: {'positive'}
+سخنرانی: {'positive'}
+گریزان: {'surprise', 'negative'}
+رهایی: {'positive', 'joy', 'anticipation'}
+تحریم: {'negative'}
+خجالت: {'sadness', 'surprise', 'negative', 'fear'}
+اختلاس: {'negative'}
+آمبولیسم: {'sadness', 'negative', 'fear'}
+پذیرفتن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+در آغوش گرفت: {'negative'}
+اضطراری: {'sadness', 'surprise', 'negative', 'fear'}
+بازنشسته: {'positive'}
+برجسته: {'positive', 'joy', 'trust', 'negative'}
+فوق العاده: {'surprise', 'positive', 'joy', 'sadness', 'trust'}
+امیر: {'positive'}
+یکدلی: {'positive'}
+اهمیت دادن: {'trust'}
+استخدام کنید: {'trust'}
+قدرت دادن: {'positive'}
+خالی: {'sadness', 'disgust', 'negative'}
+تقلید: {'positive', 'negative'}
+فعال کردن: {'positive', 'trust'}
+توانمندسازی: {'positive', 'trust'}
+دلربا: {'positive', 'joy', 'surprise', 'anticipation'}
+تحریک شده: {'positive', 'joy', 'trust'}
+دوباره: {'positive'}
+تشويق كردن: {'positive', 'joy', 'trust'}
+دایره المعارف: {'positive', 'trust'}
+خطرناک است: {'fear', 'negative', 'anticipation'}
+در معرض خطر: {'negative', 'fear'}
+تلاش کن: {'positive', 'anticipation'}
+اندمیک: {'disgust', 'negative', 'sadness', 'fear'}
+بی پایان: {'anger', 'fear', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+اندوکاردیت: {'sadness', 'fear'}
+انداختن: {'positive', 'trust'}
+تسلیم شده: {'positive'}
+کمک هزینه: {'positive', 'trust'}
+تحمل: {'positive'}
+تحمل کن: {'positive'}
+انما: {'disgust'}
+پر انرژی: {'positive'}
+اعمال: {'anger', 'fear', 'positive', 'negative', 'sadness'}
+اجرای: {'negative'}
+نامزد شده: {'positive', 'joy', 'trust', 'anticipation'}
+افزایش می یابد: {'positive'}
+مخفیانه: {'surprise', 'negative', 'fear'}
+لذت ببرید: {'positive', 'joy', 'trust', 'anticipation'}
+لذت بردن از: {'positive', 'joy', 'trust', 'anticipation'}
+روشن کن: {'positive', 'joy', 'trust'}
+روشنگری: {'positive', 'joy', 'trust'}
+زنده ماندن: {'positive', 'joy', 'surprise', 'trust'}
+دشمنی: {'sadness', 'anger', 'negative', 'fear'}
+غنی سازی کنید: {'positive'}
+ثبت نام کنید: {'trust', 'anticipation'}
+با هم: {'positive', 'trust'}
+علامت گذاری بفرم: {'positive'}
+بردگی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+گرفتار: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سازنده: {'positive'}
+سرگرم: {'positive', 'joy'}
+علاقهمند: {'positive', 'joy', 'surprise', 'anticipation'}
+حشرات: {'disgust', 'negative'}
+اعتماد: {'positive', 'trust'}
+حسادت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+در: {'positive'}
+کوتاه مدت: {'positive'}
+حماسه: {'positive'}
+بیماری همه گیر: {'surprise', 'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+صرع: {'negative'}
+اسقف اعظم: {'trust'}
+اپیتاپه: {'sadness'}
+خلاصه: {'positive'}
+برابری: {'positive', 'joy', 'trust'}
+به همان اندازه: {'positive'}
+انصاف: {'positive'}
+ریشه کن کردن: {'anger', 'negative'}
+قلع و قمع: {'disgust', 'anger', 'negative', 'fear'}
+پاک کردن: {'negative', 'fear'}
+فرسایش: {'negative'}
+وابسته به عشق شهوانی: {'surprise', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+ماموریت: {'positive', 'trust', 'anticipation'}
+دمدمی مزاج: {'surprise', 'negative'}
+خطا: {'sadness', 'negative'}
+دانشمند: {'positive', 'trust', 'anticipation'}
+فوران: {'surprise', 'anger', 'negative', 'fear'}
+در رفتن: {'positive', 'fear', 'negative', 'anticipation'}
+فرار کرد: {'fear'}
+فرار کن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+اسکورت: {'trust'}
+جاسوسی: {'negative'}
+روح: {'positive'}
+ضروری است: {'positive', 'negative'}
+تاسيس كردن: {'trust'}
+ایجاد: {'positive', 'joy'}
+غافلگیر شد: {'negative'}
+اترالی: {'fear'}
+اخلاقی: {'positive', 'anger', 'trust'}
+اخلاق: {'surprise', 'anger', 'anticipation', 'positive', 'disgust', 'joy', 'trust'}
+euthanasia: {'sadness', 'negative', 'fear'}
+تبخیر: {'sadness', 'surprise'}
+فرار از زندان: {'sadness', 'negative', 'fear'}
+سرانجام: {'surprise', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+احتمالی: {'fear', 'trust', 'anticipation'}
+همیشه سبز: {'positive', 'joy', 'trust'}
+ابدی: {'positive'}
+واضح است: {'positive', 'trust'}
+سیر تکاملی: {'positive'}
+اغراق آمیز: {'anger', 'negative'}
+اغراق آمیز است: {'negative'}
+بالا بردن: {'fear', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+معاینه: {'surprise', 'negative', 'fear'}
+حفاری: {'surprise', 'negative', 'anticipation'}
+اکسل: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+تعالی: {'surprise', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+عالی است: {'positive', 'joy', 'trust'}
+اضافی: {'positive', 'negative'}
+تبادل: {'positive', 'trust'}
+مالیات بر ارزش افزوده: {'negative'}
+تحریک پذیر: {'positive', 'anger', 'negative'}
+هیجان زده: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy'}
+برانگیخته: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+هیجان: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'negative'}
+هیجان انگیز: {'positive', 'joy', 'surprise', 'anticipation'}
+بانگ زدن: {'surprise'}
+حذف شد: {'disgust', 'negative', 'sadness'}
+به جز: {'sadness', 'negative'}
+دفع ادرار: {'disgust', 'negative'}
+دفع: {'disgust', 'negative', 'fear'}
+تعجب آور است: {'negative', 'fear'}
+بهانه: {'negative'}
+اجرا: {'anger', 'fear', 'negative', 'sadness', 'trust'}
+اعدام: {'sadness', 'anger', 'negative', 'fear'}
+مجری: {'trust'}
+نمونه ای: {'positive'}
+اگزوز: {'negative'}
+خسته: {'sadness', 'negative'}
+جامع: {'trust'}
+اخطار: {'positive', 'sadness', 'negative'}
+نیاز: {'surprise', 'fear', 'anticipation', 'disgust', 'negative', 'trust'}
+وجود داشتن: {'positive'}
+انتظار: {'positive', 'surprise', 'trust', 'anticipation'}
+امید به زندگی: {'anticipation'}
+انتظار می رود: {'anticipation'}
+منتظر: {'anticipation'}
+پرونده: {'positive', 'joy', 'trust'}
+اکسپدیشن: {'positive', 'anticipation'}
+هزینه ها: {'negative'}
+با تجربه: {'positive', 'trust'}
+آزمایشی: {'surprise', 'anticipation'}
+کارشناس: {'positive', 'trust'}
+تجربه و تخصص: {'positive', 'trust'}
+منقضی می شود: {'sadness', 'negative'}
+منقضی شده: {'negative'}
+توضیح: {'positive', 'trust'}
+عطش: {'anger', 'negative'}
+منفجر شود: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+کشف کردن: {'anticipation'}
+مواد منفجره: {'surprise', 'anger', 'fear', 'anticipation', 'negative'}
+در معرض گذاشتن: {'fear', 'anticipation'}
+در معرض: {'negative'}
+سلب مالکیت: {'negative'}
+نفیس: {'positive', 'joy'}
+گسترش: {'positive'}
+گسترده است: {'positive'}
+منقرض شده: {'sadness', 'negative'}
+خاموش می شود: {'anger', 'negative'}
+خارق العاده: {'positive'}
+اندام: {'negative'}
+بیرون کشیدن: {'positive', 'anticipation'}
+انعطاف پذیری: {'positive', 'joy'}
+شاهد عینی: {'trust'}
+ساخته: {'negative'}
+ساخت: {'trust', 'negative'}
+تسهیل کردن: {'positive'}
+حقیقت: {'positive', 'trust'}
+حقایق: {'positive', 'trust'}
+دانشکده: {'positive', 'trust'}
+محو شدن: {'negative'}
+مدفوع: {'disgust', 'negative'}
+شکست خوردن: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+ممنون: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+غفلت: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+نمایشگاه: {'positive', 'joy'}
+ایمان: {'positive', 'joy', 'trust', 'anticipation'}
+با ایمان: {'positive', 'trust'}
+افتادن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+چوپان: {'positive', 'trust', 'negative'}
+دروغ: {'anger', 'disgust', 'negative', 'sadness', 'trust'}
+تحریف: {'anger', 'negative'}
+جعل کرد: {'disgust', 'negative'}
+دروغ گفتن: {'surprise', 'fear', 'disgust', 'negative', 'trust'}
+شهرت: {'positive'}
+آشنا: {'positive', 'trust'}
+آشنایی: {'positive', 'joy', 'trust', 'anticipation'}
+قحطی: {'sadness', 'negative'}
+مشهور است: {'positive'}
+معروف: {'positive'}
+تفننی: {'positive', 'joy', 'anticipation'}
+فنگ: {'fear'}
+دندان های نیش: {'fear'}
+فرسنگ: {'negative'}
+farcical: {'disgust', 'negative'}
+مزرعه: {'positive', 'trust', 'anticipation'}
+شیفتگی: {'positive'}
+مد روز: {'positive'}
+روزه داری: {'sadness', 'negative'}
+کشنده: {'sadness', 'anger', 'negative', 'fear'}
+مرگ و میر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سرنوشت: {'negative', 'anticipation'}
+پدر: {'trust'}
+چرب: {'disgust', 'negative', 'sadness'}
+عیب: {'sadness', 'negative'}
+مورد علاقه: {'positive', 'joy', 'trust'}
+حنایی: {'negative'}
+ترس: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی تردید: {'positive', 'fear'}
+شاهکار: {'positive', 'joy', 'surprise', 'anticipation'}
+ویژگی: {'positive'}
+تب: {'negative', 'fear'}
+هزینه: {'anger', 'negative'}
+ضعیف: {'sadness', 'disgust', 'negative', 'fear'}
+احساس: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+فداکاری: {'fear', 'positive', 'joy', 'disgust', 'negative', 'sadness'}
+همکار: {'positive', 'trust'}
+کمک هزینه تحصیلی: {'positive'}
+فالون: {'negative', 'fear'}
+زن: {'positive'}
+حصار: {'anger'}
+گلگیر: {'trust'}
+تخمیر: {'negative', 'anticipation'}
+فحشا: {'anger', 'negative'}
+بارور: {'positive'}
+غیرت: {'positive', 'joy', 'anger'}
+جشنواره: {'positive', 'joy', 'surprise', 'anticipation'}
+دختران: {'positive', 'joy', 'surprise', 'anticipation'}
+فئودال: {'negative'}
+فئودالیسم: {'sadness', 'anger', 'negative'}
+شکست مفتضحانه: {'negative'}
+فیبر: {'anger', 'negative'}
+بی ثبات: {'negative'}
+تخیلی: {'positive', 'negative'}
+شدید: {'surprise', 'anger', 'fear', 'positive', 'joy', 'disgust', 'negative', 'trust'}
+حزب: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+مبارزه کردن: {'anger', 'negative', 'fear'}
+فلیبستر: {'negative'}
+پر کن: {'trust'}
+آتش: {'fear'}
+سلاح گرم: {'anger', 'negative', 'fear'}
+کوه آتش نشانی: {'positive'}
+مامور اتش نشانی: {'trust'}
+استحکام: {'positive', 'trust'}
+اولین بار: {'positive', 'joy', 'trust', 'anticipation'}
+درست شد: {'trust'}
+شل و ول: {'disgust', 'negative'}
+لاغر: {'sadness', 'disgust', 'negative'}
+پرچم گذاری: {'negative'}
+آشکارا: {'disgust', 'anger', 'negative'}
+گل سرسبد: {'trust'}
+فلنج: {'trust'}
+فلاپ: {'disgust', 'negative', 'sadness'}
+ملایم: {'positive', 'joy', 'negative', 'sadness'}
+نفخ شکم: {'disgust', 'negative'}
+سرزنده: {'negative'}
+نقص: {'sadness', 'negative'}
+کک: {'disgust', 'negative'}
+پشم گوسفند: {'disgust', 'anger', 'negative', 'sadness'}
+ناوگان: {'positive'}
+گوشت: {'disgust'}
+گوشتی: {'negative'}
+تلنگر: {'surprise', 'fear', 'anticipation', 'positive', 'disgust', 'joy', 'negative', 'sadness', 'trust'}
+پرواز: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+سیل: {'fear'}
+گل: {'positive'}
+جریان: {'positive'}
+آنفلوآنزا: {'negative', 'fear'}
+نوسان: {'surprise', 'anger', 'fear', 'anticipation', 'negative'}
+فلک: {'surprise'}
+فلاش: {'positive'}
+تمرکز: {'positive'}
+دنباله رو: {'trust'}
+احمقانه: {'joy', 'negative'}
+عشق ورزیدن: {'positive', 'joy'}
+غذا: {'positive', 'joy', 'trust'}
+فوتبال: {'positive', 'joy', 'anticipation'}
+علوفه: {'negative'}
+پیشاپیش: {'anger', 'negative', 'fear'}
+استقامت: {'positive', 'trust'}
+زور: {'anger', 'negative', 'fear'}
+مجبور شدم: {'negative', 'fear'}
+پیش رو: {'positive'}
+ساعد: {'anger', 'anticipation'}
+پیشگویی: {'fear', 'negative', 'anticipation'}
+مسدود کردن: {'sadness', 'negative', 'fear'}
+پدران: {'positive', 'joy', 'trust'}
+فراموش کردن: {'negative'}
+پیش از آن: {'positive'}
+خارجی: {'negative', 'fear'}
+کارشناسی ارشد: {'positive'}
+پیشگام: {'anger', 'fear', 'anticipation', 'positive', 'negative'}
+آینده نگری: {'positive', 'trust', 'anticipation'}
+پیشگویی شده: {'fear', 'negative', 'anticipation'}
+ضمانت: {'anger', 'positive', 'negative', 'sadness', 'trust'}
+ضبط شده: {'negative'}
+مصونیت: {'sadness', 'negative', 'fear'}
+جعل: {'positive', 'negative'}
+بخشش: {'positive', 'trust'}
+فراموش شده: {'sadness', 'negative', 'fear'}
+رسمی بودن: {'trust'}
+شکل گیرنده: {'positive', 'trust'}
+توانمند: {'fear'}
+تشکیل: {'anticipation'}
+فرمول: {'positive', 'trust'}
+ترک کن: {'sadness', 'negative'}
+قلعه: {'positive', 'sadness', 'trust', 'fear'}
+قوی: {'positive'}
+تقویت کنید: {'positive'}
+استعداد: {'positive', 'joy', 'trust'}
+خوش شانس: {'positive', 'joy', 'surprise'}
+رو به جلو: {'positive'}
+ناپاک: {'disgust', 'anger', 'negative', 'fear'}
+پیدا شد: {'positive', 'joy', 'trust'}
+شکستگی: {'negative'}
+شکننده: {'sadness', 'negative', 'fear'}
+معطر: {'positive'}
+چارچوب: {'trust'}
+صریح: {'positive', 'trust'}
+افتخار: {'positive', 'trust'}
+از کوره در رفته: {'surprise', 'fear', 'anticipation', 'disgust', 'negative'}
+تقلب: {'anger', 'negative', 'fear'}
+مملو: {'sadness', 'negative', 'fear'}
+خسته شده: {'sadness', 'negative'}
+آزادی: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'trust'}
+آزادانه: {'positive', 'joy', 'trust'}
+انجماد: {'negative'}
+دیوانه وار: {'anger', 'negative', 'fear'}
+دیوانگی: {'negative'}
+اصطکاک: {'anger'}
+دوست: {'positive', 'joy', 'trust'}
+مهربان: {'positive', 'joy', 'trust', 'anticipation'}
+هلی کوپتر: {'fear'}
+وحشت زده: {'surprise', 'negative', 'fear'}
+سرگردان: {'surprise', 'anger', 'fear', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+یخ زده: {'negative'}
+فوم: {'negative'}
+اخم: {'sadness', 'negative'}
+صرفه جویی: {'positive', 'joy', 'disgust', 'trust'}
+مثمر ثمر: {'positive'}
+بی فایده: {'sadness', 'disgust', 'anger', 'negative'}
+نا امیدی: {'anger', 'negative'}
+سخن بی معنی وبیهوده: {'negative'}
+فراری: {'anger', 'fear', 'disgust', 'negative', 'sadness', 'trust'}
+تحقق یابد: {'positive', 'joy'}
+تحقق: {'positive', 'joy', 'trust', 'anticipation'}
+پر شده: {'positive'}
+دود: {'disgust', 'anger', 'negative'}
+دودکش: {'anger', 'negative'}
+اساسی: {'positive', 'trust'}
+مراسم خاکسپاری: {'sadness'}
+قارچ: {'disgust', 'negative'}
+فانک: {'sadness', 'negative'}
+کوره: {'anger'}
+خرابه: {'sadness', 'negative', 'fear'}
+فیوز: {'positive', 'trust'}
+همجوشی: {'positive'}
+ایراد گیر: {'disgust', 'negative'}
+گابی: {'disgust', 'negative'}
+گنگ: {'disgust', 'negative'}
+گجتی: {'trust'}
+کسب کردن: {'positive', 'joy', 'anticipation'}
+میتواند: {'disgust', 'anger', 'negative'}
+دلبری: {'positive'}
+گاو نر: {'sadness', 'anger', 'negative', 'fear'}
+خیلی ممنون: {'positive'}
+قمار: {'surprise', 'negative', 'anticipation'}
+قمار باز: {'surprise', 'negative', 'anticipation'}
+زمان: {'anticipation', 'anger', 'negative', 'fear'}
+شکاف: {'negative'}
+زباله: {'disgust', 'negative'}
+باغ: {'positive', 'joy'}
+قرمز: {'surprise', 'fear', 'disgust', 'negative', 'sadness'}
+گارنت: {'positive'}
+چاشنی زدن: {'negative'}
+پادگان: {'positive', 'trust'}
+گشا: {'negative', 'fear'}
+نفس کشیدن: {'positive', 'surprise'}
+دروازه: {'trust'}
+چپ: {'negative'}
+اندازه گیری: {'trust'}
+گاوک: {'surprise'}
+خبرنامه: {'positive', 'trust'}
+دنده: {'positive'}
+ژلاتین: {'disgust'}
+جواهر: {'positive', 'joy'}
+عمومی: {'positive', 'trust', 'anticipation'}
+سخاوتمندانه: {'surprise', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+نابغه: {'positive'}
+مردم: {'anger', 'fear', 'positive', 'disgust', 'negative'}
+با شکوه: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+نجیب زاده: {'positive', 'trust'}
+لطافت: {'positive'}
+دایی: {'positive', 'trust'}
+اصل: {'positive', 'trust'}
+گوجه فرنگی: {'positive'}
+سالمندان: {'sadness', 'negative'}
+ریشه: {'disgust', 'anticipation'}
+جوانه زدن: {'anticipation'}
+محله یهودی نشین: {'disgust', 'negative', 'sadness', 'fear'}
+شبح: {'fear'}
+ارواح: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'negative'}
+غول: {'fear'}
+gibberish: {'anger', 'negative'}
+هدیه: {'positive', 'joy', 'surprise', 'anticipation'}
+باتجربه: {'positive'}
+غول پیکر: {'positive'}
+گیج کردن: {'positive', 'joy'}
+تیر اهن: {'positive', 'trust'}
+یخبندان: {'negative'}
+خوشحالم: {'positive', 'joy', 'anticipation'}
+گلادیاتور: {'fear'}
+تابش خیره کننده: {'anger', 'negative', 'fear'}
+سلیس و چرب زبان: {'negative'}
+سر خوردن: {'positive', 'joy', 'anticipation'}
+با روشنایی ضعیف تابیدن: {'positive', 'joy', 'surprise', 'anticipation'}
+زرق و برق: {'joy', 'disgust'}
+پر زرق و برق: {'positive'}
+شکوه و عظمت: {'positive', 'joy', 'trust', 'anticipation'}
+شکوفا شدن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+شکوه: {'positive', 'joy', 'trust', 'anticipation'}
+براق: {'positive'}
+گنوم: {'disgust', 'anger', 'negative', 'fear'}
+گوب: {'disgust'}
+غواصی: {'disgust', 'negative', 'fear'}
+خدایا: {'fear', 'anticipation', 'positive', 'joy', 'trust'}
+خداحافظ: {'positive', 'joy', 'trust'}
+خدای ناکرده: {'positive', 'joy', 'surprise'}
+طلا: {'positive', 'negative'}
+سوزاک: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+برو: {'disgust', 'negative'}
+خوبی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+کالاها: {'positive'}
+حسن نیت: {'positive'}
+بالا: {'anger', 'fear', 'anticipation', 'positive', 'disgust', 'negative', 'sadness', 'trust'}
+گلو: {'disgust', 'negative'}
+گوریل: {'negative'}
+انجیل: {'positive', 'trust'}
+شایعات بی اساس: {'negative'}
+گوگ: {'negative'}
+نقرس: {'negative'}
+دولت: {'positive', 'trust', 'negative', 'fear'}
+فرماندار: {'trust'}
+رحمت: {'positive'}
+برازنده: {'positive'}
+با مهربانی: {'positive'}
+تدریجی: {'anticipation'}
+فارغ التحصیلی: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'trust'}
+دستور زبان: {'trust'}
+نوه ها: {'positive', 'joy', 'trust', 'anticipation'}
+قدر: {'positive'}
+پدر بزرگ: {'trust'}
+مادر بزرگ: {'positive'}
+اعطا کردن: {'positive', 'joy', 'trust', 'anticipation'}
+اعطا شده: {'positive'}
+درک کردن: {'negative', 'anticipation'}
+رنده کردن: {'negative'}
+رنده شده: {'anger', 'negative'}
+سپاسگزار: {'positive', 'joy'}
+سپاسگزارم: {'positive', 'joy', 'surprise'}
+گریتینگ: {'disgust', 'anger', 'negative'}
+حق شناسی: {'positive', 'joy'}
+قبر: {'sadness', 'negative', 'fear'}
+گران شدن: {'anticipation'}
+خاکستری: {'disgust', 'sadness'}
+عظمت: {'positive', 'joy', 'surprise', 'trust'}
+طمع: {'disgust', 'anger', 'negative'}
+طمع کار: {'disgust', 'negative'}
+سبز: {'positive', 'joy', 'trust'}
+تبریک: {'positive', 'surprise'}
+گیج کننده: {'positive'}
+نارنجک: {'negative', 'fear'}
+مضطرب: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+دوده: {'disgust', 'negative'}
+گرمی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+سنگ زنی: {'negative'}
+گریت: {'positive'}
+گره: {'positive', 'trust'}
+گریزلی: {'negative', 'fear'}
+ناخوشایند: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+غریب: {'joy', 'disgust', 'negative'}
+زمینی: {'trust'}
+مبتنی بر: {'sadness', 'negative', 'fear'}
+بی اساس: {'negative'}
+رشد: {'positive', 'joy', 'trust', 'anticipation'}
+رشد کردن: {'disgust', 'anger', 'negative', 'fear'}
+به سختی: {'negative'}
+بد خلق: {'disgust', 'anger', 'negative', 'sadness'}
+محافظت شده: {'trust'}
+سرپرستی: {'positive', 'trust'}
+قوماندانی: {'positive', 'trust'}
+چریکی: {'negative', 'fear'}
+حدس بزن: {'surprise'}
+راهنمایی: {'positive', 'trust'}
+راهنما: {'positive', 'trust'}
+کتاب راهنمای: {'positive', 'trust'}
+گناه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+گیوتین: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+پوشش: {'negative'}
+زود باور: {'sadness', 'trust', 'negative'}
+باروت: {'fear'}
+معلم: {'positive', 'trust'}
+گودال: {'trust'}
+دل و روده: {'positive'}
+پسران: {'disgust'}
+ژیمناست: {'positive'}
+کولی: {'negative'}
+زیستگاه: {'positive'}
+معمولی: {'positive', 'trust', 'anticipation'}
+تگرگ: {'positive', 'trust', 'negative'}
+مودار: {'disgust', 'negative'}
+هاله: {'positive'}
+نیمه راه: {'negative'}
+هدر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+همسترینگ: {'sadness', 'anger', 'negative'}
+کتابچه راهنمای: {'trust'}
+حلق آویز: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+دژخیم: {'negative', 'fear'}
+تکان خوردن: {'surprise', 'anger', 'negative', 'anticipation'}
+گام: {'surprise', 'anticipation'}
+رخ دادن: {'anticipation'}
+با خوشحالی: {'positive', 'joy'}
+آزار و اذیت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بندرگاه: {'trust'}
+سخت است: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سختی: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness', 'trust'}
+هاردی: {'positive', 'joy', 'trust'}
+صدمه: {'sadness', 'anger', 'negative', 'fear'}
+هماهنگ: {'positive', 'joy', 'trust'}
+هری: {'sadness', 'anger', 'negative'}
+محصول: {'positive', 'joy', 'anticipation'}
+هش: {'negative'}
+حشیش: {'negative'}
+شتابزده: {'negative'}
+نفرت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متنفر بودن: {'anger', 'negative'}
+خالی از سکنه: {'sadness', 'negative', 'fear'}
+ویران کردن: {'anger', 'negative', 'fear'}
+شاهین: {'fear'}
+سردرد: {'negative'}
+چراغ جلو: {'anticipation'}
+سرحال: {'negative'}
+التیام یابد: {'positive', 'joy', 'trust'}
+شفا: {'positive', 'joy', 'trust', 'anticipation'}
+سالم: {'positive', 'joy', 'trust'}
+شنیدن: {'negative', 'fear'}
+دل درد: {'sadness', 'anger', 'negative'}
+سوزش سر دل: {'negative'}
+اجاق: {'positive'}
+صمیمانه: {'positive', 'joy'}
+بی عاطفه: {'sadness', 'negative'}
+کرم قلب: {'disgust'}
+ملکی: {'negative', 'fear'}
+آسمان ها: {'positive', 'joy', 'trust'}
+به شدت: {'positive', 'sadness', 'negative'}
+هودونیزم: {'positive', 'joy', 'negative'}
+کل: {'negative'}
+کتابچه: {'positive', 'fear', 'anticipation'}
+جهنم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کلاه ایمنی: {'positive', 'fear'}
+یاور: {'positive', 'trust'}
+درمانده: {'sadness', 'negative', 'fear'}
+بی نظمی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+هموروئید: {'negative'}
+گیاهان: {'positive'}
+ارتداد: {'trust', 'negative'}
+یتیم: {'disgust', 'negative', 'sadness', 'fear'}
+میراث: {'trust'}
+هرمافردی: {'surprise', 'negative'}
+گوشه نشین: {'sadness', 'trust'}
+قهرمانانه: {'positive', 'joy', 'surprise', 'trust'}
+قهرمانان: {'positive'}
+هروئین: {'negative'}
+قهرمانی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+هرپس: {'disgust', 'negative'}
+ویروس هرپس: {'disgust', 'negative'}
+تردید: {'positive', 'trust', 'negative', 'fear'}
+غروب آفتاب: {'positive', 'joy', 'trust', 'anticipation'}
+پنهان شدن: {'fear'}
+قایم شدن: {'fear'}
+مرتفع ترین: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'negative'}
+هیپی: {'negative'}
+استخدام: {'positive', 'joy', 'trust', 'anticipation'}
+حس کن: {'anger', 'negative', 'fear'}
+اشپیگل: {'negative'}
+اصابت: {'anger', 'negative'}
+تا کنون: {'negative'}
+کندو: {'negative'}
+سفید مایل به خاکستری: {'sadness', 'negative'}
+رمز گشایی: {'surprise', 'anger', 'disgust', 'negative', 'sadness'}
+چنگال: {'sadness', 'negative'}
+تقدس: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'trust'}
+توخالی: {'sadness', 'negative'}
+هولوکاست: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خانه به دوش: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+مشق شب: {'fear'}
+قتل: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+همجنسگرایی: {'negative'}
+عسل: {'positive'}
+ماه عسل: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+افتخار و احترام: {'positive', 'trust'}
+محترمانه: {'positive', 'trust'}
+کاپوت ماشین: {'disgust', 'anger', 'negative', 'fear'}
+hooded: {'fear'}
+قلاب: {'negative'}
+هوت: {'disgust', 'anger', 'negative'}
+امید: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+امیدوارم: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+نومید: {'sadness', 'negative', 'fear'}
+گروه ترکان و مغولان: {'surprise', 'negative'}
+افق: {'positive', 'anticipation'}
+ناگوار: {'disgust', 'anger', 'negative', 'fear'}
+اسب: {'trust'}
+خوابگاه: {'sadness'}
+بیمارستان: {'sadness', 'trust', 'fear'}
+مهمان نوازی: {'positive'}
+گروگان: {'anger', 'negative', 'fear'}
+خصومت آمیز: {'disgust', 'anger', 'negative', 'fear'}
+خصومت ها: {'anger', 'negative', 'fear'}
+داغ: {'anger'}
+لوازم منزل: {'positive'}
+خانه داری: {'positive'}
+در آغوش گرفتن: {'positive', 'joy', 'trust'}
+هولک: {'disgust'}
+انسانی: {'positive', 'sadness', 'anger', 'negative'}
+انسان دوستانه: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+بشریت: {'positive', 'joy', 'trust'}
+فروتن: {'positive', 'disgust', 'negative', 'sadness', 'trust'}
+فروتنی: {'positive', 'sadness', 'trust'}
+تحقیر کردن: {'sadness', 'anger', 'negative'}
+تحقیر آمیز: {'disgust', 'negative'}
+حقارت: {'disgust', 'negative', 'sadness'}
+طنز آمیز: {'positive', 'joy'}
+هانچ: {'negative'}
+گرسنه: {'negative', 'anticipation'}
+شکارچی: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+شکار: {'fear', 'anger', 'negative', 'anticipation'}
+هورا: {'positive', 'joy'}
+عجله کرد: {'negative', 'anticipation'}
+چاق کننده: {'negative'}
+کلبه: {'positive', 'sadness'}
+هیدرا: {'negative', 'fear'}
+هیدروسفالی: {'disgust', 'negative', 'sadness', 'fear'}
+بهداشتی: {'positive'}
+شعر: {'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+اعتیاد به مواد مخدر: {'negative', 'anticipation'}
+هیپربول: {'negative'}
+هیپرتروفی: {'disgust', 'surprise', 'fear'}
+دورویی: {'negative'}
+منافق: {'disgust', 'negative'}
+ریاکاری: {'disgust', 'negative'}
+فرضیه: {'surprise', 'trust', 'anticipation'}
+هیستری: {'negative', 'fear'}
+هیستریک: {'anger', 'negative', 'fear'}
+ایده آلیسم: {'positive'}
+ادم سفیه و احمق: {'disgust', 'negative'}
+ایدوتیک: {'disgust', 'anger', 'negative'}
+بله: {'negative'}
+بت: {'positive'}
+بت پرستی: {'disgust', 'negative', 'fear'}
+جهل: {'negative'}
+نادان: {'disgust', 'negative'}
+چشم پوشی: {'negative'}
+غیر مجاز: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+غیرقانونی بودن: {'disgust', 'anger', 'negative', 'fear'}
+قابل خواندن نیست: {'positive', 'trust', 'negative'}
+نامشروع: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بی سواد: {'disgust', 'negative'}
+بیماری: {'sadness', 'disgust', 'negative', 'fear'}
+غیر منطقی است: {'negative'}
+نشان دادن: {'positive', 'anticipation'}
+مشهور: {'positive'}
+تقلید کرد: {'negative'}
+معصوم: {'positive', 'joy', 'trust'}
+نابالغ: {'negative', 'anticipation'}
+نارسایی: {'anger', 'negative', 'anticipation'}
+غوطه ور شدن: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'trust'}
+مهاجر: {'fear'}
+قریب الوقوع: {'fear', 'anticipation'}
+غیر اخلاقی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بد اخلاقی: {'disgust', 'anger', 'negative'}
+جاویدان: {'positive'}
+جاودانگی: {'anticipation'}
+ایمن سازی: {'trust'}
+تحویل دادن: {'positive', 'trust'}
+بی طرفانه: {'positive', 'trust'}
+بی طرفی: {'positive', 'trust'}
+غیر قابل عبور است: {'negative'}
+بی صبری: {'negative'}
+بی صبر: {'negative', 'anticipation'}
+امپراطوری: {'disgust', 'negative', 'fear'}
+تجدید نظر: {'positive', 'trust', 'negative'}
+غیر قابل نفوذ: {'positive', 'trust'}
+ناقص: {'negative'}
+نفوذ پذیر: {'anger', 'fear'}
+جعل هویت: {'negative'}
+بی وقفه: {'negative'}
+درگیر: {'anger', 'negative'}
+بی ادب: {'disgust', 'negative'}
+اهمیت: {'positive', 'anticipation'}
+مهم: {'positive', 'trust'}
+غیرممکن است: {'surprise', 'anger', 'anticipation', 'negative', 'sadness'}
+ناتوانی جنسی: {'sadness', 'anger', 'negative', 'fear'}
+پافشاری: {'negative'}
+غیر عملی است: {'negative'}
+تاثیر گذاشتن: {'positive'}
+احساس؛ عقیده؛ گمان: {'positive'}
+زندان: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+زندانی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+نامناسب: {'disgust', 'anger', 'negative', 'sadness'}
+بهتر کردن: {'positive', 'joy', 'trust', 'anticipation'}
+بهبود یافته: {'positive'}
+بهبود می یابد: {'positive'}
+ابتکار: {'surprise'}
+بداهه: {'positive', 'surprise', 'anticipation'}
+ناخالصی: {'disgust', 'negative'}
+عجز: {'sadness', 'negative'}
+غیر قابل دسترس: {'sadness', 'anger', 'negative'}
+نادرست: {'surprise', 'negative'}
+بی عملی: {'negative'}
+عدم فعالیت: {'negative'}
+ناکافی بودن: {'negative'}
+ناکافی: {'sadness', 'negative'}
+غیر قابل قبول: {'disgust', 'anger', 'negative'}
+غیر قابل استفاده است: {'negative'}
+بی توجهی: {'disgust', 'anger', 'negative', 'sadness'}
+نامفهوم: {'negative'}
+افتتاحیه: {'anticipation'}
+افتتاح: {'positive', 'joy', 'trust', 'anticipation'}
+غیر قابل شمارش: {'negative'}
+ناتوانی: {'negative'}
+در صورت: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بخور دادن: {'anger', 'negative'}
+سرطانی: {'disgust', 'negative'}
+حادثه: {'surprise'}
+سوزاندن: {'sadness', 'anger', 'negative', 'fear'}
+شیب: {'trust'}
+عبارتند از: {'positive'}
+مشمول: {'positive'}
+شامل: {'positive'}
+گنجاندن: {'trust'}
+ناسازگار: {'disgust', 'anger', 'negative', 'sadness'}
+درآمد: {'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+بی کفایتی: {'negative'}
+ناقص بودن: {'negative'}
+غیر قابل درک: {'negative'}
+ناهمخوان: {'anger', 'negative'}
+غلط: {'negative'}
+افزایش دادن: {'positive'}
+بی اعتقاد: {'disgust', 'anger', 'negative'}
+انکوبوس: {'disgust', 'negative', 'fear'}
+از دست دادن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تهاجم: {'anger', 'negative', 'fear'}
+بی حرمتی: {'negative'}
+نامعتبر است: {'negative', 'fear'}
+جبران خسارت: {'positive', 'trust'}
+عقب نشینی: {'trust', 'negative'}
+استقلال: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+غیر قابل خراب شدن: {'positive', 'trust'}
+نامشخص: {'negative'}
+بیچاره: {'sadness', 'negative'}
+فردیت: {'positive'}
+ناپایداری: {'trust'}
+تعلیم و تربیت: {'anger', 'negative', 'fear'}
+تنبل: {'sadness', 'negative'}
+غیر قابل تحمل: {'anger', 'fear', 'positive', 'disgust', 'negative', 'sadness'}
+شخص غیر قابل توصیف: {'positive'}
+بی اثر: {'disgust', 'negative'}
+ناکارآمدی: {'disgust', 'negative', 'sadness'}
+ناکارآمد: {'sadness', 'negative'}
+بی منطق: {'disgust', 'anger', 'negative'}
+نابرابری: {'sadness', 'anger', 'negative', 'fear'}
+نابرابر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+غیر قابل انکار: {'disgust', 'anger', 'negative', 'sadness'}
+بی تجربگی: {'negative'}
+بی تجربه: {'negative'}
+غیر قابل توضیح است: {'surprise', 'negative'}
+بی اعتنایی: {'trust'}
+بدنام: {'disgust', 'anger', 'negative', 'fear'}
+نوزاد: {'surprise', 'fear', 'anticipation', 'positive', 'joy'}
+کودک کشی: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+انفارکت: {'surprise', 'negative', 'fear'}
+عفونت: {'negative', 'fear'}
+عفونی: {'disgust', 'negative', 'sadness', 'fear'}
+پایین تر: {'sadness', 'anger', 'negative', 'fear'}
+پایین تر بودن: {'negative'}
+ناباروری: {'sadness', 'negative'}
+کافر: {'disgust', 'anger', 'negative', 'fear'}
+نفوذ: {'positive', 'anger', 'negative', 'fear'}
+نا محدود: {'positive'}
+بی نهایت: {'positive', 'joy', 'trust', 'anticipation'}
+التهاب: {'positive', 'negative'}
+تورم: {'negative', 'fear'}
+موثر: {'positive', 'trust'}
+به اطلاع رساندن: {'trust'}
+اطلاعات: {'positive'}
+اطلاع: {'negative', 'anticipation'}
+توهین: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+اغلب: {'negative'}
+وراثت: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+مهار: {'disgust', 'anger', 'negative', 'sadness'}
+غیر انسانی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تزریق: {'fear'}
+دستورالعمل: {'positive', 'trust', 'negative'}
+مجروح: {'sadness', 'negative', 'fear'}
+بی عدالتی: {'anger', 'negative'}
+بی گناهی: {'positive'}
+بی گناه: {'positive', 'trust'}
+بی ضرر: {'positive'}
+نوآوری: {'positive'}
+تلقیح: {'trust', 'anticipation'}
+محقق: {'positive'}
+پرس و جو: {'positive', 'anticipation'}
+کنجاو: {'positive'}
+جنون: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ناامن: {'sadness', 'anger', 'negative', 'fear'}
+ناامنی: {'negative', 'fear'}
+جدایی ناپذیر: {'positive', 'joy', 'trust'}
+موذی: {'disgust', 'anger', 'negative', 'fear'}
+علامت گذاری: {'positive'}
+نامنظم: {'negative'}
+ناچیز: {'sadness', 'anger', 'negative'}
+بی حسی: {'sadness', 'negative'}
+گستاخ: {'negative'}
+بازرس: {'positive'}
+الهام بخش: {'positive', 'joy', 'anticipation'}
+الهام گرفته: {'positive', 'joy', 'surprise', 'trust'}
+بی ثباتی: {'disgust', 'negative', 'fear'}
+نصب: {'anticipation'}
+تشویق کنید: {'negative'}
+غریزی: {'positive', 'disgust', 'anger', 'fear'}
+مؤسسه: {'trust'}
+دستور دادن: {'positive', 'trust'}
+دستورالعمل ها: {'trust', 'anticipation'}
+مربی: {'positive', 'trust', 'anticipation'}
+وسیله: {'positive'}
+کافی نیست: {'negative'}
+عایق: {'trust'}
+مطمئن شو: {'positive', 'trust'}
+شورشی: {'anger', 'negative', 'fear'}
+قیام: {'fear', 'anger', 'negative', 'anticipation'}
+تمامیت: {'positive', 'trust'}
+عقل: {'positive'}
+فکری: {'positive'}
+هوش: {'positive', 'joy', 'trust', 'fear'}
+هوشمند: {'positive', 'trust'}
+قصد دارم: {'trust'}
+مورد نظر: {'positive', 'anticipation'}
+بین: {'sadness', 'negative'}
+شفاعت: {'trust'}
+مقاربت: {'positive'}
+علاقه: {'positive'}
+علاقه مند: {'positive', 'disgust', 'sadness'}
+جالب هست: {'positive'}
+دخالت: {'anger', 'negative'}
+موقت: {'trust', 'negative', 'anticipation'}
+داخلی: {'positive', 'disgust', 'trust'}
+میانجی: {'positive', 'trust', 'anticipation'}
+تعویض: {'positive'}
+وقفه: {'surprise', 'anger', 'negative', 'anticipation'}
+بازجویی: {'fear', 'anticipation', 'positive', 'joy', 'trust'}
+منقطع: {'sadness', 'negative'}
+مداخله: {'positive', 'sadness', 'negative'}
+مصاحبه کننده: {'fear'}
+فاقد وصیت نامه: {'negative'}
+روده: {'disgust'}
+صمیمی: {'positive', 'joy', 'trust', 'anticipation'}
+دقیقا: {'joy', 'fear', 'anticipation'}
+ترساندن: {'surprise', 'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+ارعاب: {'anger', 'negative', 'fear'}
+غير قابل تحمل: {'anger', 'negative'}
+عدم تحمل: {'disgust', 'anger', 'negative', 'fear'}
+مسمومیت: {'disgust', 'negative'}
+رام نشدنی: {'anger', 'negative'}
+بی باک: {'positive'}
+فتنه: {'surprise', 'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+سرزده: {'surprise', 'anger', 'fear', 'disgust', 'negative'}
+بینش: {'positive', 'trust'}
+بصری: {'positive'}
+به طور مستقیم: {'anticipation'}
+حمله کردن: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+بی اعتبار: {'sadness', 'negative'}
+نامعتبر بودن: {'negative'}
+نامعتبر: {'negative'}
+همیشه: {'positive'}
+اختراع: {'positive'}
+مخترع: {'positive'}
+تحقیق کردن: {'positive'}
+تحقیق و بررسی: {'anticipation'}
+تقویت: {'positive', 'joy', 'trust'}
+دعوت نامه: {'positive', 'anticipation'}
+دعوت: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+دعوت کردن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+فراخوان: {'trust', 'anticipation'}
+فراخوانی: {'anticipation'}
+غیر داوطلبانه: {'negative'}
+مهندسی: {'anger', 'negative'}
+جیغ زدن: {'surprise', 'anger', 'fear', 'disgust', 'negative'}
+عنبیه: {'fear'}
+اهن: {'positive', 'trust'}
+آهن آلات: {'negative'}
+غیر منطقی: {'disgust', 'negative', 'fear'}
+ابهام: {'negative'}
+غیر قابل انکار است: {'positive', 'trust'}
+بی رویه: {'negative'}
+غیر مرتبط: {'negative'}
+جبران ناپذیر: {'sadness', 'negative', 'fear'}
+وظیفه نشناس: {'negative'}
+تحریک پذیری: {'anger', 'negative'}
+تحریک کننده: {'disgust', 'anger', 'negative'}
+منزوی: {'sadness'}
+جدا شده: {'sadness', 'negative', 'fear'}
+انزوا: {'positive', 'sadness', 'negative', 'fear'}
+جب: {'anger'}
+جکپات: {'positive', 'joy', 'surprise', 'anticipation'}
+نگهدارنده: {'surprise', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+اصطلاحات: {'negative'}
+jarring: {'sadness', 'negative', 'fear'}
+زردی: {'negative', 'fear'}
+فک: {'fear'}
+به خطر اندازد: {'anger', 'negative', 'fear'}
+حرکت کردن: {'surprise', 'anger'}
+است وجود دارد: {'positive', 'joy', 'surprise'}
+کار: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+جان: {'disgust', 'negative'}
+پیوست: {'positive'}
+جوک: {'negative'}
+جوکر: {'positive', 'joy', 'surprise'}
+شوخی: {'surprise', 'anger', 'fear', 'positive', 'negative'}
+روز: {'positive', 'joy', 'negative'}
+روزنامه نگاری: {'trust'}
+روزنامه نگار: {'positive'}
+سفر: {'surprise', 'fear', 'anticipation', 'positive', 'joy'}
+سفرنامهنویس: {'trust'}
+جالب: {'positive', 'joy'}
+شادی: {'positive', 'joy', 'surprise', 'anticipation'}
+جبلت: {'positive', 'joy', 'surprise', 'trust'}
+جشن سال نو: {'positive', 'joy', 'surprise'}
+قضایی: {'positive', 'trust', 'anticipation'}
+قوه قضاییه: {'trust', 'anticipation'}
+دارای قوه قضاوت سلیم: {'positive', 'trust'}
+خجالت کشیدن: {'surprise', 'anticipation', 'positive', 'joy', 'negative'}
+پرش: {'positive', 'joy'}
+جنگل: {'fear'}
+جنس اوراق و شکسته: {'negative'}
+فقه: {'sadness'}
+وکیل دادگستری: {'trust'}
+هیئت داوران: {'trust'}
+عدالت: {'positive', 'trust'}
+قابل توجیه است: {'positive', 'trust'}
+توجیه: {'positive'}
+نوجوان: {'negative'}
+نگه دارید: {'positive'}
+کین: {'positive'}
+لانه: {'sadness', 'trust'}
+نفت سفید: {'fear'}
+کلیدی: {'positive'}
+خان: {'trust', 'fear'}
+ضربه زدن: {'anger', 'negative'}
+ادم دزدی کردن: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+نوع: {'positive', 'joy', 'trust'}
+مهربانی: {'positive'}
+خانواده: {'positive', 'joy', 'trust', 'anticipation'}
+پادشاه: {'positive', 'trust'}
+بوسه: {'positive', 'joy', 'surprise', 'anticipation'}
+بادبادک: {'disgust', 'negative'}
+بچه گربه: {'positive', 'joy', 'trust'}
+چنگ زدن: {'sadness', 'negative', 'fear'}
+جلیقه: {'trust'}
+شوالیه: {'positive'}
+گره خورده: {'negative'}
+دانستن: {'positive'}
+دانش: {'positive'}
+کودوس: {'positive', 'joy'}
+برچسب: {'trust'}
+کار کرد: {'sadness', 'negative'}
+دشوار است: {'negative'}
+دخمه پرپیچ و خم: {'negative', 'anticipation'}
+توری: {'anger', 'fear', 'positive', 'negative', 'sadness', 'trust'}
+عدم: {'negative'}
+فاقد: {'negative'}
+لکه نازک: {'negative'}
+بار: {'negative'}
+تیم: {'trust', 'negative'}
+عقب ماندگی: {'anger', 'anticipation', 'disgust', 'negative', 'sadness'}
+لیر: {'negative'}
+گوشت بره: {'positive', 'joy', 'trust'}
+زمین: {'positive'}
+فرود آمد: {'positive'}
+نقطه عطفی: {'trust'}
+رانش زمین: {'sadness', 'negative', 'fear'}
+فرزند: {'negative'}
+لارسن: {'disgust', 'negative'}
+لیزر: {'positive', 'trust'}
+لش: {'anger', 'negative', 'fear'}
+دیر: {'sadness', 'negative'}
+تأخیر: {'negative'}
+توالت: {'disgust', 'negative'}
+خیرخواهانه: {'positive'}
+خنده: {'positive', 'joy', 'surprise', 'anticipation'}
+راه اندازی: {'positive', 'anticipation'}
+برنده جایزه: {'positive', 'trust'}
+لورل: {'positive'}
+لورل ها: {'positive', 'joy'}
+گدازه: {'anger', 'negative', 'fear'}
+قانون: {'trust', 'fear'}
+قانونی: {'anger', 'fear', 'positive', 'joy', 'trust'}
+بی قانونی: {'anger', 'negative', 'fear'}
+طرح دعوی در دادگاه: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ماهی آزاد: {'sadness', 'negative'}
+ملین: {'disgust', 'negative', 'fear'}
+رهبری: {'positive'}
+منتهی شدن: {'trust'}
+لیگ: {'positive'}
+نشت: {'negative'}
+نشتی: {'negative'}
+تکیه دادن: {'trust'}
+فرا گرفتن: {'positive'}
+یادگیری: {'positive'}
+ترک کردن: {'sadness', 'surprise', 'anger', 'negative'}
+استاد: {'positive', 'trust'}
+پیاز: {'negative'}
+زالو: {'disgust', 'negative', 'fear'}
+خواندن: {'positive', 'disgust', 'negative'}
+لری: {'surprise'}
+روحیه: {'positive'}
+افسانهای: {'positive'}
+خوانایی: {'positive'}
+قابل خواندن است: {'positive'}
+قانون گذار: {'trust'}
+مجلس قانونگذاری: {'trust'}
+مشروعیت: {'trust'}
+اوقات فراغت: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+به آرامی: {'positive'}
+لاما: {'positive'}
+لیمو: {'disgust', 'negative'}
+قرض دهنده: {'trust'}
+پرخاشگر: {'disgust', 'negative', 'sadness', 'fear'}
+لزبین: {'disgust', 'negative', 'sadness'}
+درس ها: {'negative', 'anticipation'}
+کمتر: {'disgust', 'negative'}
+درس: {'positive', 'trust', 'anticipation'}
+نامه: {'positive', 'trust', 'anticipation'}
+لوسمی: {'sadness', 'anger', 'negative', 'fear'}
+levee: {'trust'}
+سطح: {'positive', 'trust'}
+قدرت نفوذ: {'positive'}
+مالیات: {'sadness', 'negative'}
+نابینا: {'disgust', 'negative'}
+لیبرال: {'positive', 'negative'}
+کتابخانه: {'positive'}
+لیسیدن: {'disgust', 'negative'}
+ستوان: {'trust'}
+فانوس دریایی: {'positive'}
+محدود: {'sadness', 'anger', 'negative'}
+لمس کردن: {'negative'}
+خطوط: {'fear'}
+زبانشناس: {'positive', 'trust'}
+کتانی: {'negative'}
+شیر نر: {'positive', 'fear'}
+مشروب: {'joy', 'anger', 'negative', 'sadness'}
+بی خوابی: {'sadness', 'negative'}
+لیچ: {'positive'}
+شکایت کردن: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+دعوی قضایی: {'negative'}
+زنده: {'anger', 'positive', 'joy', 'disgust', 'negative'}
+خیر: {'negative'}
+لابی گر: {'negative'}
+محلی سازی کنید: {'anticipation'}
+قفل کردن: {'sadness', 'negative', 'fear'}
+ملخ: {'negative', 'fear'}
+اقامت: {'trust'}
+بلند: {'negative'}
+منطقی: {'positive'}
+تنها: {'sadness'}
+تنهایی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+طولانی: {'anticipation'}
+طول عمر: {'positive'}
+لئو: {'disgust', 'negative'}
+پارچه: {'fear', 'negative', 'anticipation'}
+پرداخت کنید: {'disgust', 'negative'}
+لوئیس: {'negative'}
+غارت کردن: {'negative'}
+خداوند: {'positive', 'disgust', 'trust', 'negative'}
+کم شده: {'sadness', 'negative'}
+بخت آزمایی: {'anticipation'}
+صدای بلند: {'positive', 'joy', 'anger', 'negative'}
+سالن: {'anger', 'negative'}
+باشه: {'disgust', 'negative'}
+دوست داشتني: {'surprise', 'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+عشقبازی: {'positive', 'joy', 'trust'}
+عاشق: {'positive', 'joy', 'trust', 'anticipation'}
+با محبت: {'positive', 'joy', 'trust'}
+پایین آوردن: {'negative'}
+پایین ترین: {'sadness', 'negative'}
+پایین زمین: {'negative'}
+کم کم: {'sadness', 'negative'}
+یکپارچه: {'disgust', 'negative'}
+ریه: {'surprise'}
+دلگرم کننده: {'negative'}
+لجوج: {'disgust', 'negative'}
+لرزش: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+خیره کننده است: {'negative'}
+شهوت: {'negative', 'anticipation'}
+لرز: {'positive', 'joy'}
+شهوت انگیز: {'disgust', 'negative'}
+مجذوب: {'anger', 'fear', 'positive', 'disgust', 'negative'}
+مجلل: {'positive', 'joy'}
+لوکس: {'positive', 'joy'}
+دروغ گویی: {'disgust', 'anger', 'negative'}
+لینچ: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+لور: {'positive', 'joy'}
+لاریجانی: {'positive', 'joy'}
+گربه: {'negative', 'fear'}
+دستگاه: {'trust', 'fear'}
+madden: {'anger', 'negative', 'fear'}
+مافیای: {'negative', 'fear'}
+مگ: {'fear'}
+جادویی: {'positive', 'joy', 'surprise', 'anticipation'}
+آهن ربا: {'positive', 'trust'}
+مغناطیس: {'positive'}
+مگنتیت: {'positive'}
+دوشیزه: {'positive'}
+پست الکترونیکی: {'anticipation'}
+اصلی: {'positive', 'trust'}
+نگهداری: {'trust'}
+عمده: {'positive'}
+اکثریت: {'positive', 'joy', 'trust'}
+بی قراری: {'sadness', 'negative'}
+مالاریا: {'disgust', 'negative', 'sadness', 'fear'}
+آزار و شکنجه: {'disgust', 'negative'}
+تنقلات: {'anger', 'negative', 'fear'}
+بدخیمی: {'sadness', 'negative', 'fear'}
+بدخیم: {'anger', 'negative', 'fear'}
+بدرفتاری: {'anger', 'negative'}
+مادر: {'anger', 'fear', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+مدیریت کردن: {'positive', 'trust'}
+مدیریت: {'positive', 'trust'}
+mandamus: {'negative', 'fear'}
+ماندارین: {'positive', 'trust'}
+بسیاری: {'disgust', 'negative', 'fear'}
+گم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+انسانیت: {'positive'}
+شیدایی: {'negative'}
+مانیکال: {'negative'}
+واقعه: {'fear'}
+ظاهر شد: {'positive'}
+دستکاری: {'anger', 'negative', 'fear'}
+مردانه: {'positive'}
+رفتارها: {'positive'}
+شرکت تولید کننده: {'positive'}
+کود کشاورزی: {'disgust', 'negative'}
+دریا: {'positive', 'negative'}
+مارس: {'positive'}
+لبه: {'sadness', 'fear', 'negative', 'anticipation'}
+دریایی: {'trust'}
+مشخص شده است: {'positive'}
+قابل فروش است: {'positive'}
+مارون: {'negative'}
+مارکیس: {'positive'}
+ازدواج: {'positive', 'joy', 'trust', 'anticipation'}
+ازدواج کن: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'trust'}
+مارشال: {'positive', 'trust'}
+رزمی: {'anger'}
+مارینگال: {'negative'}
+شهید: {'sadness', 'negative', 'fear'}
+ماسکوشیسم: {'disgust', 'anger', 'negative', 'fear'}
+ماساژ: {'positive', 'joy'}
+تسلط: {'positive', 'joy', 'anger', 'trust'}
+ماتریالیسم: {'negative'}
+ماتریالیست: {'disgust', 'negative'}
+مادری: {'positive', 'negative', 'anticipation'}
+ریاضی: {'trust'}
+ماترو: {'positive', 'trust'}
+مقبره: {'sadness'}
+بیشترین: {'positive', 'trust'}
+چمنزار: {'positive'}
+بی معنی: {'sadness', 'negative'}
+سرخک: {'disgust', 'negative', 'sadness', 'fear'}
+اندازه گرفتن: {'trust'}
+اندازه گیری شده: {'positive', 'trust'}
+مدال: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+واسطه: {'positive', 'trust', 'anticipation'}
+پزشکی: {'positive', 'fear', 'trust', 'anticipation'}
+متوسط: {'negative'}
+میانجیگری: {'negative'}
+مرمره: {'positive'}
+ملانخولی: {'sadness', 'negative'}
+غوغا: {'negative', 'fear'}
+ملودرام: {'sadness', 'anger', 'negative'}
+ریزش: {'sadness', 'negative'}
+یادگاری: {'positive'}
+خاطره انگيز: {'positive', 'joy', 'surprise', 'trust'}
+مدرن: {'negative'}
+مردانگی: {'positive'}
+مزدور: {'negative', 'fear'}
+بازرگان: {'trust'}
+رفتن: {'positive', 'anticipation'}
+جالب است: {'positive', 'joy'}
+بهم ریختگی: {'disgust', 'negative'}
+پیام رسان: {'trust'}
+متاستاز: {'negative'}
+متانول: {'negative'}
+شهری بزرگ: {'positive'}
+ذره: {'positive'}
+میکروسکوپ: {'positive', 'trust'}
+ماما: {'anticipation', 'positive', 'joy', 'negative', 'trust'}
+مامایی: {'positive'}
+توانا: {'anger', 'fear', 'positive', 'joy', 'trust'}
+کپک زده: {'disgust', 'negative'}
+نظامی: {'fear'}
+شبه نظامی: {'sadness', 'anger', 'negative', 'fear'}
+مامان: {'positive'}
+تقلید کردن: {'surprise', 'negative'}
+ذهن: {'positive'}
+ذهن آگاهی: {'positive'}
+به حداقل رساندن: {'negative'}
+کمترین: {'negative'}
+وزارتخانه: {'positive', 'joy', 'trust'}
+اقلیت: {'negative'}
+معجزه: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+معجزه آسا: {'positive', 'joy', 'surprise'}
+چه: {'disgust', 'negative'}
+بد رفتاری: {'disgust', 'surprise', 'anger', 'negative'}
+تصور غلط: {'disgust', 'anger', 'negative', 'fear'}
+سوء رفتار: {'disgust', 'negative'}
+بدبخت: {'disgust', 'anger', 'negative', 'sadness'}
+طرز ناراحت، بدبختانه: {'sadness', 'negative'}
+بد شانسی: {'sadness', 'negative', 'fear'}
+اشتباه تفسیر: {'negative'}
+گمراه کردن: {'anger', 'negative', 'trust', 'fear'}
+گمراه کننده: {'disgust', 'anger', 'negative'}
+سوء مدیریت: {'negative'}
+عدم هماهنگی: {'negative'}
+misnomer: {'negative'}
+ارائه اطلاعات نادرست: {'sadness', 'negative'}
+اشتباه است: {'anger', 'negative'}
+موشک: {'anger', 'fear'}
+گم شده: {'sadness', 'negative', 'fear'}
+مبلغ: {'positive'}
+معشوقه: {'disgust', 'anger', 'negative'}
+سوء تفاهم: {'sadness', 'anger', 'negative'}
+سوء استفاده: {'negative'}
+مایت: {'disgust', 'negative'}
+زاری: {'sadness', 'fear'}
+خندق: {'trust'}
+مال تو: {'anger', 'negative', 'fear'}
+سیار: {'anticipation'}
+مسخره: {'disgust', 'anger', 'negative', 'sadness'}
+مدل: {'positive'}
+در حد متوسط: {'positive'}
+مدیر: {'positive', 'trust', 'fear'}
+تغییر: {'surprise'}
+تکانه: {'positive', 'anticipation'}
+پولی: {'positive', 'anticipation'}
+پول: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'trust'}
+راهب: {'positive', 'trust'}
+تک رنگ: {'disgust', 'negative'}
+یکپارچه سازی: {'trust'}
+انحصارطلبی: {'negative'}
+موزون: {'sadness', 'negative'}
+هیولا: {'surprise', 'anger', 'fear', 'disgust', 'negative'}
+بنای تاریخی: {'positive'}
+قایقرانی: {'trust'}
+مرگی: {'disgust', 'negative', 'sadness', 'fear'}
+صبح بخیر: {'anticipation'}
+مورچه: {'disgust', 'negative', 'fear'}
+فردا: {'anticipation'}
+سوسن: {'negative'}
+فانی: {'negative'}
+ملات: {'positive'}
+رهن: {'trust', 'fear'}
+وام مسکن: {'fear'}
+مرطوب کردن: {'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+مهارتی: {'sadness', 'negative', 'fear'}
+مسجد: {'anger'}
+پشه: {'disgust', 'anger', 'negative'}
+مادر بودن: {'positive', 'joy', 'trust'}
+حرکت: {'anticipation'}
+دلایل: {'positive'}
+سوگواری: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+عزاداری: {'sadness', 'negative'}
+دهان: {'surprise'}
+لبخند: {'surprise', 'positive', 'joy', 'disgust', 'trust'}
+حرکت کن: {'positive'}
+مخاطی: {'disgust'}
+اسفنج: {'disgust', 'negative'}
+گل و لای: {'negative'}
+گل آلود: {'disgust', 'negative'}
+کوپلینگ: {'disgust', 'anger', 'negative'}
+لیوان: {'anger', 'fear', 'positive', 'negative', 'sadness'}
+موول: {'anger', 'negative', 'trust'}
+اوریون: {'negative'}
+تیره: {'disgust', 'negative', 'sadness'}
+عضلانی: {'positive'}
+موسیقی: {'positive', 'joy', 'sadness'}
+موزیکال: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+جهش یافته: {'negative'}
+زخمی شده: {'disgust', 'negative'}
+متقابل: {'positive'}
+پوزه: {'negative', 'fear'}
+نزدیک بینی: {'sadness', 'anger', 'negative'}
+مرموز: {'surprise', 'fear', 'anticipation'}
+رمز و راز: {'surprise', 'anticipation'}
+عارف: {'surprise'}
+ناب: {'surprise', 'negative'}
+نادر: {'negative'}
+آدم ساده: {'negative'}
+بی نام: {'disgust', 'negative'}
+دستمال سفره: {'sadness'}
+نوشدار: {'anticipation'}
+تند و زننده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ملت: {'trust'}
+طبیعت گرایان: {'positive'}
+حالت تهوع: {'disgust', 'negative'}
+قابل حمل: {'positive', 'anticipation'}
+ناوبر: {'trust', 'anticipation'}
+در حال حاضر: {'negative'}
+منظمی: {'positive'}
+ضرورت: {'sadness'}
+شهد: {'positive'}
+لازم است: {'negative'}
+سوزن: {'positive'}
+نیازمند: {'negative'}
+نابکار: {'surprise', 'fear', 'disgust', 'negative', 'sadness'}
+نفی: {'anger', 'negative'}
+منفی: {'sadness', 'negative'}
+مذاکره کن: {'positive', 'trust'}
+مذاکره کننده: {'positive'}
+همسایه: {'positive', 'trust', 'anticipation'}
+محله: {'anticipation'}
+عصب: {'positive'}
+عصبی: {'fear', 'negative', 'anticipation'}
+نستله: {'positive', 'trust'}
+گزنه: {'disgust', 'anger', 'negative'}
+شبکه: {'anticipation'}
+نورالژی: {'sadness', 'negative', 'fear'}
+نوروز: {'sadness', 'negative', 'fear'}
+روانپزشکی: {'disgust', 'negative', 'fear'}
+خنثی: {'trust', 'anticipation'}
+تازه وارد: {'surprise', 'fear'}
+نیکوتین: {'disgust', 'negative'}
+نجار: {'negative'}
+کابوس: {'negative', 'fear'}
+نیهیلیسم: {'negative'}
+شریف: {'positive', 'trust'}
+پر سر و صدا: {'disgust', 'anger', 'negative', 'fear'}
+نامزد شدن: {'positive'}
+عدم انطباق: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+مزخرف: {'negative'}
+بینی: {'sadness', 'disgust', 'negative'}
+قابل توجه است: {'positive'}
+دفتر اسناد رسمی: {'trust'}
+اشاره شد: {'positive'}
+هیچ چیز: {'sadness', 'negative'}
+ایده: {'positive'}
+تغذیه: {'positive'}
+مزاحمت: {'anger', 'negative'}
+صفر: {'negative'}
+بی حس: {'negative'}
+شماره: {'positive'}
+اکنون: {'trust', 'negative'}
+پرستار: {'positive', 'trust'}
+مهد کودک: {'positive', 'joy', 'trust'}
+پرورش دهيد: {'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+مغذی: {'positive', 'sadness'}
+اوف: {'negative'}
+بلوط: {'positive'}
+اواسط: {'positive', 'joy', 'trust', 'anticipation'}
+سوگند: {'positive', 'trust'}
+اطاعت: {'positive', 'trust'}
+چاق: {'disgust', 'negative'}
+چاقی: {'disgust', 'negative', 'sadness'}
+اطاعت کنید: {'trust', 'fear'}
+obi: {'disgust', 'negative', 'fear'}
+obit: {'sadness', 'surprise', 'negative'}
+ناعادلانه: {'sadness', 'anger', 'negative'}
+هدف، واقعگرایانه: {'positive', 'trust', 'anticipation'}
+موظف است: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+رعایت: {'positive'}
+متخصص زنان و زایمان: {'trust'}
+لجباز: {'negative'}
+انسداد: {'anger', 'negative'}
+آشکار: {'positive', 'trust', 'fear'}
+گاه به گاه: {'surprise'}
+مخفی: {'disgust', 'negative', 'fear'}
+مسافر: {'positive', 'trust', 'anticipation'}
+اشتغال: {'positive'}
+اشغال: {'positive'}
+اختاپوس: {'disgust'}
+پیشنهاد: {'positive'}
+ارائه: {'positive', 'trust', 'negative'}
+خاموش: {'positive', 'negative'}
+افسر: {'positive', 'trust'}
+رسمی: {'trust'}
+مسن تر: {'sadness'}
+بویایی: {'negative', 'anticipation'}
+الیگارشی: {'negative'}
+علامت: {'fear', 'negative', 'anticipation'}
+شوم: {'fear', 'negative', 'anticipation'}
+حذف کردن: {'negative'}
+قدرت مطلق: {'positive', 'negative', 'fear'}
+همه چیز دانا است: {'positive', 'trust'}
+در دست اقدام: {'anticipation'}
+شروع: {'anticipation'}
+وظیفه: {'positive', 'negative'}
+مات: {'negative'}
+باز بودن: {'positive'}
+اپرا: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+مخدر: {'negative'}
+تریاک: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+حریف: {'anger', 'fear', 'anticipation', 'disgust', 'negative'}
+فرصت: {'positive', 'anticipation'}
+مخالفت کن: {'negative'}
+اپوزیسیون: {'anger', 'negative'}
+سرکوب کنید: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سرکوبگر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ستمگر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خوش بینی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+خوش بین: {'positive', 'trust'}
+گزینه: {'positive'}
+اوراکل: {'positive', 'trust', 'anticipation'}
+اورک: {'disgust', 'anger', 'negative', 'fear'}
+ارکستر: {'anger', 'positive', 'joy', 'sadness', 'trust'}
+تعیین شده: {'positive', 'trust'}
+منظم: {'positive'}
+مهمات: {'negative', 'fear'}
+عضو: {'joy', 'anticipation'}
+ارگانیک: {'positive'}
+سازمان: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+سازمان دادن: {'positive'}
+سازمان یافته است: {'positive'}
+ارگاسم: {'positive', 'joy', 'anticipation'}
+اصالت: {'positive', 'surprise'}
+تزئین شده: {'positive'}
+بامزه: {'positive', 'disgust'}
+ارتدوکس: {'trust'}
+ظاهرا: {'negative'}
+نتیجه: {'positive'}
+بیرون رفتن: {'anger', 'anticipation', 'positive', 'disgust', 'negative', 'sadness'}
+بیرون خانه: {'disgust', 'negative'}
+بیرون: {'positive'}
+تخم مرغ: {'sadness', 'negative'}
+غلبه بر: {'anger', 'negative', 'trust', 'fear'}
+بارگذاری: {'negative'}
+ابرقهرمان: {'negative'}
+بیش از حد: {'sadness', 'disgust', 'anger', 'negative'}
+سر رسیده: {'sadness', 'surprise', 'negative', 'anticipation'}
+بیش از حد ارزشمند است: {'surprise'}
+سرریز: {'negative'}
+بیش از حد رشد کرد: {'negative'}
+خوشحال شدم: {'positive', 'joy'}
+بیش از حد پرداخت می شود: {'negative'}
+نظارت: {'negative', 'fear'}
+سرنگونی: {'surprise', 'fear', 'negative', 'anticipation'}
+برتری: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+قوت و ضعف: {'positive'}
+به خاطر: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness', 'trust'}
+مالکیت: {'anger', 'fear', 'positive', 'disgust', 'negative'}
+اکسیداسیون: {'negative'}
+صلح جو: {'positive'}
+پد: {'positive'}
+padding: {'positive'}
+دست و پا زدن: {'positive', 'anticipation'}
+دردناک: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+دردناکی: {'sadness', 'negative'}
+تسکین دهنده: {'positive', 'joy', 'trust'}
+قابل لمس است: {'surprise'}
+فلج: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+نوش دارو: {'positive'}
+پاندمی: {'sadness', 'negative', 'fear'}
+بیشتر: {'surprise', 'negative'}
+سبد: {'positive'}
+فلفل قرمز: {'positive'}
+چتر نجات: {'fear'}
+رژه: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'negative'}
+پاراگراف: {'positive', 'joy', 'trust', 'anticipation'}
+مهمترین: {'positive'}
+پارانویا: {'negative', 'fear'}
+انگل: {'disgust', 'negative', 'fear'}
+به نظر می رسد: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+پدر و مادر: {'positive'}
+تیریتال: {'positive', 'trust'}
+مجلس: {'trust'}
+کلمات: {'anger', 'negative', 'anticipation'}
+طوطی: {'disgust', 'negative'}
+parsimonious: {'negative'}
+بخور: {'positive', 'trust'}
+پارتیزان: {'negative'}
+شریک: {'positive'}
+شراکت: {'positive', 'trust'}
+عبور: {'negative'}
+شور: {'positive', 'joy', 'trust', 'anticipation'}
+پرشور: {'positive', 'joy', 'trust', 'anticipation'}
+منفعل: {'negative'}
+گذرنامه: {'negative'}
+کشیش: {'positive', 'joy', 'trust'}
+شیرینی: {'positive', 'joy', 'anticipation'}
+مرتع: {'positive'}
+پچ: {'negative'}
+ثبت اختراع: {'positive'}
+تأسفبار - رقت انگیز: {'disgust', 'negative', 'sadness'}
+صبر: {'positive', 'trust', 'anticipation'}
+صبور: {'positive', 'anticipation'}
+پدرسالاری: {'positive', 'trust'}
+گشت: {'trust'}
+حامی: {'positive', 'trust', 'negative'}
+پاتریک: {'anger', 'negative'}
+پیاده رو: {'trust'}
+پیاده: {'trust', 'negative'}
+پرداخت: {'anticipation', 'positive', 'joy', 'negative', 'trust'}
+صلح: {'positive', 'joy', 'trust', 'anticipation'}
+صلح آمیز: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+طاووس: {'positive'}
+پک: {'positive'}
+تنوع: {'negative'}
+خاصیت: {'positive'}
+عابر پیاده: {'negative'}
+شجره نامه: {'positive', 'trust'}
+میل جنسی: {'positive'}
+مودبانه: {'joy', 'sadness', 'positive', 'anticipation'}
+قابل درک: {'positive'}
+پرچم: {'surprise'}
+تباهی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+چند ساله: {'positive', 'trust'}
+کامل: {'positive', 'joy', 'trust', 'anticipation'}
+کمال: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+بازیگر: {'positive'}
+پری: {'surprise'}
+خطرات: {'sadness', 'fear', 'negative', 'anticipation'}
+دوره ای: {'trust'}
+فاسد می شود: {'negative'}
+از بین رفت: {'sadness', 'surprise', 'negative', 'fear'}
+اجازه: {'positive'}
+ماندن: {'anticipation'}
+دائمی: {'positive', 'trust', 'anticipation'}
+ماندگاری: {'positive'}
+مداوم: {'positive'}
+شخصیت: {'positive'}
+شخصی: {'trust'}
+تعریق: {'disgust'}
+مربوط: {'positive', 'trust'}
+آشفتگی: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+کوفتگی: {'negative'}
+منحرف: {'disgust', 'anger', 'negative'}
+منحرف شده است: {'disgust', 'negative'}
+بدبینی: {'sadness', 'anger', 'negative', 'fear'}
+آفت: {'disgust', 'anger', 'negative', 'fear'}
+حیوان خانگی: {'negative'}
+نفت: {'positive', 'disgust', 'negative'}
+کوچک: {'negative'}
+فالانکس: {'trust', 'fear'}
+فانتوم: {'negative', 'fear'}
+دارویی: {'positive'}
+بشردوستانه: {'positive', 'trust'}
+بشردوستی: {'positive'}
+فیلسوف: {'positive', 'trust'}
+خلط: {'disgust', 'negative'}
+ققنوس: {'positive'}
+آوایی: {'positive'}
+پزشک: {'positive', 'trust'}
+فیزیکدان: {'trust'}
+فیزیک: {'positive'}
+فیزیولوژی: {'positive'}
+فیزیکی: {'positive'}
+پیاده روی: {'surprise', 'anger', 'negative', 'fear'}
+ترشی: {'negative'}
+پیک نیک: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+زیبا: {'positive', 'joy'}
+تقوا: {'positive', 'trust'}
+خوک: {'disgust', 'negative'}
+کبوتر: {'negative'}
+شمع ها: {'disgust', 'negative'}
+قرص: {'positive', 'trust'}
+غارت: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بالش: {'positive'}
+خلبان: {'positive', 'trust'}
+دلال: {'negative'}
+جوش: {'disgust', 'negative'}
+کاج: {'sadness', 'negative'}
+چرخ دنده: {'negative', 'fear'}
+معشوق: {'positive', 'disgust', 'trust', 'sadness'}
+اردک ماهی: {'anger', 'negative'}
+دزدی دریایی: {'negative'}
+دزد دریایی: {'anger', 'negative'}
+تپانچه: {'negative'}
+اسم: {'positive', 'trust'}
+تاسف: {'sadness'}
+محور: {'positive', 'trust'}
+گنجه: {'surprise'}
+سرقت ادبی: {'disgust', 'negative'}
+طاعون: {'disgust', 'negative', 'sadness', 'fear'}
+شاکی: {'negative'}
+طرح: {'negative', 'anticipation'}
+برنامه ریزی: {'positive', 'trust', 'anticipation'}
+پوشش داده شده: {'negative'}
+بازیکن: {'negative'}
+بازیگوش: {'surprise', 'anger', 'positive', 'joy', 'trust'}
+زمین بازی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+دلپذیر: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+سوگند - تعهد: {'positive', 'joy', 'trust'}
+جلسه کامل: {'positive'}
+توزیع کننده: {'negative'}
+آلو: {'positive'}
+چاق و چله: {'anticipation'}
+غوطه: {'negative', 'fear'}
+پشمالو: {'positive'}
+بستن: {'positive'}
+ذات الریه: {'negative', 'fear'}
+ذکر شده: {'positive'}
+سم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مسموم شده: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سمی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بهم زدن: {'negative', 'anticipation'}
+قطبیت: {'surprise'}
+بحث و گفتگو: {'disgust', 'anger', 'negative'}
+سیاست: {'anger', 'trust'}
+فلج اطفال: {'sadness', 'negative', 'fear'}
+لهستانی: {'positive'}
+جلا: {'positive'}
+با ادب: {'positive'}
+مودب بودن: {'positive'}
+سیاسی: {'positive', 'disgust'}
+نظرسنجی: {'trust'}
+چندگانه: {'disgust', 'negative'}
+پمپ: {'negative'}
+پمپاژ: {'disgust', 'negative'}
+استخر: {'positive'}
+پاپ: {'positive', 'surprise', 'negative'}
+محبوبیت: {'positive'}
+محبوب است: {'positive'}
+جمعیت: {'positive'}
+هویج: {'negative'}
+پورنو: {'disgust', 'negative'}
+pornographic: {'negative'}
+پورنوگرافی: {'disgust', 'negative'}
+ژست: {'negative'}
+داشتن: {'positive', 'joy', 'trust', 'anticipation'}
+امکان پذیری: {'anticipation'}
+پس از مرگ: {'sadness', 'negative'}
+تعویق: {'surprise', 'negative'}
+پوند: {'anger', 'negative'}
+فقر: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+صدای انفجار: {'anger'}
+قدرتمند: {'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+ناتوان: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تمرین: {'positive', 'anticipation'}
+تمرین کرد: {'positive', 'joy', 'surprise', 'trust'}
+ستایش: {'positive', 'joy', 'trust'}
+ستایش کرد: {'positive', 'joy'}
+نماز خواندن: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'trust'}
+مضر است: {'sadness', 'fear', 'negative', 'anticipation'}
+جلوتر بودن: {'positive'}
+اولویت: {'positive', 'trust'}
+گرانبها: {'positive', 'joy', 'surprise', 'anticipation'}
+دقت: {'positive'}
+غارتگر: {'negative'}
+دلبستگی: {'positive', 'anticipation'}
+مستعد: {'anticipation'}
+ترجیح می دهند: {'positive', 'trust'}
+بارداری: {'disgust', 'negative'}
+مقدماتی: {'positive', 'anticipation'}
+زودگذر: {'surprise'}
+اول: {'positive'}
+محوطه: {'positive'}
+آماده سازی: {'anticipation'}
+آماده کردن: {'positive', 'anticipation'}
+تهیه شده: {'positive', 'trust', 'anticipation'}
+آمادگی: {'positive', 'joy', 'trust', 'anticipation'}
+پيش نياز: {'anticipation'}
+پیش داوری: {'positive', 'anticipation'}
+حاضر: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+قابل توصیف: {'positive'}
+حفظ: {'positive', 'trust'}
+رئيس جمهور: {'positive', 'trust'}
+فشار: {'negative'}
+زود: {'positive', 'joy', 'surprise'}
+وانمود کنید: {'negative'}
+تظاهر کرد: {'negative'}
+وانمود کردن: {'anger', 'negative'}
+تظاهر: {'negative'}
+تعهدات: {'negative'}
+بسیار: {'positive', 'joy', 'trust', 'anticipation'}
+غالب شدن پیروز شدن چیره شدن: {'positive', 'joy', 'anticipation'}
+شایع: {'trust'}
+جلوگیری کردن: {'fear'}
+جلوگیری: {'positive', 'anticipation'}
+پیشگیرانه: {'negative'}
+بی بها: {'positive'}
+زخمی: {'negative'}
+مذهب: {'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+اولیه: {'positive'}
+نخستین: {'positive'}
+ابتدا: {'positive', 'trust'}
+شاهزاده: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+تر و تازه: {'positive'}
+ممتاز: {'positive', 'joy', 'trust'}
+مزین: {'trust', 'negative'}
+احتمال: {'anticipation'}
+امتحان: {'sadness', 'fear', 'anticipation'}
+مسئله: {'sadness', 'negative', 'fear'}
+روش: {'positive', 'fear'}
+اقدام: {'anticipation'}
+صفوف: {'positive', 'joy', 'surprise', 'sadness'}
+به تعویق انداختن: {'negative'}
+پروکتور: {'positive', 'trust'}
+جستجو: {'positive', 'anticipation'}
+فاحشه: {'positive', 'disgust', 'negative'}
+تهیه کننده: {'positive'}
+تولید: {'positive', 'fear', 'negative', 'anticipation'}
+حرفه ای: {'positive', 'trust'}
+اسراف: {'negative'}
+پیش آگهی: {'anticipation'}
+پیش رفتن: {'positive', 'joy', 'anticipation'}
+ترقی خواه: {'positive'}
+ممنوع است: {'disgust', 'anger', 'negative', 'fear'}
+پرتابه: {'fear'}
+پرتابه ها: {'fear'}
+پرورش دهنده: {'positive'}
+پرولوگ: {'anticipation'}
+طولانی شدن: {'disgust', 'negative'}
+وعده: {'positive', 'joy', 'trust', 'anticipation'}
+امیدوار کننده: {'positive'}
+ترفیع: {'positive'}
+اثبات: {'trust'}
+طرفدار: {'positive'}
+تبليغات: {'negative'}
+رسالت: {'anticipation'}
+پیامبر: {'positive', 'trust', 'anticipation'}
+نبوت: {'anticipation'}
+پیشگیری: {'positive', 'trust', 'anticipation'}
+گزاره: {'positive'}
+پیگرد قانونی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+چشم انداز: {'positive', 'joy', 'trust', 'anticipation'}
+به طور چشمگیری: {'anticipation'}
+رونق: {'positive', 'joy', 'anticipation'}
+رفاه: {'positive'}
+موفق: {'positive', 'joy'}
+تن فروشی: {'disgust', 'negative', 'sadness'}
+محافظت: {'positive', 'trust'}
+حفاظت شده: {'trust'}
+محافظ: {'positive', 'trust'}
+پروتستان: {'fear'}
+مغرور: {'positive', 'joy', 'trust', 'anticipation'}
+ثابت كردن: {'positive'}
+ثابت شده است: {'trust'}
+فراهم کند: {'positive', 'trust'}
+فراهم آوردن: {'positive', 'joy', 'trust', 'anticipation'}
+پروکسی: {'trust'}
+طلسم: {'positive'}
+روانپریشی: {'sadness', 'anger', 'negative', 'fear'}
+مخاطبان: {'negative'}
+قی: {'disgust'}
+کشیدن: {'positive', 'negative'}
+تریبون: {'positive', 'trust'}
+پوما: {'surprise', 'fear'}
+پانچ: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+دقیق بودن: {'positive'}
+تند: {'disgust', 'negative'}
+تنبیه کردن: {'negative', 'fear'}
+نقطه: {'anticipation'}
+توله سگ: {'positive', 'trust', 'anticipation'}
+صرفا: {'positive', 'trust', 'negative'}
+برزخ: {'disgust', 'negative', 'fear'}
+تصفیه: {'positive', 'trust'}
+خالص: {'positive', 'disgust', 'negative'}
+خلوص: {'positive', 'surprise'}
+قرار دادن: {'disgust', 'negative'}
+باتلاق: {'disgust', 'negative', 'fear'}
+بلدرچین: {'negative', 'fear'}
+واجد شرایط: {'positive', 'trust'}
+قرنطینه: {'fear'}
+سوال: {'positive'}
+سوال برانگیز: {'disgust', 'negative'}
+سریع تر: {'anticipation'}
+سریع بودن: {'positive', 'surprise'}
+کیک سیلور: {'surprise', 'negative'}
+خاموشی: {'positive'}
+ساکت: {'positive', 'sadness'}
+کوینین: {'positive'}
+تیرانداز: {'sadness', 'anger', 'negative', 'fear'}
+مسابقه: {'negative'}
+نقل قول: {'positive', 'surprise', 'negative', 'anticipation'}
+هاری: {'negative'}
+دندانه دار کردن: {'sadness', 'negative'}
+راکت تنیس: {'negative'}
+رادار: {'trust'}
+تابش آفتاب: {'positive', 'joy', 'trust', 'anticipation'}
+تابش: {'positive', 'negative', 'fear'}
+رادیو: {'positive'}
+رادیو اکتیو: {'negative', 'fear'}
+رادون: {'negative', 'fear'}
+قرعه کشی: {'surprise', 'anticipation'}
+جوراب ها: {'disgust', 'negative'}
+ریل: {'anger', 'negative', 'anticipation'}
+بارانی: {'sadness'}
+رم: {'anger', 'negative', 'anticipation'}
+طنز: {'negative'}
+تکاور: {'trust'}
+فدیه: {'anger', 'negative', 'fear'}
+تجاوز به عنف: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+رپ: {'surprise', 'anger', 'positive', 'joy', 'trust'}
+رپتورها: {'negative', 'fear'}
+نادر بودن: {'surprise'}
+راش: {'disgust', 'negative'}
+موش: {'disgust', 'negative', 'fear'}
+رتبه بندی: {'sadness', 'anger', 'negative', 'fear'}
+گویا: {'positive', 'trust'}
+زرق و برق دار: {'negative'}
+بسیار گرسنه: {'sadness', 'anger', 'negative', 'fear'}
+دره: {'fear'}
+تیغ زدن: {'fear'}
+واکنش نشان می دهند: {'anger', 'fear'}
+ارتجاعی: {'positive', 'negative'}
+خواننده: {'positive'}
+به راحتی: {'positive'}
+آماده: {'anticipation'}
+تأیید دوباره: {'positive'}
+دوباره ظاهر می شود: {'surprise'}
+دلیل: {'positive'}
+اطمینان: {'positive', 'trust'}
+اطمینان حاصل کنید: {'positive', 'trust'}
+تخفیف: {'positive', 'disgust', 'anger', 'negative'}
+شورش: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مجازات کردن: {'negative'}
+دریافت کرد: {'negative'}
+نوشتن: {'positive'}
+اخذ شده: {'positive'}
+دریافت: {'positive', 'joy', 'surprise', 'anticipation'}
+رکود: {'fear'}
+رکود اقتصادی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تجدید حیات: {'disgust', 'anger', 'negative', 'sadness'}
+دریافت کننده: {'anticipation'}
+بی پرواگی: {'surprise', 'anger', 'fear', 'disgust', 'negative'}
+احیاء مجدد: {'positive'}
+عقب انداختن: {'positive', 'trust'}
+قابل تشخیص است: {'positive', 'anticipation'}
+بازسازی: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'negative'}
+ضبط کننده: {'positive'}
+تفریح: {'positive', 'joy', 'anticipation'}
+اصلاح کنید: {'positive'}
+مکرر: {'anticipation'}
+زائد: {'negative'}
+پالودن: {'positive'}
+رفلکس: {'disgust', 'surprise', 'negative'}
+اصلاحات: {'positive'}
+اصلاح طلب: {'positive'}
+نسوز: {'negative'}
+طراوت: {'positive'}
+پناهنده: {'sadness'}
+امتناع: {'negative'}
+امتناع کنید: {'negative'}
+رگاتا: {'anticipation'}
+مستعمره: {'positive', 'trust'}
+کلنگ: {'fear'}
+ثبت: {'trust'}
+رنج کشیدن: {'disgust', 'negative', 'sadness', 'fear'}
+پسرفت: {'negative'}
+رنج آور: {'positive', 'negative'}
+پشیمان بودن: {'sadness', 'negative'}
+متاسفم: {'sadness', 'anger', 'negative'}
+پشیمانی: {'sadness', 'negative'}
+منظم بودن: {'positive', 'trust', 'anticipation'}
+تنظیم کنید: {'positive'}
+تنظیم مقررات: {'negative', 'fear'}
+انقباض: {'disgust'}
+توانبخشی: {'positive', 'anticipation'}
+تقویت کننده ها: {'trust'}
+بازگرداندن: {'positive'}
+رد کنید: {'sadness', 'anger', 'negative', 'fear'}
+رد شد: {'negative'}
+طرد شدن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+رد می کند: {'sadness', 'anger', 'negative', 'fear'}
+شادی کردن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+جوان سازی کنید: {'positive'}
+جوانه زده: {'positive'}
+عود: {'sadness', 'negative', 'fear'}
+نسبت فامیلی: {'trust'}
+قابلیت اطمینان: {'positive', 'trust'}
+آثار: {'sadness'}
+بی میل: {'negative', 'fear'}
+باقی: {'fear', 'positive', 'disgust', 'negative', 'trust'}
+بازسازی کنید: {'positive'}
+درمان دارویی: {'negative'}
+درمان: {'positive', 'joy', 'trust', 'anticipation'}
+مراجعه: {'disgust', 'anger', 'negative', 'sadness'}
+برداشتن: {'sadness', 'anger', 'negative', 'fear'}
+رنسانس: {'positive'}
+ملاقات: {'negative'}
+می سازد: {'negative'}
+رندر کردن: {'positive'}
+مجروح شدن: {'anger', 'negative'}
+تمدید: {'positive'}
+رد کن: {'anger', 'negative'}
+نوسازی: {'positive', 'joy', 'anticipation'}
+سازماندهی مجدد: {'positive'}
+تعمیر: {'positive', 'trust'}
+دفع کننده: {'disgust', 'negative', 'fear'}
+دافع: {'disgust', 'anger', 'negative', 'fear'}
+توبه کردن: {'positive', 'fear'}
+دوباره پر کنید: {'positive'}
+تکمیل شده: {'positive'}
+خبرنگار: {'positive', 'trust'}
+استوار: {'positive'}
+سرکوب کردن: {'sadness', 'anger', 'negative', 'fear'}
+سرکوب: {'disgust', 'anger', 'negative', 'fear'}
+چاپ مجدد: {'negative'}
+انتقام: {'sadness', 'anger', 'negative', 'fear'}
+باروری: {'positive', 'joy'}
+جمهوری: {'negative'}
+نجات: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+رزکسیون: {'fear'}
+ساکن: {'positive'}
+استعفا: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+استعفا داد: {'sadness', 'negative'}
+مقاومت کردن: {'negative'}
+مقاومت: {'anger', 'negative'}
+مقاوم: {'negative', 'fear'}
+مقاومت کن: {'anger', 'fear', 'anticipation', 'positive', 'negative', 'sadness'}
+مقاومتی: {'positive'}
+قطعا: {'positive'}
+منابع: {'positive', 'joy', 'trust'}
+قابل احترام: {'positive', 'trust'}
+احترام می گذارد: {'positive', 'trust'}
+مهلت: {'positive', 'joy', 'trust'}
+شفاف: {'positive', 'joy'}
+مسئول: {'positive', 'trust'}
+باقی مانده: {'positive'}
+استراحت: {'positive'}
+بی سر و صدا: {'anticipation'}
+مقوی: {'positive', 'joy', 'trust', 'anticipation'}
+خویشتن داری - خودداری - پرهیز: {'positive'}
+محدود کننده: {'negative'}
+نتيجه: {'anticipation'}
+از سرگیری: {'positive'}
+انتقام گرفتن: {'surprise', 'anger', 'fear', 'anticipation', 'negative'}
+انتقامجویی: {'anger', 'negative'}
+احتباس: {'positive'}
+تضعیف: {'negative', 'fear'}
+بازنشستگی: {'fear', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+عقب کشیدن: {'anger', 'negative'}
+کاهش سرعت: {'negative', 'fear'}
+عقبگرد: {'negative'}
+تجدید دیدار: {'positive', 'trust', 'anticipation'}
+خوش بگذره: {'positive', 'joy'}
+خوش شانسی: {'positive', 'joy'}
+واژگونی: {'disgust', 'surprise', 'anger', 'negative'}
+احیای: {'anticipation', 'positive', 'joy', 'negative', 'trust'}
+انقلاب: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'negative', 'sadness'}
+انقلابی: {'positive'}
+تنفر شدید: {'disgust', 'anger', 'negative', 'fear'}
+روماتیسم: {'sadness', 'anger', 'negative', 'fear'}
+ریتم: {'positive'}
+ریتمیک: {'positive', 'joy', 'surprise'}
+روبان: {'positive', 'joy', 'anger', 'anticipation'}
+لرزشی: {'negative'}
+معما: {'surprise'}
+سرخ شده: {'negative'}
+سوار: {'positive'}
+مسخره کردن: {'disgust', 'anger', 'negative', 'sadness'}
+نفاق: {'negative'}
+تفنگ: {'anger', 'negative', 'fear'}
+بریدگی: {'negative'}
+به درستی: {'positive'}
+سفت و سخت: {'negative'}
+رینگر: {'anger', 'negative'}
+رسیده: {'positive'}
+رو به افزایش: {'positive', 'joy', 'anticipation'}
+پرچین: {'positive'}
+اسب سواری: {'positive', 'joy', 'trust'}
+دزد: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سنگ: {'positive', 'anger', 'negative'}
+میله: {'positive', 'trust', 'fear'}
+سرکش: {'disgust', 'negative'}
+رولیکس: {'positive', 'joy'}
+داستان عاشقانه: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+رومانتیک: {'positive', 'joy', 'trust', 'anticipation'}
+عاشقانه: {'positive', 'joy'}
+نشات گرفتن: {'positive', 'trust'}
+مسیر: {'positive', 'trust', 'anticipation'}
+رولت: {'anticipation'}
+راه رفتن: {'negative'}
+ردیف: {'anger', 'negative'}
+حق امتیاز: {'positive'}
+بخش: {'positive'}
+خیابان: {'sadness', 'negative'}
+ناهموار: {'negative'}
+خراب: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+شایعه: {'sadness', 'negative'}
+شکستن: {'sadness', 'surprise', 'negative', 'fear'}
+روسی: {'negative'}
+زنگ: {'negative'}
+زنگ زده: {'negative'}
+روت: {'positive'}
+می دانم: {'sadness', 'anger', 'negative', 'fear'}
+با ناراحتی: {'sadness', 'negative'}
+غمگینی: {'sadness', 'trust', 'negative'}
+بی خطر: {'positive', 'joy', 'trust'}
+حکیم: {'positive', 'trust'}
+سنت: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+عارفانه: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+حقوق: {'positive', 'joy', 'trust', 'anticipation'}
+بزاق: {'anticipation'}
+سالی: {'surprise'}
+سلامتی: {'positive', 'joy', 'trust'}
+سلامت: {'positive', 'joy', 'trust'}
+سلام: {'positive'}
+سامورایی: {'positive', 'fear'}
+تقدیم کردن: {'surprise', 'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+جایگاه مقدس: {'positive', 'joy', 'trust', 'anticipation'}
+خوش مشرب: {'positive'}
+صاف کننده: {'trust'}
+طعنه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سارکوم: {'sadness', 'negative', 'fear'}
+ساردونیک: {'negative'}
+ساتنیک: {'anger', 'negative'}
+ساتن: {'positive'}
+رضایت بخش: {'positive'}
+راضی: {'positive', 'joy'}
+اشباع شده: {'disgust', 'negative'}
+پس انداز: {'positive'}
+مزه: {'anticipation', 'positive', 'joy', 'disgust', 'sadness', 'trust'}
+زرنگ: {'positive'}
+چاقو: {'negative'}
+داربست: {'negative', 'fear'}
+اسکلپال: {'negative', 'fear'}
+رسوا کننده: {'anger', 'negative'}
+ناخودآگاه: {'anger', 'fear', 'disgust', 'negative', 'trust'}
+جای زخم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+به ندرت: {'sadness', 'negative'}
+تسخیر کننده: {'negative'}
+شکیبایی: {'trust', 'negative'}
+شقاق: {'anger', 'negative'}
+جنون جوانی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بورس تحصیلی: {'positive', 'joy'}
+مدرسه: {'trust'}
+سیاتیک: {'negative'}
+جرقه: {'positive'}
+نمره: {'positive', 'joy', 'surprise', 'anticipation'}
+عقرب: {'surprise', 'anger', 'fear', 'disgust', 'negative'}
+اسکاچ: {'negative'}
+تقلا کردن: {'negative'}
+تکه تکه: {'sadness', 'anger', 'negative', 'fear'}
+گریه: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+پیچ: {'anger', 'negative'}
+اسکریپت: {'positive'}
+اسکراب: {'disgust', 'negative'}
+بررسی موشکافانه: {'negative'}
+مجسمه سازی: {'positive'}
+مهر: {'positive', 'trust'}
+مهر و موم: {'trust'}
+پرنده: {'negative'}
+چاشنی: {'positive'}
+جدایی: {'negative'}
+منزوی است: {'sadness', 'negative'}
+دست دوم: {'negative'}
+راز: {'disgust', 'trust'}
+دبیرخانه: {'positive'}
+ترشح: {'disgust', 'negative'}
+فرقه ای: {'anger', 'negative', 'fear'}
+سکولار: {'anticipation'}
+اوراق بهادار: {'trust'}
+از راه بدر کردن: {'negative'}
+اغوا کردن: {'negative'}
+اغوا کننده: {'anticipation'}
+به دنبال: {'anticipation'}
+جدا کردن: {'disgust', 'anger', 'negative', 'sadness'}
+تصاحب کردن: {'negative', 'fear'}
+تصرف: {'fear'}
+خود خواه: {'disgust', 'anger', 'negative'}
+خودخواهی: {'negative'}
+سنا: {'trust'}
+سالخورده: {'sadness', 'negative', 'fear'}
+حساس: {'anger', 'positive', 'joy', 'negative', 'sadness'}
+بدون احساس: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+حساسیت: {'positive', 'joy', 'anticipation'}
+احساساتی: {'surprise', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+جمله: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+احساساتی بودن: {'positive'}
+جدایی طلبی: {'disgust', 'anger', 'negative'}
+سپسیس: {'sadness', 'negative', 'fear'}
+سپتیک: {'disgust', 'negative'}
+عاقبت: {'anticipation'}
+تسخیر: {'sadness', 'negative'}
+سریال: {'anticipation'}
+سلسله: {'trust'}
+خطبه: {'positive', 'trust'}
+مار: {'disgust', 'negative', 'fear'}
+سرم: {'positive'}
+خدمتگزار: {'trust', 'negative'}
+خدمت: {'trust', 'negative'}
+بنده وار: {'disgust', 'negative', 'sadness', 'fear'}
+شمال: {'negative'}
+فاضلاب شهری: {'disgust', 'negative'}
+فاضلاب: {'disgust', 'negative'}
+ارتباط جنسی: {'positive', 'joy', 'trust', 'anticipation'}
+زدن: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+سایه دار: {'negative', 'fear'}
+لرزان: {'fear', 'anger', 'negative', 'anticipation'}
+خراب می شود: {'negative'}
+بی شرم: {'disgust', 'negative'}
+شانگهای: {'disgust', 'negative', 'fear'}
+ساقه: {'negative', 'fear'}
+شکل: {'positive'}
+شیک: {'positive'}
+اشتراک گذاری: {'positive', 'joy', 'trust', 'anticipation'}
+تیز کردن: {'anger', 'anticipation'}
+دهنه: {'negative'}
+پوسته: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+پناه: {'positive', 'trust'}
+قفسه: {'negative'}
+کلانتر: {'trust'}
+کشتی: {'negative', 'anticipation'}
+غرق کشتی: {'sadness', 'negative', 'fear'}
+لرزیدن: {'anger', 'fear', 'anticipation', 'negative', 'sadness'}
+شوکه شدن: {'surprise', 'anger', 'negative', 'fear'}
+تکان دهنده: {'surprise', 'anger', 'negative', 'anticipation'}
+شلیک: {'anger', 'negative', 'fear'}
+تیراندازی کردن: {'anger', 'negative', 'fear'}
+مغازه دار: {'trust'}
+فروشگاه اینترنتی: {'disgust', 'anger', 'negative'}
+خريد كردن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+به زودی: {'anticipation'}
+شات: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+شانه: {'positive', 'trust'}
+فریاد کشیدن: {'surprise', 'anger'}
+تنه زدن: {'anger', 'negative'}
+نشان می دهد: {'trust'}
+زیرک: {'positive'}
+گریه کن: {'surprise', 'anger', 'fear', 'negative', 'sadness'}
+تیز: {'surprise', 'anger', 'negative', 'fear'}
+کوچک شدن: {'sadness', 'negative', 'fear'}
+کفن: {'sadness'}
+گفتگوها: {'trust'}
+بیمار است: {'disgust', 'negative', 'sadness'}
+امضا: {'trust'}
+ابریشم: {'positive'}
+سرخ کردن: {'anger', 'anticipation'}
+جوش زدن: {'anticipation'}
+ساده کردن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+بدون: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+مخلص - بی ریا - صمیمانه: {'positive', 'trust'}
+آواز خواندن: {'anticipation', 'positive', 'joy', 'sadness', 'trust'}
+به طور جداگانه: {'positive', 'surprise'}
+آژیر: {'negative', 'fear'}
+دختره: {'negative'}
+خواهرزاده: {'surprise', 'anger', 'positive', 'sadness', 'trust'}
+اسکید: {'sadness', 'anger', 'negative', 'fear'}
+ماهر: {'positive', 'trust'}
+جست و خیز: {'negative'}
+آسمان: {'positive'}
+اسلم: {'surprise', 'anger', 'negative', 'fear'}
+تاب آورانه: {'negative'}
+چک زدن: {'surprise', 'anger', 'negative'}
+اسلش: {'anger'}
+تخته سنگ: {'positive'}
+کشتار: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کشتارگاه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+برده: {'sadness', 'anger', 'negative', 'fear'}
+ذبح کردن: {'anger', 'negative'}
+یخ: {'negative'}
+بلند بلند: {'positive'}
+باریک: {'positive'}
+لجن: {'disgust', 'negative'}
+لاک زدن: {'negative'}
+لیز خوردن: {'surprise', 'negative'}
+درهم و برهم: {'disgust', 'negative'}
+خرد کن: {'negative'}
+آهسته: {'negative'}
+شلاق زدن: {'disgust', 'anger', 'negative'}
+زاغه: {'disgust', 'negative'}
+خیس کردن: {'disgust', 'surprise', 'negative'}
+خارج: {'disgust', 'anger', 'negative'}
+شوخ طبعی: {'positive', 'joy', 'anger', 'negative'}
+درهم کوبیدن: {'anger', 'negative', 'fear'}
+بو: {'disgust', 'anger', 'negative'}
+بوییدن: {'disgust', 'negative'}
+خندان: {'positive', 'joy'}
+ضربه بزنید: {'sadness', 'anger', 'negative', 'fear'}
+اسمیت: {'trust'}
+سیگاری: {'negative'}
+صاف بودن: {'positive'}
+لکه دار کردن: {'negative'}
+قاچاقچی: {'disgust', 'anger', 'negative', 'fear'}
+اسموتی: {'disgust', 'negative', 'fear'}
+گیر: {'surprise', 'negative'}
+دامن: {'negative', 'fear'}
+خوراک مختصر: {'disgust', 'anger', 'negative'}
+snarling: {'anger', 'negative'}
+دزدکی حرکت کردن: {'surprise', 'anger', 'negative', 'fear'}
+دزدکی: {'fear', 'trust', 'negative', 'anticipation'}
+عطسه: {'disgust', 'surprise', 'negative'}
+snicker: {'positive'}
+قدم زدن: {'negative'}
+اسنو: {'negative'}
+خیس خوردن: {'negative'}
+تحت: {'sadness', 'negative'}
+سوسیالیسم: {'disgust', 'fear'}
+سوسیالیست: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+سرباز: {'positive', 'sadness', 'anger'}
+جامد: {'positive'}
+راه حل: {'positive'}
+پرداخت بدهی: {'positive'}
+جسمی: {'surprise', 'negative'}
+سونار: {'positive', 'anticipation'}
+سوناتا: {'positive'}
+سونات: {'positive', 'joy', 'sadness'}
+گرده: {'disgust', 'negative'}
+sordid: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+جور کننده: {'positive'}
+بی روح: {'disgust', 'negative', 'sadness', 'fear'}
+soulmate: {'negative', 'fear'}
+سوپ: {'positive'}
+ترش: {'disgust', 'negative'}
+آبگرم: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+بزرگ: {'positive'}
+اسپانیول: {'positive', 'joy', 'trust'}
+شوخی کردم: {'anger'}
+اسپاسم: {'negative', 'fear'}
+تف: {'anger', 'negative'}
+نیزه: {'fear', 'anger', 'negative', 'anticipation'}
+ویژه: {'positive', 'joy'}
+گونه: {'positive'}
+نمایش: {'positive', 'negative'}
+دیدنی و جذاب: {'surprise', 'anticipation'}
+طیفی: {'negative'}
+حدس و گمان: {'sadness', 'negative', 'fear'}
+نظری: {'positive', 'anticipation'}
+سخنرانی - گفتار: {'positive'}
+املا: {'positive'}
+صرف شده است: {'negative'}
+ادویه جات: {'positive'}
+عنکبوت: {'disgust', 'fear'}
+سنبله: {'fear'}
+اسپینتر: {'sadness', 'negative', 'fear'}
+تف انداختن: {'disgust'}
+مجرمانه: {'anger', 'negative'}
+چلپ چلوپ: {'surprise'}
+پر زرق و برق دار: {'positive', 'joy', 'surprise'}
+شکوه و جلال: {'positive', 'joy', 'surprise', 'anticipation'}
+تقسیم کردن: {'sadness', 'negative'}
+اسپویلر: {'sadness', 'negative'}
+صحبت کرد: {'negative'}
+سخنگوی: {'trust'}
+حامی مالی: {'positive', 'trust'}
+spook: {'negative', 'fear'}
+بی عیب: {'positive', 'trust'}
+پیچ خوردن: {'sadness', 'anger', 'negative'}
+شادمانی: {'negative'}
+صحنه: {'negative', 'fear'}
+صنوبر: {'positive'}
+کشته شدن: {'negative'}
+پایدار: {'positive', 'trust'}
+سرسام آور: {'negative'}
+راکد: {'sadness', 'negative'}
+رنگ آمیزی: {'disgust', 'negative'}
+ضد زنگ: {'positive'}
+بیات: {'negative'}
+استالامات: {'disgust', 'anger'}
+غرفه: {'disgust'}
+استالوارت: {'positive'}
+ایستاده: {'positive', 'negative'}
+مخالفت: {'anger', 'negative', 'fear'}
+ستاره: {'anticipation', 'positive', 'joy', 'negative', 'trust'}
+خیره شدن: {'negative'}
+قویا: {'trust', 'negative'}
+ستاره ای: {'positive'}
+ستاره دار: {'positive', 'joy', 'anticipation'}
+شروع کنید: {'anticipation'}
+وحشت زده شدن: {'surprise', 'negative', 'fear'}
+گرسنگی: {'sadness', 'negative', 'fear'}
+بیانیه: {'positive', 'trust'}
+آماری: {'trust'}
+مجسمه: {'positive'}
+وضعیت: {'positive'}
+شرط: {'negative'}
+سرقت کن: {'sadness', 'anger', 'negative', 'fear'}
+خفاش: {'surprise'}
+باحالی: {'surprise', 'fear', 'negative', 'anticipation'}
+کلیشه: {'negative'}
+کلیشه ای: {'negative'}
+استریل: {'sadness', 'negative'}
+بی روح بودن: {'negative'}
+استرلینگ: {'anger', 'anticipation', 'positive', 'joy', 'negative', 'trust'}
+استوارت: {'positive', 'trust'}
+چسبنده: {'disgust'}
+سفت: {'negative'}
+سفتی، سختی: {'negative'}
+خفه شد: {'sadness', 'anger', 'negative', 'fear'}
+سکوت: {'positive', 'sadness', 'fear'}
+نیش: {'anger', 'negative', 'fear'}
+خارش دار: {'negative'}
+صبر کن: {'disgust', 'negative', 'anticipation'}
+استنتاج: {'sadness', 'negative', 'fear'}
+سهام: {'negative'}
+ربوده شده: {'anger', 'negative'}
+معده: {'disgust'}
+سنگسار: {'negative'}
+توقف: {'negative'}
+فروشگاه: {'positive', 'anticipation'}
+طوفانی: {'negative', 'fear'}
+ساده: {'positive', 'trust'}
+تنش: {'anger', 'negative'}
+تنگه: {'negative', 'fear'}
+رشته: {'negative'}
+غریبه: {'negative', 'fear'}
+خفه شدن: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+استراتژیک: {'positive'}
+استراتژیست: {'positive', 'trust', 'anticipation'}
+منحرف شدن: {'negative'}
+تختخواب: {'sadness', 'fear'}
+قابل توجه، برجسته، موثر: {'positive'}
+نوار: {'sadness', 'negative'}
+تکه تکه شده: {'anger', 'fear', 'anticipation', 'disgust', 'negative', 'sadness'}
+سکته مغزی: {'sadness', 'negative', 'fear'}
+ساختاری: {'trust'}
+ساختار: {'positive', 'trust'}
+تقلا: {'sadness', 'anger', 'negative', 'fear'}
+گل میخ: {'positive'}
+مطالعه: {'positive'}
+تلو تلو خوردن: {'negative'}
+خیره شدم: {'surprise', 'negative', 'fear'}
+مانده است: {'negative'}
+حماقت: {'negative'}
+استوپ: {'negative'}
+محکم: {'positive'}
+ژانویه: {'disgust', 'negative'}
+زیر پا گذاشتن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+موضوع: {'negative'}
+تحت پوشش: {'sadness', 'negative'}
+تحت تعقیب: {'negative'}
+تعبیر: {'positive', 'joy'}
+ارسال: {'anticipation'}
+تابع: {'negative', 'fear'}
+احضار: {'negative'}
+اشتراک در: {'anticipation'}
+فروپاشی: {'sadness', 'negative'}
+یارانه: {'disgust', 'anger', 'negative'}
+زیرمجموعه: {'negative'}
+مواد: {'positive'}
+مادی: {'positive'}
+تفریق کردن: {'negative'}
+موفق باش: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+موفقیت: {'positive', 'joy', 'trust', 'anticipation'}
+موفقیت آمیز: {'positive', 'joy', 'trust', 'anticipation'}
+مختصر: {'positive'}
+شاداب: {'positive', 'negative'}
+مکیدن: {'negative'}
+مکنده: {'anger', 'negative'}
+ناگهانی: {'surprise'}
+رنج بردن: {'negative'}
+رنج می برم: {'sadness', 'negative', 'fear'}
+کافی بودن: {'positive'}
+خفه کننده: {'disgust', 'negative', 'sadness', 'fear'}
+قند: {'positive'}
+پیشنهاد می دهد: {'trust'}
+خودکشی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+خودکشی کردن: {'sadness', 'anger', 'negative', 'fear'}
+سلطانه: {'fear'}
+چاه کن: {'disgust'}
+آفتاب: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+تابش خورشید: {'trust', 'anticipation'}
+غرق شده: {'disgust', 'negative', 'sadness', 'fear'}
+آفتابی: {'positive', 'joy', 'surprise', 'anticipation'}
+غروب خورشید: {'positive', 'anticipation'}
+عالی: {'positive'}
+سطحی: {'negative'}
+فوق العاده انسان: {'positive'}
+برتر: {'positive'}
+سوپرمن: {'positive', 'joy', 'trust'}
+خرافات: {'positive', 'anticipation', 'negative', 'fear'}
+تدارکات: {'positive'}
+عرضه: {'positive'}
+پشتیبانی: {'positive'}
+حمایت کننده: {'positive', 'joy', 'trust'}
+حمایت از: {'positive', 'trust'}
+هزینه اضافه: {'anger', 'negative'}
+ضامن: {'positive', 'trust'}
+افزایش: {'surprise'}
+عمل جراحی: {'sadness', 'fear'}
+فرومایگی: {'disgust', 'anger', 'negative'}
+برآورده شدن: {'positive'}
+فراتر رفتن: {'positive'}
+غافلگیر شدن: {'surprise'}
+جایگزین: {'trust'}
+احاطه: {'positive', 'negative', 'anticipation'}
+نقشه برداری: {'positive'}
+تعلیق: {'surprise', 'fear', 'negative', 'anticipation'}
+سواب: {'negative'}
+ازدحام: {'disgust'}
+سواستیکا: {'anger', 'negative', 'fear'}
+عرق کردن: {'fear'}
+شیرین: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+ورم: {'negative', 'fear'}
+جیغ کشیدن: {'disgust', 'negative'}
+شنا کردن: {'positive', 'joy', 'fear', 'anticipation'}
+متورم: {'negative'}
+نمادین: {'positive'}
+متقارن: {'positive'}
+تقارن: {'positive', 'joy', 'trust'}
+همدردی کردن: {'sadness'}
+ابراز همدردی: {'positive', 'sadness'}
+سمفونی: {'positive', 'joy', 'anticipation'}
+همگام سازی کنید: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+سنکوپ: {'sadness', 'surprise', 'negative', 'fear'}
+همرنگ: {'positive', 'trust'}
+همدان: {'positive', 'trust'}
+مترادف: {'positive', 'trust', 'negative', 'fear'}
+سرنگ: {'fear'}
+سیستم: {'trust'}
+تابو: {'disgust', 'negative', 'fear'}
+tabulate: {'anticipation'}
+برخورد با: {'surprise', 'anger'}
+تاکتیک: {'positive'}
+تاکتیک ها: {'trust', 'fear'}
+چنین: {'positive'}
+صحبت: {'positive'}
+پاشنه: {'anger', 'negative', 'fear'}
+پشت سر هم: {'trust'}
+درهم: {'negative'}
+برنزه: {'positive'}
+معادل: {'trust'}
+تداخل: {'negative'}
+تعرفه: {'disgust', 'anger', 'negative'}
+طعم و مزه: {'positive'}
+بی مزه: {'disgust', 'negative'}
+خوش طعم: {'positive'}
+تدریس کنید: {'positive', 'joy', 'surprise', 'trust'}
+کسی را دست انداختن: {'sadness', 'anger', 'negative', 'anticipation'}
+فن آوری: {'positive'}
+نوجوانان: {'positive', 'negative'}
+معتدل: {'trust'}
+وسوسه: {'negative'}
+سر سخت: {'positive'}
+اجاره: {'positive'}
+مستاجر: {'positive'}
+مناقصه: {'positive', 'joy', 'trust'}
+آپارتمان: {'negative'}
+پایانه: {'sadness', 'negative', 'fear'}
+خاتمه دادن: {'sadness', 'negative'}
+موریانه: {'disgust', 'negative'}
+تروریسم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+تروریست: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ترور کردن: {'sadness', 'anger', 'negative', 'fear'}
+عهدنامه: {'trust', 'anticipation'}
+تانتوموس: {'disgust', 'negative'}
+شکرگذاری: {'positive', 'joy'}
+تئوریسم: {'disgust', 'negative'}
+دینی: {'anger', 'fear', 'negative', 'sadness', 'trust'}
+الهیات: {'trust', 'anticipation'}
+قضیه: {'trust'}
+تئوری: {'trust', 'anticipation'}
+درمانی: {'positive', 'joy', 'trust'}
+درمان های: {'positive'}
+ترموکوپل: {'anticipation'}
+دماسنج: {'trust'}
+متفکر: {'positive', 'trust'}
+تشنگی: {'sadness', 'surprise', 'anticipation'}
+تشنه: {'negative'}
+سیزدهم: {'fear'}
+خار: {'negative'}
+فکر: {'anticipation'}
+اندیشه: {'positive'}
+بی فکری: {'disgust', 'anger', 'negative'}
+تهدید کن: {'fear', 'anger', 'negative', 'anticipation'}
+تهدید کننده: {'disgust', 'anger', 'negative', 'fear'}
+پر رونق: {'positive', 'joy', 'anticipation'}
+تخت پادشاهی: {'positive', 'trust'}
+دریچه گاز: {'anger', 'negative'}
+غلغلک دادن: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+تیف: {'anger', 'negative'}
+سفت کن: {'anger'}
+کاشی کاری: {'positive'}
+به موقع: {'positive'}
+ترسو بودن: {'fear', 'negative', 'anticipation'}
+تیراد: {'disgust', 'anger', 'negative'}
+عنوان: {'positive', 'trust'}
+تست: {'positive', 'joy'}
+تنباکو: {'negative'}
+مشاعره: {'negative'}
+تحمل پذیر: {'positive'}
+تحمل كردن: {'sadness', 'anger', 'negative'}
+آرامگاه: {'sadness'}
+دندان درد: {'negative', 'fear'}
+پاره شده: {'negative'}
+گردباد: {'negative', 'fear'}
+اژدر: {'anger', 'negative'}
+تورنت: {'fear'}
+کیک: {'negative'}
+جنجالی: {'anger', 'positive', 'joy', 'disgust', 'negative'}
+لمس کرد: {'negative'}
+برج: {'positive'}
+سموم: {'negative', 'fear'}
+سنتی: {'positive'}
+تراژدی: {'sadness', 'negative', 'fear'}
+خائن: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ولگرد: {'disgust', 'negative', 'sadness', 'fear'}
+ترنس: {'negative'}
+متعالی: {'positive'}
+رونوشت: {'trust'}
+گذار: {'anticipation'}
+ترجمه: {'trust'}
+ترسیم: {'negative'}
+تله ها: {'negative'}
+زباله ها: {'disgust', 'negative', 'sadness'}
+پس از سانحه: {'sadness', 'anger', 'negative', 'fear'}
+مسافرت: {'positive'}
+خائنانه: {'disgust', 'anger', 'negative', 'fear'}
+تردمیل: {'anticipation'}
+گنج: {'positive', 'joy', 'trust', 'anticipation'}
+خزانه دار: {'trust'}
+درمان شود: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+درخت: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'disgust', 'trust'}
+روند: {'positive'}
+مرسوم، مد روز: {'positive'}
+شاخه: {'positive', 'anticipation'}
+فوت و فن: {'surprise', 'negative'}
+حیله گری: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+کم بها: {'negative'}
+ترمز: {'positive'}
+پیروزی: {'positive', 'joy', 'trust', 'anticipation'}
+ترول: {'anger', 'negative', 'fear'}
+آتش بس: {'positive', 'joy', 'trust'}
+درست است: {'positive', 'joy', 'trust'}
+ترامپ: {'surprise'}
+شیپور: {'negative'}
+تراس: {'trust'}
+تومور: {'sadness', 'negative', 'fear'}
+دوقلو: {'positive'}
+چشمک زدن: {'positive', 'joy', 'anticipation'}
+تافون: {'negative', 'fear'}
+استبدادی: {'disgust', 'anger', 'negative', 'fear'}
+زشتی: {'disgust', 'negative', 'sadness', 'fear'}
+زشت: {'disgust', 'negative'}
+زخم: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+متعاقبا: {'negative'}
+نهایی: {'sadness', 'anticipation'}
+در نهایت: {'positive', 'anticipation'}
+اولتیماتوم: {'anger', 'negative', 'fear'}
+غیر قابل قبول است: {'sadness', 'negative'}
+غیرقابل پذیرش: {'anticipation', 'disgust', 'negative', 'sadness', 'trust'}
+غیرقابل شناختن: {'sadness'}
+یکپارچگی: {'positive'}
+یکنفر: {'positive'}
+غیر منتظره: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'negative'}
+تایید نشده: {'negative'}
+انعطاف پذیر: {'positive'}
+unattached: {'negative'}
+غیر جذاب: {'disgust', 'negative', 'sadness'}
+اجتناب ناپذیر: {'negative'}
+غافل: {'negative'}
+بی اعتقادی: {'negative'}
+باور نکردنی: {'negative'}
+تولد نوزاد: {'negative'}
+غیر قابل شکستن: {'positive'}
+unbridled: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'negative'}
+نا معلوم: {'surprise', 'anger', 'fear', 'disgust', 'negative'}
+قابل تغییر نیست: {'negative'}
+خلاف قانون اساسی: {'negative'}
+بدون محدودیت: {'positive', 'joy'}
+غیر قابل کنترل: {'surprise', 'anger', 'anticipation', 'disgust', 'negative'}
+کنترل نشده: {'negative'}
+برملا کردن: {'surprise'}
+تصمیم گرفتم: {'fear', 'negative', 'anticipation'}
+دست کم گرفتن: {'surprise'}
+برجسته کردن: {'positive'}
+تضعیف شد: {'negative'}
+کم هزینه: {'sadness', 'anger', 'negative'}
+کم عمق: {'negative'}
+فهم: {'positive', 'trust'}
+مقاطعه کار کفن ودفن: {'sadness'}
+تحت پوشش قرار دادن: {'positive', 'trust'}
+نامطلوب: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ناخواسته: {'sadness', 'surprise', 'negative'}
+ناشناخته: {'anticipation'}
+کشف نشده: {'surprise'}
+تقسیم نشده: {'positive'}
+بی تدبیری: {'sadness', 'negative'}
+بیکار: {'sadness', 'negative', 'fear'}
+به وضوح: {'positive'}
+بر خلاف انتظار: {'surprise'}
+ناشناخته است: {'sadness', 'negative', 'anticipation'}
+غیر منصفانه: {'disgust', 'anger', 'negative', 'sadness'}
+بي وفا: {'disgust', 'negative'}
+ناتمام: {'negative'}
+باز کردن: {'positive', 'anticipation'}
+پیش بینی نشده: {'surprise'}
+غیر دوستانه: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+ناسپاس: {'disgust', 'anger', 'negative'}
+محافظت نشده: {'surprise', 'negative'}
+ناسالم: {'disgust', 'negative', 'sadness', 'fear'}
+وحدت: {'positive', 'joy', 'trust', 'anticipation'}
+یکنواخت: {'positive'}
+غیر قابل تصور است: {'surprise', 'anger', 'fear', 'positive', 'disgust', 'negative'}
+بی اهمیت: {'sadness', 'negative'}
+unimpressed: {'negative'}
+بهبود یافته نیست: {'negative'}
+غیر عفونی: {'positive'}
+بی اطلاع: {'negative'}
+uninitiated: {'negative'}
+نا امید کننده: {'sadness', 'anger', 'negative'}
+غیر عمدی: {'surprise'}
+غیر عمد: {'surprise'}
+بی علاقه: {'sadness', 'negative'}
+ناخوانده: {'sadness'}
+منحصر بفرد: {'positive', 'surprise'}
+unison: {'positive'}
+واحد: {'positive'}
+دانشگاه: {'positive', 'anticipation'}
+غیر قابل اثبات: {'disgust', 'anger', 'negative', 'fear'}
+نامعقول: {'negative'}
+عجیب نیست: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+غیرقانونی: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+بدون مجوز: {'negative'}
+نامحدود: {'positive'}
+بد شانس: {'anger', 'fear', 'disgust', 'negative', 'sadness'}
+غیر رسمی: {'negative'}
+بدون پرداخت هزینه: {'sadness', 'anger', 'negative'}
+بی سابقه: {'surprise'}
+غیر قابل پیش بینی: {'surprise', 'negative'}
+آماده نیست: {'negative'}
+بی تکلف: {'positive'}
+سودآور نیست: {'negative'}
+منتشر نشده است: {'sadness', 'negative', 'anticipation'}
+بدون تردید: {'positive', 'trust', 'negative'}
+غیر قابل اعتماد: {'anger', 'trust', 'negative'}
+حل نشده: {'anticipation'}
+نا آرام: {'sadness', 'fear'}
+بی ادبانه: {'disgust', 'anger', 'negative', 'fear'}
+نا امید: {'positive'}
+خودخواهانه: {'positive'}
+ساده نیست: {'negative'}
+غیر قابل توصیف: {'negative', 'fear'}
+ناپایدار: {'surprise', 'negative', 'fear'}
+ناپایا: {'fear'}
+ناموفق: {'sadness', 'negative'}
+unsung: {'negative'}
+پشتیبانی نشده: {'negative'}
+unsustainable: {'negative'}
+بدون عنوان: {'sadness', 'negative'}
+تأیید نشده: {'anticipation'}
+بدون شستشو: {'disgust', 'negative'}
+نالایق: {'disgust', 'negative'}
+بالا رفتن: {'positive', 'fear', 'negative', 'anticipation'}
+urchin: {'negative'}
+فوریت: {'surprise', 'fear', 'anticipation'}
+فوری: {'surprise', 'fear', 'negative', 'anticipation'}
+urn: {'sadness'}
+مفید بودن: {'positive'}
+بلا استفاده: {'negative'}
+راننده: {'positive', 'trust'}
+غصب: {'anger', 'negative'}
+غصب کرد: {'anger', 'negative', 'fear'}
+ربا بودن: {'negative'}
+ابزار: {'positive'}
+utopian: {'positive', 'joy', 'trust', 'anticipation'}
+جای خالی: {'negative'}
+واکسن: {'positive'}
+بیهوده: {'disgust', 'negative', 'sadness'}
+ارزش: {'positive', 'trust'}
+با ارزش: {'positive', 'disgust', 'negative'}
+برنده شدن: {'surprise', 'anticipation', 'positive', 'disgust', 'joy', 'sadness', 'trust'}
+متغیر: {'surprise'}
+واریسلا: {'disgust', 'negative', 'sadness', 'fear'}
+واریس: {'negative'}
+گوشت گوساله: {'sadness', 'trust'}
+رویشی: {'disgust', 'negative', 'sadness'}
+با احترام: {'positive', 'joy', 'trust', 'anticipation'}
+باد: {'anger'}
+راستی: {'surprise', 'anticipation', 'positive', 'joy', 'trust'}
+سرده: {'positive'}
+به راستی: {'positive', 'trust'}
+جارو برقی: {'positive', 'joy'}
+در مقابل: {'anger', 'negative'}
+واژینال: {'disgust'}
+کهنه سرباز: {'positive', 'trust'}
+وتو: {'anger', 'negative'}
+ویکتور: {'positive', 'trust'}
+معاون: {'negative'}
+شریر، بدجنس، حیوان صفت: {'disgust', 'anger', 'negative'}
+قربانی: {'surprise', 'anger', 'fear', 'disgust', 'negative', 'sadness'}
+پیروز: {'positive', 'joy'}
+هوشیار: {'positive', 'trust', 'fear'}
+نیرومند: {'positive', 'trust'}
+روستایی: {'positive', 'trust'}
+تبرئه کردن: {'anger'}
+واجد شرایط است: {'positive'}
+جنجال برانگیز: {'disgust', 'anger', 'negative'}
+ادم خائن و بدنهاد: {'negative', 'fear'}
+باکره: {'positive', 'trust'}
+بکارت: {'positive', 'anticipation'}
+فضیلت: {'positive', 'joy', 'trust'}
+ویروس: {'negative'}
+بازدید کنید: {'positive'}
+دیدار: {'negative'}
+بازدید کننده: {'positive', 'joy', 'anticipation'}
+چشمه: {'surprise', 'anticipation'}
+سرزندگی: {'positive', 'joy', 'trust'}
+واژگان: {'positive'}
+آتشفشان: {'surprise', 'negative', 'fear'}
+داوطلب: {'fear', 'anticipation', 'positive', 'joy', 'trust'}
+داوطلبان: {'trust'}
+استفراغ: {'disgust', 'negative'}
+وودو: {'negative'}
+رای: {'surprise', 'anger', 'anticipation', 'positive', 'joy', 'negative', 'sadness', 'trust'}
+کوپن: {'trust'}
+بدگمانی: {'disgust', 'anger', 'negative', 'sadness'}
+آسیب پذیری: {'sadness', 'negative', 'fear'}
+کرکس: {'disgust', 'negative', 'fear'}
+وفل: {'sadness', 'anger', 'negative'}
+دستمزد: {'positive', 'joy'}
+بیدار شدن: {'sadness', 'negative', 'fear'}
+آنها: {'sadness', 'negative', 'fear'}
+میخواهم: {'sadness', 'negative'}
+جنگ: {'sadness', 'anger', 'negative', 'fear'}
+کالا: {'negative', 'fear'}
+جنگی: {'anger', 'negative', 'fear'}
+کلاه قرمزی: {'fear'}
+هشدار بده: {'surprise', 'fear', 'anticipation', 'negative', 'trust'}
+هشدار داد: {'surprise', 'fear', 'anticipation'}
+پیچش: {'sadness', 'anger', 'negative'}
+پیچ خورده: {'negative'}
+ضمانتنامه: {'positive', 'trust'}
+جنگجو: {'positive', 'anger', 'fear'}
+هدر رفته: {'disgust', 'anger', 'negative'}
+اتلاف: {'disgust', 'negative', 'sadness', 'fear'}
+تماشا کردن: {'fear', 'anticipation'}
+ضدآب: {'positive'}
+آبدار: {'negative'}
+پوشیدن: {'trust', 'negative'}
+ضد آب: {'positive'}
+علف های هرز: {'sadness', 'negative'}
+اشک ریختن: {'sadness', 'negative'}
+وزن کن: {'trust', 'anticipation'}
+وزن: {'surprise', 'fear', 'anticipation', 'positive', 'joy', 'disgust', 'negative', 'sadness', 'trust'}
+وزن زیاد: {'fear'}
+استقبال شد: {'positive', 'joy'}
+ون: {'negative'}
+هوس: {'joy', 'surprise', 'negative', 'anticipation'}
+ساندویچ: {'sadness', 'fear'}
+ناله کردن: {'disgust', 'negative', 'sadness'}
+گرداب: {'fear'}
+ویسکی: {'negative'}
+سفید بودن: {'positive', 'joy'}
+شرور: {'negative', 'fear'}
+شرارت: {'disgust', 'negative'}
+ویکت: {'positive'}
+بطور گسترده: {'positive'}
+بیوه: {'sadness'}
+بیابان: {'sadness', 'fear', 'anticipation'}
+مشروع: {'sadness', 'anger', 'negative'}
+تمایل: {'positive'}
+WIMP: {'disgust', 'negative', 'fear'}
+برنده: {'positive', 'joy', 'surprise', 'anticipation'}
+بی سیم: {'positive', 'surprise', 'anger', 'anticipation'}
+وای: {'fear', 'positive', 'disgust', 'negative', 'sadness'}
+حکمت: {'positive', 'trust'}
+عاقل: {'positive'}
+آرزو داشتم: {'anticipation'}
+کنار کشیدن: {'sadness', 'negative'}
+شاهد: {'trust'}
+رحم: {'positive'}
+عالی بود: {'positive', 'joy', 'surprise'}
+خوبه: {'anticipation'}
+ووپ: {'anger'}
+کلمه: {'positive', 'trust'}
+کار کردن: {'positive'}
+پوشیده: {'sadness', 'negative'}
+نگرانم: {'sadness', 'negative'}
+نگرانی: {'sadness', 'fear', 'negative', 'anticipation'}
+بدتر: {'sadness', 'negative', 'fear'}
+بدتر شدن: {'disgust', 'negative', 'sadness'}
+بی ارزش: {'disgust', 'anger', 'negative', 'sadness'}
+wot: {'positive', 'trust'}
+آچار: {'negative'}
+چروک خورده: {'sadness'}
+ساخته شده است: {'negative'}
+بیگانه بودن: {'negative', 'fear'}
+خمیازه: {'negative'}
+زرد: {'negative'}
+جوان: {'positive', 'joy', 'surprise', 'anticipation'}
+جوانتر: {'positive'}
+جوانان: {'surprise', 'anger', 'fear', 'anticipation', 'positive', 'joy'}
+زانی: {'surprise'}
+زیپ: {'negative'}
