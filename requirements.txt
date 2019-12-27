@@ -6,3 +6,6 @@ google-cloud-translate
 oauth2
 pycurl
 twython
+jupyterlab
+jsonschema
+pathlib2

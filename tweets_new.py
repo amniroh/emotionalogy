@@ -4,13 +4,7 @@ from twython import Twython
 import json
 import hashlib
 import logging
-# import pandas as pd
-logging.basicConfig(
-    filename="status",
-    level=logging.INFO,
-    format="%(asctime)s:%(levelname)s:%(message)s"
-    )
-
+import sys
 
 
 
@@ -18,10 +12,21 @@ logging.basicConfig(
 ## python tweets_new.py file_name verbose
 
 # Instantiate an object
-consumer_key = 'YOUR_KEY'
-consumer_secret = 'YOUR_SECRET'
+with open('creds.json') as f:
+	creds = json.load(f)
+#consumer_key = 'ksNYIZATik6GsTTAGlIDpfcZH'
+#consumer_secret = '1kMEmM6oPnHnO87MablmdGTVI2Ji1JDIp0mE6KGanfNIgMWciW'
+language = sys.argv[1]
 
-python_tweets = Twython(consumer_key, consumer_secret)
+python_tweets = Twython(creds['consumer_key'], creds['consumer_secret'])
+
+# import pandas as pd
+logging.basicConfig(
+    filename="/home/ali/workspace/emotionalogy/status/status_" + language,
+    level=logging.INFO,
+    format="%(asctime)s:%(levelname)s:%(message)s"
+    )
+
 
 # Create our query
 limit = 100000
@@ -73,23 +78,25 @@ def results(query, count=limit, lang='fa'):
 
 
 for emotion, emoji in smileys.items():
+    path = '/home/ali/workspace/data/' + language + '/'  + emotion + '.json'
     try:
-        with open('data/' + emotion + '.json', 'r') as f:
+        with open(path, 'r') as f:
             past_data = json.load(f)
     except FileNotFoundError:
         past_data = {}
-    data = results(emoji)
+    data = results(emoji,lang=language)
 
-    with open('data/' + emotion + '.json', 'w') as f:
+    with open(path, 'w') as f:
         num_updates = len(data.keys() - past_data.keys())
         num_past = len(past_data)
         past_data.update(data)
         json.dump(past_data, f)
         logging.info(
-            "{emotion} before updates {past}, updated with {new}".format(
+            "{emotion} for {lang} before updates {past}, updated with {new}".format(
                 emotion=emotion,
                 past=num_past,
-                new=num_updates
+                new=num_updates,
+                lang=language
             )
         )
 #    if len(past_data) > 0 :
