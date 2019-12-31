@@ -3,9 +3,12 @@ GoogleFreeTrans
 translation
 py-translate
 google-cloud-translate
+google-cloud-language
 oauth2
 pycurl
 twython
 jupyterlab
 jsonschema
 pathlib2
+numpy
+pandas
