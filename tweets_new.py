@@ -14,8 +14,6 @@ import sys
 # Instantiate an object
 with open('creds.json') as f:
 	creds = json.load(f)
-#consumer_key = 'ksNYIZATik6GsTTAGlIDpfcZH'
-#consumer_secret = '1kMEmM6oPnHnO87MablmdGTVI2Ji1JDIp0mE6KGanfNIgMWciW'
 language = sys.argv[1]
 
 python_tweets = Twython(creds['consumer_key'], creds['consumer_secret'])
